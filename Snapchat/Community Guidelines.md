@@ -224,7 +224,7 @@ Hateful Content, Terrorism, and Violent Extremism
 
 -----------------------------------------------------
 
-[Read Next](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism)
+[Learn More](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism)
 
 - - -
 
