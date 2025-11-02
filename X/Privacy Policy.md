@@ -328,3 +328,17 @@ If you wish to raise a concern about our [data processing practices](https://hel
 **Effective:** July 28, 2025
 
 [View previous policies](https://x.com/privacy/previous)
+
+- - -
+
+X, our services, and corporate affiliates
+=========================================
+
+We offer X and other services in order to give everyone the power to create and share ideas and information instantly, without barriers.
+
+Some of our services, like [X Pro](https://tweetdeck.twitter.com/), provide you with tools to customize and curate your X experience. Other services may enable experiences outside of X. These services link to and are covered by our [Privacy Policy](https://twitter.com/privacy), which describes how and when they collect, use and share your information. When these services that are covered by our [Privacy Policy](https://twitter.com/privacy) have additional privacy terms specific to them, we tell you that through the service. 
+
+We also operate companies that provide services under their own separate terms and privacy policies. For more on our corporate affiliates and their privacy practices, please see the links below to their privacy policies:
+
+*   [Vine Archive](https://vine.co/privacy)
+*   [Twitpic Archive](https://twitpic.com/static/privacy)
