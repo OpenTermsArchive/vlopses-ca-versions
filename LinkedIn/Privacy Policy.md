@@ -433,3 +433,25 @@ Table of Contents
     #### Consent
     
     Where we process data based on consent, we will ask for your explicit consent. You may withdraw your consent at any time, but that will not affect the lawfulness of the processing of your personal data prior to such withdrawal. Where we rely on contract, we will ask that you agree to the processing of personal data that is necessary for entering into or performance of your contract with us. We will rely on legitimate interests as a basis for data processing where the processing of your data is not overridden by your interests or fundamental rights and freedoms.
+
+- - -
+
+Quebec’s Privacy Legislation Modernization Act Privacy Addendum
+
+([Français](https://privacy.linkedin.com/fr-fr/quebec))
+
+This Quebec Privacy Addendum (“Addendum”) provides additional disclosures required by the Privacy Legislation Modernization Act (the “Act”). This Addendum should be read in conjunction with our [Privacy Policy](https://www.linkedin.com/legal/privacy-policy), which describes LinkedIn’s practices regarding the collection, use and sharing of personal data of our members. Certain requirements under the Act will become effective on a rolling basis through September 22, 2024. You can read more about the Act and the timeline for its implementation by visiting the [Commission D'accès à l'information website](https://www.cai.gouv.qc.ca/espace-evolutif-modernisation-lois/).
+
+The Act’s goals and key requirements are consistent with LinkedIn's longstanding commitment to data protection, transparency and member control. This Addendum describes certain information that the Act requires businesses to provide to Quebec residents, namely, LinkedIn’s practices in the following key areas:
+
+**Data Transfer**: We may access, store and otherwise process personal data outside of Quebec, including, for example, in the United States.
+
+**Processing of Data**: We may process your data and the actions that you take on our platform to better understand your preferences and interests so that we can provide you with a more personalized experience. You can find more information about the data that we collect and how we use your data by visiting our [Privacy Policy](https://www.linkedin.com/legal/privacy-policy). You can manage how your information is used and the visibility of your data at any time by visiting your [Settings & Privacy](https://www.linkedin.com/psettings/data-privacy/).
+
+**Data Protection and Your Rights**: In compliance with the Act, LinkedIn has appointed a data protection officer (“DPO”) and maintains internal policies and procedures for the protection of personal data, including:
+
+*   designated roles and responsibilities for the handling of personal data in our custody and control; 
+*   processes for responding to questions, requests and complaints; and
+*   a policy for the retention and destruction of data that is designed to ensure compliance with our legal obligations. 
+
+To learn more about how we protect your data, and your data privacy rights, please see our [Privacy Policy](https://www.linkedin.com/legal/privacy-policy).  If you’d like to request a copy of your LinkedIn data, the easiest and fastest way to do so is to initiate a data download from your [Settings & Privacy](https://www.linkedin.com/psettings/data-privacy/) page. For more information about how to request access to your data, check out this [article](https://www.linkedin.com/help/linkedin/answer/50191).  For any additional concerns, you may [contact our DPO here](https://www.linkedin.com/help/linkedin/ask/TSO-DPO) or by emailing [DPO@LinkedIn.com](mailto:DPO@LinkedIn.com).
