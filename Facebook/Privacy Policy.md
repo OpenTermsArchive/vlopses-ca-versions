@@ -21,10 +21,9 @@ Explore the policy
 -------------------------------------](#8)[How do we transfer information?
 -------------------------------](#9)[How do we respond to legal requests, comply with applicable law and prevent harm?
 ---------------------------------------------------------------------------------](#10)[How will you know the Policy has changed?
------------------------------------------](#11)[Privacy notice for United States residents
-------------------------------------------](#12)[How to contact Meta with questions
-----------------------------------](#13)[Why and how we process your information
----------------------------------------](#14)
+-----------------------------------------](#11)[How to contact Meta with questions
+----------------------------------](#12)[Why and how we process your information
+---------------------------------------](#13)
 
 Other policies[Terms of Service
 ----------------](https://mbasic.facebook.com/terms/)[Cookies Policy
@@ -35,8 +34,6 @@ What is the Privacy Policy and what does it cover?
 ==================================================
 
 Effective June 16, 2025
-
-Read the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso/) for more details about how we handle Personal Information and how to exercise your rights.
 
 Highlights
 ----------
@@ -1238,7 +1235,7 @@ To exercise your rights, visit our Help Centers, your settings for Facebook and 
 
 [](#annotation-63)[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-12%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0)[](#annotation-64)
 
-You can learn more about how privacy works on [Facebook](https://www.facebook.com/privacy/center/) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp), and in the [Facebook Help Center](https://www.facebook.com/help/). If you have questions about this policy, you can [contact us](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
+You can learn more about how privacy works on [Facebook](https://www.facebook.com/privacy/center/) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp), and in the [Facebook Help Center](https://www.facebook.com/help/). If you have questions about this policy, you can [contact us](https://www.facebook.com/help/contact/507739850846588) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
 
 62
 
@@ -1521,11 +1518,6 @@ How will you know the Policy has changed?
 =========================================
 
 We'll notify you before we make material changes to this Policy. You’ll have the opportunity to review the revised Policy before you choose to continue using our Products.
-
-Privacy notice for United States residents
-==========================================
-
-You can learn more about the consumer privacy rights that may be available to you by reviewing the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso).
 
 How to contact Meta with questions
 ==================================
