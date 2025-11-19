@@ -267,6 +267,13 @@ To the extent permitted by applicable law, the following supplemental terms shal
 *   **Limitation of Liabilities.** No limitation of liabilities set out in Section 10 (Limitation of Liability) above shall not be applicable to the extent any loss or damage is incurred by you as a result of our willful misconduct or negligence.
 *   **Age Limit.** The Services are only for people 14 years old and over in Indonesia.
 *   **Language.** These Terms has been prepared in the English language and Indonesian language. In the event of any inconsistency or different interpretation between the English text and Indonesian text, the English text shall prevail and the relevant Indonesian text shall be deemed to be automatically amended to conform with and to make the relevant Indonesian text consistent with the relevant English text. Each party acknowledges that it has read these Terms and understands its content and that these Terms have been entered into freely and without duress. You acknowledge that you fully understand the language and the content of these Terms, and you agree that you will not use the provisions under Law of the Republic of Indonesia No. 24 of 2009 on Flag, Language, State Emblem and National Anthem or any of its implementing regulations to invalidate these Terms.
+*   **_Reports/Complaints -_** _Further reporting/complaints resources on TikTok:_
+
+_[https://www.tiktok.com/legal/report/feedback](https://www.tiktok.com/legal/report/feedback)_
+
+_Directorate General of Consumer Protection and Trade Order, Ministry of Trade, Republic of Indonesia_
+
+_WhatsApp: (+62) 853 1111 101_
 
 **United Arab Emirates.** If you are using our Services in the United Arab Emirates (“**UAE**”), the following additional terms shall apply. In the event of any conflict between the following additional terms and the provisions of the main body of these Terms, the following terms shall prevail.
 
