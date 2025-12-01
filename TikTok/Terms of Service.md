@@ -4,7 +4,7 @@ Terms of Service
 
 (If you are not in the US, EEA, the United Kingdom, Switzerland or India)
 
-_Last updated: February 2021_
+_Last updated: 1 December 2025_
 
   
 
@@ -260,6 +260,10 @@ To the extent permitted by applicable law, the following supplemental terms shal
 
 *   User–Generated Content. You hereby irrevocably waive any right to raise any objection or other claim before any authority including any copyright board in relation to the rights granted and licensed to us under these Terms, including any right under the provisions of section 30A of the (Indian) Copyright Act, 1957 or other applicable law. The above waiver is granted by you in favour of TikTok and all of its group companies, affiliates and successors in title and interest, whether existing or in future.
 *   Indemnity. In the event you are required to indemnify us pursuant to these Terms or any order or ruling of a court of law, you will obtain all necessary approvals and consents from regulatory authorities for the remittance of such amount to us.
+
+**Indonesia, Malaysia, Thailand, Singapore, Vietnam, and the Philippines.** If you are using our Services in Indonesia, Malaysia, Thailand, Singapore, Vietnam, and the Philippines, the following additional terms apply. In the event of any conflict between the following additional terms and the provisions of the main body of these Terms, the following terms shall prevail.
+
+*   You may not use the Services, without our express written consent, for any commercial or unauthorized purpose, including communicating or facilitating any commercial advertisement or promotion of products or services offered, for sale or otherwise, whether on the Platform or on sites or platforms hosted by third parties (including via third party e-commerce platforms), or solicitation or spamming. Notwithstanding anything in this clause, insofar as we have given our express written consent for your use of the Services for commercial purposes, you are allowed to download or otherwise copy your User Content (but not any other content in the Services) to facilitate commercial advertisement or promotion of products or services offered on sites or platforms hosted by third parties. However, you may not authorise any third party to download or copy your User Content on your behalf for such purposes.
 
 **Indonesia.** If you are using our Services in Indonesia, the following additional terms apply. In the event of any conflict between the following additional terms and the provisions of the main body of these Terms, the following terms shall prevail.
 
