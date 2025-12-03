@@ -1087,6 +1087,8 @@ This content isn't allowed on YouTube:
 
 *   For more info, review our [Illegal or regulated goods or services policy](https://support.google.com/youtube/answer/9229611).
     
+    If you or someone you know is struggling with substance abuse, gambling, other addictions, or mental health challenges, help is available. You can find resources [here](https://www.samhsa.gov/).
+    
 
 Examples of harmful or dangerous content
 ----------------------------------------
@@ -1615,6 +1617,8 @@ The safety of our creators, viewers, and partners is our highest priority. We lo
 Content intended to sell certain regulated goods and services is not allowed on YouTube.
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
+
+If you or someone you know is struggling with substance abuse, gambling, other addictions, or mental health challenges, help is available. You can find resources [here](https://www.samhsa.gov/).
 
 What this policy means for you
 ------------------------------
