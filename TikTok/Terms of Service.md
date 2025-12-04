@@ -242,6 +242,19 @@ To the extent permitted by applicable law, the following supplemental terms shal
 
 ### **Supplemental Terms – Jurisdiction-Specific**
 
+**Australia.** If you are using our Services in Australia, the following additional terms apply. In the event of any conflict between the following additional terms and the provisions of the main body of these Terms, the following terms shall prevail.
+
+*   **Minimum age for accounts.** If you are ordinarily resident in Australia, you are only permitted to create or maintain an account on the Platform if you are at least 16 years of age. Individuals who are under 16 years of age are not permitted to create or maintain an account on the Platform.
+*   **Age Assurance.** We use information that we collect or infer about your age while you are logged onto your TikTok account (**Age Information**) to monitor for underage use of the Platform and we will deactivate your account if we become aware that you are under 16. You can appeal our decision if you think we should not have deactivated your account. We also use your Age Information to:
+
+*   analyse activity on, and ensure the security of, our platform, troubleshoot technical issues, and prevent and detect fraud;
+*   help to make sure that the content and ads you view are likely to be appropriate for your age;
+*   show you content that we think you will be interested in; and
+*   show you ads that we think you will be interested in.
+
+*   **Limitation of liability and disclaimer of warranties** set out in Section 4 does not exclude, restrict or modify the application of any guarantee, right or remedy that cannot so be excluded restricted or modified under applicable law, including Australian Consumer Law.
+*   **Indemnity** set out in Section 7 is deleted and substituted with: "You agree to defend, indemnify, and hold harmless TikTok, its parents, subsidiaries, and Affiliates, and each of their respective officers, directors, employees, agents and advisors from any and all claims, demands, damages, injunctions, orders, awards, settlements, losses, liabilities, liens, encumbrances, causes of action, of every kind and character, costs (including attorneys’ fees and other costs of arbitration, litigation, defense, or settlement), and expenses caused by a breach of your obligations, representations and warranties under these Terms. This provision and your indemnification obligations will survive any termination of your relationship with TikTok and the expiration or termination of these Terms, by either party."
+
 **Brazil.** If you are using our Services in Brazil, the following additional terms apply. In the event of any conflict between the following additional terms and the provisions of the main body of these Terms, the following terms shall prevail.
 
 *   Representation/assistance of parents and guardians. (i) if you are over 16 but under 18, you can only use and register an account upon the assistance of your parent or legal guardian and represents and warrants that you have obtained assistance in using the Services and agreeing to these Terms; (ii) if you have more than 13 years but less than 16 years, you can only use and register an account with the representation of your parents or legal guardians and must obtain agreement from your parents or legal guardians for your use of the Services and acceptance of these Terms.
