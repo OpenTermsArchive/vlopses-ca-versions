@@ -1149,9 +1149,9 @@ Related Articles
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 Related Articles
 
@@ -1161,9 +1161,9 @@ Related Articles
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 - - -
 
