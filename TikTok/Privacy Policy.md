@@ -193,6 +193,14 @@ If you are using the Platform in Australia, the following additional terms shall
 
 Certain entities in our corporate group, located outside of Australia, are given limited remote access to your information so that they can provide certain functions, as described in the section on "[How we share your information](#share-info)". Please see [here](https://www.tiktok.com/legal/transferee-countries-au?lang=en) for further information on the countries in which our corporate group entities which receive personal information from Australia are located.
 
+TikTok is not directed at children under the age of 16. If you believe that there is a user who is below this minimum age, please contact us at [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy).
+
+You may raise complaints, exercise your rights or seek any remedies by contacting us at [https://www.tiktok.com/legal/report/privacy](https://www.google.com/url?q=https://www.tiktok.com/legal/report/privacy&sa=D&source=editors&ust=1751814176699071&usg=AOvVaw34PMRBk3P17QRz7Zksd_Su). If you disagree with our response, you also have the right to lodge a complaint with the Office of the Australian Information Commissioner (OAIC) at:
+
+Website: [www.oaic.gov.au](https://www.oaic.gov.au/)
+
+Phone: 1300 363 992
+
 ### **Egypt**
 
 If you are using our services in Egypt, the following additional terms apply.
