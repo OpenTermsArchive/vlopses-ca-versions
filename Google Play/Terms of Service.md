@@ -160,7 +160,9 @@ Payments
 8.  Developers serving users in [eligible countries/regions](https://support.google.com/googleplay/android-developer/answer/13821247) may offer users an alternative billing system within the app if they enrol in the [applicable programme](https://support.google.com/googleplay/android-developer/topic/16471708) and agree to the additional terms and programme requirements.
     
 
-9.  Developers may lead users in eligible countries/regions outside the app [subject to program requirements](https://support.google.com/googleplay/android-developer/topic/16470499)**,** provided they enroll in the applicable program and agree to the additional terms and [program requirements](https://support.google.com/googleplay/android-developer/topic/16470499).
+  ↵
+
+9.  Developers may lead users in eligible countries/regions outside the app [subject to programme requirements](https://support.google.com/googleplay/android-developer/topic/16470499), provided that they enrol in the applicable programme and agree to the additional terms and [programme requirements](https://support.google.com/googleplay/android-developer/topic/16470499).
     
 
 **Note:** To view timelines and frequently asked questions regarding this policy, please visit our [Help Centre](https://support.google.com/googleplay/android-developer/answer/10281818).
