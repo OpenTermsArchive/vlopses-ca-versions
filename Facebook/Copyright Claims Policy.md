@@ -681,9 +681,9 @@ Related Articles
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
-
 [Your Username](https://www.facebook.com/help/1740158369563165/?helpref=related_articles)
+
+[Create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
 
 Related Articles
 
@@ -693,9 +693,9 @@ Related Articles
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
-
 [Your Username](https://www.facebook.com/help/1740158369563165/?helpref=related_articles)
+
+[Create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
 
 - - -
 
@@ -778,7 +778,7 @@ Related Articles
 
 [What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 Related Articles
 
@@ -790,7 +790,7 @@ Related Articles
 
 [What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 - - -
 
@@ -1266,9 +1266,9 @@ Related Articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
-
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
+
+[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [Reporting Copyright Infringements](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
 
@@ -1278,9 +1278,9 @@ Related Articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
-
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
+
+[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [Reporting Copyright Infringements](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
 
