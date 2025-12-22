@@ -3,7 +3,7 @@ YouTube Paid Service Terms of Service
 
 #### Effective as of September 26, 2025 ([view previous version](https://www.youtube.com/t/terms_paidservice?archive=20250812-en))
 
-#### Consultar las Condiciones del Servicio en otros idiomas: [English](https://www.youtube.com/t/terms_paidservice?hl=en&override_hl=1)
+#### View the Terms of Service in other languages: [English](https://www.youtube.com/t/terms_paidservice?hl=en&override_hl=1)
 
 Please ensure you read the YouTube Paid Service Terms of Service in full, in addition to any Additional Terms that apply to the particular Paid Service(s) you are using.
 
