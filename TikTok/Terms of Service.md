@@ -286,7 +286,8 @@ To the extent permitted by applicable law, the following supplemental terms shal
 *   **Language.** These Terms has been prepared in the English language and Indonesian language. In the event of any inconsistency or different interpretation between the English text and Indonesian text, the English text shall prevail and the relevant Indonesian text shall be deemed to be automatically amended to conform with and to make the relevant Indonesian text consistent with the relevant English text. Each party acknowledges that it has read these Terms and understands its content and that these Terms have been entered into freely and without duress. You acknowledge that you fully understand the language and the content of these Terms, and you agree that you will not use the provisions under Law of the Republic of Indonesia No. 24 of 2009 on Flag, Language, State Emblem and National Anthem or any of its implementing regulations to invalidate these Terms.
 *   **_Reports/Complaints -_** _Further reporting/complaints resources on TikTok:_
 
-_[https://www.tiktok.com/legal/report/feedback](https://www.tiktok.com/legal/report/feedback)_
+*   _[https://www.tiktok.com/legal/report/feedback](https://www.tiktok.com/legal/report/feedback)_
+*   bantuan@shop.tokopedia.com (for reports/complaints regarding e-commerce activities)
 
 _Directorate General of Consumer Protection and Trade Order, Ministry of Trade, Republic of Indonesia_
 
