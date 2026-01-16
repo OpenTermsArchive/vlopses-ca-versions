@@ -136,7 +136,7 @@ TikTok takes reasonable measures to expeditiously remove from our Services any i
 
 While our own staff is continually working to develop and evaluate our own product ideas and features, we pride ourselves on paying close attention to the interests, feedback, comments, and suggestions we receive from the user community. If you choose to contribute by sending us or our employees any ideas for products, services, features, modifications, enhancements, content, refinements, technologies, content offerings (such as audio, visual, games, or other types of content), promotions, strategies, or product/feature names, or any related documentation, artwork, computer code, diagrams, or other materials (collectively “Feedback”), then regardless of what your accompanying communication may say, the following terms will apply, so that future misunderstandings can be avoided. Accordingly, by sending Feedback to us, you agree that:
 
-i. TikTok has no obligation to review, consider, or implement your Feedback, or to return to you all or part of any Feedback for any reason;
+i. TikTok has no obligation to review, consider, or implement your Feedback, or to return to you all or part of any Feedback for any reason. For the avoidance of doubt, nothing in these Terms shall be construed as a waiver or limitation to statutory consumer rights that cannot be contractually limited under applicable laws;
 
 ii. Feedback is provided on a non-confidential basis, and we are not under any obligation to keep any Feedback you send confidential or to refrain from using or disclosing it in any way; and
 
