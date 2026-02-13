@@ -288,6 +288,7 @@ To the extent permitted by applicable law, the following supplemental terms shal
 
 *   _[https://www.tiktok.com/legal/report/feedback](https://www.tiktok.com/legal/report/feedback)_
 *   bantuan@shop.tokopedia.com (for reports/complaints regarding e-commerce activities)
+*   [support@go-id.tokopedia.com](mailto:support@go-id.tokopedia.com) (for reports/complaints regarding TikTok Go by Tokopedia activities)
 
 _Directorate General of Consumer Protection and Trade Order, Ministry of Trade, Republic of Indonesia_
 
