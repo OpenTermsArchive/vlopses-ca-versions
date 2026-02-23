@@ -222,6 +222,8 @@ _Age, Parental and Guardian Consent._ By accessing and/or using this Platform, y
 
 If you do not have consent from your parent(s) or legal guardian(s) and your parent(s) or guardian(s) is not willing to open the account under their name, you must cease accessing the Platform.
 
+_How We Share Your Personal Data._ In addition to the purposes described in “[How we share your information](#share-info)”, we may share certain of your personal data with other members, subsidiaries, or affiliates of our corporate group for the purpose of delivering an integrated, seamless, and personalized user experience across related services.
+
 _Your Choices_. You may withdraw your consent to TikTok's disclosure of personal data to third parties. Upon your request, we will cease to display, publish, transmit, disseminate, and/or open the access to your personal data to third parties. Please note that by withdrawing your consent to the disclosure and/or collection of your personal data, we may not be able to fulfill your requests and you may not be able to use some of TikTok features and functionality.
 
 You may request TikTok to (i) disclose the history of personal data that we have collected; and/or (ii) erase and dispose of your personal data that we have collected on our server. Please note that by requesting us to erase and dispose of your personal data, you may not be able to use some of TikTok’s features and functionality.
