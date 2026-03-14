@@ -433,12 +433,12 @@ Learn how to [submit a copyright or infringement report](https://help.instagram.
 
 - - -
 
-Can I report an infringement of someone else’s intellectual property on Instagram or Threads?
-=============================================================================================
+This page isn't available right now
+-----------------------------------
 
-Copy link
+This may be because of a technical error that we're working to get fixed. Try reloading this page.
 
-Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
+Reload Page
 
 - - -
 
@@ -745,12 +745,12 @@ Please note that we regularly provide the rights owner’s name, your email addr
 
 - - -
 
-Can I report an infringement of someone else’s intellectual property on Instagram or Threads?
-=============================================================================================
+This page isn't available right now
+-----------------------------------
 
-Copy link
+This may be because of a technical error that we're working to get fixed. Try reloading this page.
 
-Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
+Reload Page
 
 - - -
 
