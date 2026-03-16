@@ -287,12 +287,12 @@ To the extent permitted by applicable law, the following supplemental terms shal
 *   **_Reports/Complaints -_** _Further reporting/complaints resources on TikTok:_
 
 *   _[https://www.tiktok.com/legal/report/feedback](https://www.tiktok.com/legal/report/feedback)_
-*   bantuan@shop.tokopedia.com (for reports/complaints regarding e-commerce activities)
+*   [bantuan@shop.tokopedia.com](mailto:bantuan@shop.tokopedia.com) (for reports/complaints regarding e-commerce activities)
 *   [support@go-id.tokopedia.com](mailto:support@go-id.tokopedia.com) (for reports/complaints regarding TikTok Go by Tokopedia activities)
 
 _Directorate General of Consumer Protection and Trade Order, Ministry of Trade, Republic of Indonesia_
 
-_WhatsApp: (+62) 853 1111 101_
+_WhatsApp: (+62) 853 1111 1010_
 
 **United Arab Emirates.** If you are using our Services in the United Arab Emirates (“**UAE**”), the following additional terms shall apply. In the event of any conflict between the following additional terms and the provisions of the main body of these Terms, the following terms shall prevail.
 
