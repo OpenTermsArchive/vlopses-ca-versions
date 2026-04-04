@@ -32,68 +32,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=hc_fnav)
 
-Popular Articles
-----------------
-
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
-
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
-
-[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=popular_articles)
-
-[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=popular_articles)
-
-Popular Articles
-
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
-
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
-
-[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=popular_articles)
-
-[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=popular_articles)
-
-Related Topics
---------------
-
-[Notifications
-
-Change what you get notifications about on Facebook and decide how you get them.](https://www.facebook.com/help/1036755649750898/?helpref=related_topics)
-
-[Your Home Page
-
-Learn how Feed works, control what you see in Feed and react to posts.](https://www.facebook.com/help/753701661398957/?helpref=related_topics)
-
-[Your Privacy
-
-Learn how privacy settings help you connect and share with people you know and trust.](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
-
-[Notifications](https://www.facebook.com/help/1036755649750898/?helpref=related_topics)
-
-[Your Home Page](https://www.facebook.com/help/753701661398957/?helpref=related_topics)
-
-[Your Privacy](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
-
-*   [About](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2F%3Futm_source%3Dhelp-center%26utm_medium%3Dreferral)
-
-*   [Privacy](https://www.facebook.com/privacy/explanation/)
-
-*   [Terms and Policies](https://www.facebook.com/policies/)
-
-*   [Ad Choices](https://www.facebook.com/help/568137493302217/)
-
-*   [Careers](https://www.facebook.com/careers/)
-
-*   [Cookies](https://www.facebook.com/policies/cookies/)
-
-*   [Create Ad](https://www.facebook.com/business/)
-
-*   [Create Page](https://www.facebook.com/pages/creation/)
-
-* * *
-
-© 2026 Meta
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -472,6 +410,16 @@ What’s the difference between copyright and trademark?
 ======================================================
 
 Copy link
+
+Copyright vs trademark
+
+Protect my content
+
+My brand name
+
+Report infringement
+
+I have a different question
 
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -1658,6 +1606,16 @@ iPad App Help
 Facebook Lite App Help
 
 More
+
+Appeal content removal
+
+Contact rights owner
+
+DMCA counter-notification
+
+My content was removed
+
+I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
