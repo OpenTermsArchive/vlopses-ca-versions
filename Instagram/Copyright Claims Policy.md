@@ -37,16 +37,6 @@ If your issue isn't related to Intellectual Property, please see one of the rela
 Copyright
 =========
 
-My content was copyrighted
-
-Report copyright infringement
-
-Protect my copyrighted work
-
-What is copyright law?
-
-I have a different question
-
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram and Threads can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
@@ -200,6 +190,14 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
+
+What is copyright infringement?
+
+Can I grant permission?
+
+How to stop copying?
+
+I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
@@ -521,6 +519,14 @@ Instagram or Threads removed content as a result of your copyright report. What 
 
 Copy link
 
+What information is shared?
+
+Who sees my email?
+
+How to appeal removal?
+
+I have a different question
+
 When we receive copyright claims through our online form and remove the reported content, we typically provide the reported user with the following information:
 
 *   Report number
@@ -553,14 +559,6 @@ What happens when you submit a copyright report to Instagram or Threads
 =======================================================================
 
 Copy link
-
-My copyright report status
-
-Respond to report message
-
-Who sees my report?
-
-I have a different question
 
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
@@ -728,16 +726,6 @@ Content I posted on Instagram or Threads was removed because it was reported for
 ============================================================================================================================================
 
 Copy link
-
-My content was removed
-
-Appeal content removal
-
-Contact rights owner
-
-What is trademark infringement?
-
-I have a different question
 
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
@@ -925,6 +913,14 @@ Information you need to include in a trademark report on Instagram or Threads
 =============================================================================
 
 Copy link
+
+What is a trademark report?
+
+Where do I find URLs?
+
+Who sees my report info?
+
+I have a different question
 
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
