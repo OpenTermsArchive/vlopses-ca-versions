@@ -278,49 +278,49 @@ Have any questions about the information here or wish to contact our Data Protec
 
 Canada Privacy Notice
 
-**Effective: September 22, 2023**
+**Effective: September 22, 2023**
 
-We’ve created this notice specifically for users in Canada. Users in Canada have certain privacy rights as specified under Canadian law, including the Personal Information Protection and Electronic Documents Act (PIPEDA). [Our Privacy Principles](https://values.snap.com/privacy/privacy-center) and the privacy controls we offer to all users are in line with these laws—this notice makes sure we cover the Canada-specific requirements. For example, all users can request a copy of their data, request account deletion, and control their privacy settings in the app. For the full picture, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
+We've created this notice specifically for users in Canada. Users in Canada have certain privacy rights as specific under Canadian law, including the Personal Information Protection and Electronic Document Act (PIPEDA). [Our Privacy Principles](https://values.snap.com/privacy/privacy-center) and the privacy controls we offer to all users are in line with these laws - this notice makes sure we cover the Canada-specific requirements. For example, all users can request a copy of their data, request account deletion, and control their privacy settings in the app. For the full picture, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
 
 ### 
 
 Data Controller
 
-If you’re a user in Canada, you should know that Snap Inc. is responsible for your personal information.
+If you're a user in Canada, you should know that Snap Inc. is responsible for your personal information.
 
 ### 
 
-Your Rights
+Your rights
 
-You can exercise your rights of access and rectification as described in the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section of the Privacy Policy or by contacting our Privacy Officer by using the contact information provided below.
+You can exercise your rights of access and rectification as described in the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section of the Privacy Policy or by contacting our Privacy Officer by using the contact information provided below.
 
 Depending on your province, you may have additional rights, including the right to control the dissemination of your personal information, the right to data portability, the right to be informed of and submit observations regarding automated decision-making, and the right to request information about data processing.
 
-We design our products and services with privacy in mind. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it anymore. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. If there are other types of information you no longer agree with us processing, you can [contact us](https://values.snap.com/privacy/privacy-policy/canada-privacy-notice#questions).
+We design our products and services with privacy in mind. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it any more. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. If there are other types of information you no longer agree with us processing, you can [contact us](https://values.snap.com/privacy/privacy-policy/canada-privacy-notice#questions).
 
 ### 
 
-Our Audience
+Our audience
 
-Our services are not intended for — and we don’t direct them to — anyone under 13 (or such greater age required in your province for you to be authorized to register for and use our services without parental approval). And that’s why we do not knowingly collect personal information from anyone under this age.
+Our services are not intended for - and we don't direct them to - anyone under 13 (o such greater age required in your province for you to be authorized to register for and use our services without parental approval). And that's why we do not knowingly collect personal information from anyone under this age.
 
 ### 
 
-International Data Transfers
+International data transfers
 
-To provide our services to you, we may collect your personal information from, transfer it to, and store and process it, with [Snap Inc. family of companies](https://help.snapchat.com/hc/articles/7047492876308?lang=en-US), and certain third-party service providers to perform functions on behalf of Snap as described [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-US), in the United States and other jurisdictions outside of where you live. Whenever we share information outside of where you live, we ensure that the transfer complies with your local law so that your personal information is adequately protected. While such information is outside of your jurisdiction of residence, it is subject to the laws of the jurisdiction in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other jurisdiction, pursuant to local laws.
+To provide our services to you, we may collect your personal information from, transfer it to, and store and process it, with [Snap Inc. family of companies](https://help.snapchat.com/hc/articles/7047492876308?lang=en-GB), and certain third-party service providers to perform functions on behalf of Snap as described [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB), in the United States and other jurisdictions outside of where you live. Whenever we share information outside of where you live, we ensure that the transfer complies with your local law so that your personal information is adequately protected. While such information is outside of your jurisdiction of residence, it is subject to the laws of the jurisdiction in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other jurisdiction, pursuant to local laws.
 
 ### 
 
 Cookies
 
-Like most online services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device. To learn more about how we and our partners use cookies on our services and your choices, please check out the [Information Collected by Cookies and Other Technologies](https://values.snap.com/privacy/privacy-policy#information-we-collect) section of the Privacy Policy.
+Like most online services and mobile applications, we may use cookies and other technologies, such as web beacons, web storage and unique advertising identifiers, to collect information about your activity, browser and device. To learn more about how we and our partners use cookies on our services and your choices, please check out the [Information Collected by Cookies and Other Technologies](https://values.snap.com/privacy/privacy-policy#information-we-collect) section of the Privacy Policy.
 
 ### 
 
-Complaints or Questions?
+Complaints or questions?
 
-We want you to know that you can submit any inquiries or complaints to our [privacy support team](https://help.snapchat.com/?lang=en-US) or our Privacy Officer at dpo \[at\] snap \[dot\] com. You also have the right to file a complaint with the [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/) or your local privacy commissioner.
+We want you to know that you can submit any inquiries or complaints to our [privacy support team](https://help.snapchat.com/?lang=en-GB) or our Privacy Officer at dpo@snap.com. You also have the right to file a complaint with the [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/) or your local privacy commissioner.
 
 - - -
 
@@ -823,65 +823,65 @@ You control your selfie and can change and delete it and restrict others from us
 
 ### 
 
-How We Use Your Information
+How we use your information
 
-Our services are made to be simple and easy to use, but a lot of work goes into keeping them up and running! One of the key elements that powers our products is information that’s either shared or intuited — so here’s a quick walkthrough of the information we use, and how we use it!
+Our services are made to be simple and easy to use, but a lot of work goes into keeping them up and running! One of the key elements that powers our products is information that’s either shared or intuited – so here’s a quick walkthrough of the information we use and how we use it!
 
 ### 
 
-Develop New Features & Improve Existing Ones
+Develop new features & improve existing ones
 
 First stop: development. Our teams work closely together to develop fun, imaginative new features. You actually help out our development team every day, just by using our products!
 
 For example, we look at the Filters and Lenses that Snapchatters use the most to decide which ones we should create next. We develop a lot of our features with the same approach, so we can stay on top of our game and build new things you love!
 
-We’re always looking for ways to improve our services too. Sometimes, we’ll change how a feature works or how the app looks. Your information can help us decide what kind of improvements we should make. For example, Snapchat can guess who your best friends are, based on who you talk with the most — so the app can place them right at the top of your Send To screen to make Snapping with them that much easier. Studying data from a lot of Snapchatters can help us see trends in the ways that people use the app. This helps inspire us to improve Snapchat in big ways, on a larger scale!
+We’re always looking for ways to improve our services, too. Sometimes, we’ll change how a feature works or how the app looks. Your information can help us decide what kind of improvements we should make. For example, Snapchat can guess who your best friends are, based on who you talk with the most – so the app can place them right at the top of your Send To screen to make Snapping with them that much easier. Studying data from a lot of Snapchatters can help us see trends in the ways that people use the app. This helps inspire us to improve Snapchat in big ways, on a larger scale!
 
 ### 
 
-Keep Things Up & Running
+Keep things up & running
 
-Next up: operations. Our products work by sharing some information you ask us to — like a Snap you want to send to a friend or add to Spotlight. Specific features, like Snap Map, can use your location data to help you explore the Map and share your location with friends. You can also use Snapcodes to share websites, Lenses, and friends with other Snapchatters.
+Next up: operations. Our products work by sharing some information you ask us to — like a Snap you want to send to a friend or add to Spotlight. Specific features, like Snap Map, can use your location data to help you explore the Map and share your location with friends. You can also use Snapcodes to share websites, Lenses and friends with other Snapchatters.
 
-To keep things running, we also monitor the way our products and features are used, analyze trends, and listen to your feedback to help improve them every day! For example, we might analyze how long you’re in the app, what Filters or Lenses you use the most, and the Spotlight content you like to watch. This helps us better understand what’s resonating with our community — and lets publishers know what content people are enjoying the most!
+To keep things running, we also monitor the way our products and features are used, analyse trends and listen to your feedback to help improve them every day! For example, we might analyse how long you're in the app, what Filters or Lenses you use the most, and the Spotlight content you like to watch. This helps us better understand what’s resonating with our community — and lets publishers know what content people are enjoying the most!
 
-We also use some of your information to help keep our products up to date. As a technology company, it’s important to make sure that our camera can record in high quality, across as many different devices as possible. So, if you got a new phone on launch day, we might assess the performance of your device to make sure that we’re optimizing Snapchat for it!
+We also use some of your information to help keep our products up to date. As a technology company, it's important to make sure that our camera can record in high quality, across as many different devices as possible. So, if you got a new phone on launch day, we might assess the performance of your device to make sure that we’re optimizing Snapchat for it!
 
-Similarly, when we release new versions of the app, we need to make sure it works well on different operating systems and devices. Over a billion Snaps are created and shared every single day, so we also analyze the volume of Snaps to make sure we can deliver them all quickly and securely.
-
-### 
-
-Personalize Your Experience & Give Things Context
-
-No two people are the same, so we use some of your information to tailor your Snapchat experience especially for you! For example, we personalize the Spotlight content you see — so if you show interest in sports, you might see more sports related content. Or, if you regularly post Snaps of your puppy to [My Story](https://www.snap.com/privacy/privacy-by-product/?lang=en-US#my-story), we might be able to guess that you like dogs and try to show you content that’s relevant to your interests!
-
-We can also personalize the Search screen to highlight content you might be interested in, and present you with a personalized overview of your Memories. If we know it’s your birthday, we can give you and your friends a special Lens to help celebrate! We can also personalize ads, Search, Filters, Snap Map, and Lenses to really make your Snapchat experience unique.
-
-We also use information to help give your Snaps some context, based on where you are and what’s going on around you! This includes stickers that can show the time, location, the weather, or special Lenses and Filters made for an event you’re at. Also, we use this information to sort your Memories, so they’re organized for you based on when and where they were captured.
-
-For more information on how we personalize your experience, please read [here](https://help.snapchat.com/hc/en-us/articles/17338132910484?utm_campaign=personalization_opt_out&utm_medium=tos&utm_source=web&lang=en-US).
+Similarly, when we release new versions of the app, we need to make sure it works well on different operating systems and devices. Over a billion Snaps are created and shared every single day, so we also analyse the volume of Snaps to make sure we can deliver them all quickly and securely.
 
 ### 
 
-Keep Our Services Safe & Secure
+Personalise your experience & give things context
 
-It’s important to us that you’re as safe and secure as possible when you’re using our services, so we use some of your information to enhance these aspects of our products too! For example, we provide two-factor authentication to secure your account and can send you an email or text message if we notice any suspicious activity. We also scan URLs sent on Snapchat to see if that webpage is potentially harmful, and can give you a warning about it.
+No two people are the same, so we use some of your information to tailor your Snapchat experience especially for you! For example, we personalize the Spotlight content you see - so if you show interest in sports, you might see more sports-related content. Or, if you regularly post Snaps of your puppy to [My Story](https://www.snap.com/privacy/privacy-by-product/?lang=en-GB#my-story), we might be able to guess that you like dogs and try to show you content that's relevant to your interests!
 
-### 
+We can also personalize the Search screen to highlight content you might be interested in and present you with a personalized overview of your Memories. If we know it’s your birthday, we can give you and your friends a special Lens to help celebrate! We can also personalise ads, Search, Filters, Snap Map, and Lenses to really make your Snapchat experience unique.
 
-Provide Relevant Ads
+We also use information to help give your Snaps some context, based on where you are and what’s going on around you! This includes stickers that can show the time, location, the weather, or special Lenses and Filters made for an event you’re at. Also, we use this information to sort your Memories, so they’re organised for you based on when and where they were captured.
 
-We think ads are best when they’re relevant — advertisers prefer them and we think you’ll like them more too. So, we use some of the information we learn about you to try and select the right ads at the right time. For example, if you’ve clicked on a bunch of ads for video games, we might keep those ads coming! But we also use your information to avoid showing you ads you probably won’t like. For example, if a ticketing site tells us you’ve already bought tickets for a movie — or if you bought them through Snapchat — we can stop showing you ads for it. [Learn more](https://help.snapchat.com/hc/articles/7012345515796?utm_source=web&utm_medium=snap&utm_campaign=info_use&lang=en-US).
-
-### 
-
-Reach Out to You
-
-Sometimes we’ll get in touch with you to give you a sneak peek of new features we’re releasing, promotions, and other things like that. For example, we sent out a Chat to many Snapchatters to let them know that Group Video Chat was released. We mainly do this in the app, but sometimes we’ll send you an email, text message, or communicate with you through other messaging platforms. We also use your information to get back to you when you’ve reached out to our Support team or to remind you about messages or requests that are waiting for you. We definitely don’t like spam ourselves, so we try to limit the emails and messages we send.
+For more information on how we personalize your experience, please read [here](https://help.snapchat.com/hc/en-us/articles/17338132910484?utm_campaign=personalization_opt_out&utm_medium=tos&utm_source=web&lang=en-GB).
 
 ### 
 
-Enforce Our Terms & Policies
+Keep our services safe & secure
+
+It’s important to us that you’re as safe and secure as possible when you’re using our services, so we use some of your information to enhance these aspects of our products too! For example, we provide two-factor authentication to secure your account and can send you an email or text message if we notice any suspicious activity. We also scan URLs sent on Snapchat to see if that webpage is potentially harmful and can give you a warning about it.
+
+### 
+
+Provide relevant adverts
+
+We think adverts are best when they're relevant — advertisers prefer them and we think you'll like them more too. So, we use some of the information we learn about you to try to select the right adverts at the right time. For example, if you’ve clicked on a bunch of adverts for video games, we might keep those adverts coming! But we also use your information to avoid showing you adverts you probably won’t like. For example, if a ticketing site tells us you’ve already bought tickets for a movie — or if you bought them through Snapchat — we can stop showing you ads for it. [Learn more](https://help.snapchat.com/hc/articles/7012345515796?lang=en-GB).
+
+### 
+
+Reach out to you
+
+Sometimes we’ll get in touch with you to give you a sneak peek of new features we’re releasing, promotions and other things like that. For example, we sent out a Chat to many Snapchatters to let them know that Group Video Chat was released. We mainly do this in the app, but sometimes we'll send you an email, text message or communicate with you through other messaging platforms. We also use your information to get back to you when you've reached out to our Support team or to remind you about messages or requests that are waiting for you. We definitely don't like spam ourselves, so we try to limit the emails and messages we send.
+
+### 
+
+Enforce our Terms & Policies
 
 The last category is legal. This usually is the most boring category, but it’s an important one! In some cases, we use your information for legal purposes. For example, when unlawful content is posted on Snapchat or another one of our services, we may need to enforce our Terms of Service and other policies. In some cases, we may also use or share your information to cooperate with law enforcement requests or comply with our legal obligations. Check out our [Transparency Report](https://values.snap.com/privacy/transparency) to learn more.
 
