@@ -3,6 +3,16 @@ Intellectual Property
 
 Copy link
 
+Report copyright violation
+
+Report trademark violation
+
+What is copyright?
+
+What is trademark?
+
+I have a different question
+
 About Intellectual Property
 ---------------------------
 
@@ -36,16 +46,6 @@ If your issue isn't related to Intellectual Property, please see one of the rela
 
 Copyright
 =========
-
-My content was copyrighted
-
-Report copyright infringement
-
-Protect my copyrighted work
-
-What is copyright law?
-
-I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
@@ -168,14 +168,6 @@ What is copyright and what does it protect?
 ===========================================
 
 Copy link
-
-What is fair use?
-
-What is intellectual property?
-
-Report copyright infringement
-
-I have a different question
 
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment you create it.
 
@@ -481,14 +473,6 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-How to file DMCA report
-
-DMCA report online form
-
-DMCA agent contact info
-
-I have a different question
-
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to fill out our [online form](https://help.instagram.com/contact/372592039493026).
 
 If you wish to reach our designated agent through other (and slower) methods, you can contact:
@@ -569,6 +553,14 @@ What happens when you submit a copyright report to Instagram or Threads
 =======================================================================
 
 Copy link
+
+My copyright report status
+
+Respond to report message
+
+Who sees my report?
+
+I have a different question
 
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
@@ -736,6 +728,16 @@ Content I posted on Instagram or Threads was removed because it was reported for
 ============================================================================================================================================
 
 Copy link
+
+My content was removed
+
+Appeal content removal
+
+Contact rights owner
+
+What is trademark infringement?
+
+I have a different question
 
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
