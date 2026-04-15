@@ -3,13 +3,13 @@ Terms of Use
 
 Copy link
 
-What is the Instagram Service?
+我的帐户被盗用
 
-How is Instagram funded?
+我无法登录
 
-What is the Privacy Policy?
+我的帐户被禁用
 
-I have a different question
+我有一个不同的问题
 
 Welcome to Instagram!  
   
