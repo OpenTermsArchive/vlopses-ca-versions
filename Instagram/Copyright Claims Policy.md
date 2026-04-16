@@ -171,6 +171,14 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is fair use?
+
+What is intellectual property?
+
+Report copyright infringement
+
+I have a different question
+
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -385,16 +393,6 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-My account was disabled
-
-Why was my account disabled?
-
-My content was removed
-
-What is repeat infringer policy?
-
-I have a different question
-
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Repeat Infringer Policy
@@ -416,6 +414,16 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 =============================================================================================================
 
 Copy link
+
+File a counter-notification
+
+DMCA counter-notification process
+
+Content not restored
+
+My content was removed
+
+I have a different question
 
 Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
@@ -589,14 +597,6 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Copy link
 
-Withdraw my IP report
-
-Cancel copyright report
-
-Withdraw trademark report
-
-I have a different question
-
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the Retraction Form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
@@ -759,16 +759,6 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-My account was disabled
-
-Why was my account disabled?
-
-My content was removed
-
-What is repeat infringer policy?
-
-I have a different question
-
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Repeat Infringer Policy
@@ -816,14 +806,6 @@ How to report a username on Instagram or Threads for infringing my trademark
 ============================================================================
 
 Copy link
-
-Report trademark infringement
-
-My trademark is infringed
-
-Contact account owner
-
-I have a different question
 
 [Usernames are](https://help.instagram.com/182492381886913/?helpref=faq_content) generally claimed on a first-come, first-served basis. This means that you may see an Instagram or Threads account that includes your trademark in its username. While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. The same word used in a different context may not violate your trademark. See [“What is trademark infringement?”](https://help.instagram.com/1904208239817294?helpref=faq_content) to learn more.
 
@@ -999,14 +981,6 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Copy link
 
-Withdraw my IP report
-
-Cancel copyright report
-
-Withdraw trademark report
-
-I have a different question
-
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the Retraction Form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
@@ -1039,6 +1013,16 @@ For any content that was removed based on U.S. trademark rights, we will include
 
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
+
+Appeal copyright removal
+
+DMCA counter-notification
+
+My appeal was rejected
+
+Italian user appeal process
+
+I have a different question
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 
