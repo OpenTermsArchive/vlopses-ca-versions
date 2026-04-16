@@ -3,14 +3,6 @@ Terms of Use
 
 Copy link
 
-我的帐户被盗用
-
-我无法登录
-
-我的帐户被禁用
-
-我有一个不同的问题
-
 Welcome to Instagram!  
   
 These Terms of Use (or “Terms”) govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. The Meta Terms of Service do not apply to this Service.  
