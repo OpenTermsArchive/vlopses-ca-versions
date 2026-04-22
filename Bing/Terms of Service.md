@@ -1534,7 +1534,7 @@ Audience Ads for cryptocurrency exchanges are now allowed in all markets where M
 Microsoft Terms of Use
 ======================
 
-Last Updated: February 7, 2022
+  Last Updated: February 7, 2022
 
 Acceptance of Terms
 -------------------
