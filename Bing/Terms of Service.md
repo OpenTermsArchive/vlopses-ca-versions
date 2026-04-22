@@ -1389,7 +1389,6 @@ Predictions Markets—United States
     *   New Hampshire
     *   New Jersey
     *   New Mexico
-    *   Ohio
     *   Oklahoma
     *   Texas
     *   Virginia
