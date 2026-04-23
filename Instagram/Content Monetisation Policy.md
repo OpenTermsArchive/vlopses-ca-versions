@@ -3,11 +3,11 @@ Instagram Content Monetization Policies
 
 Copy link
 
-My content was not monetized
+Why was my content demonetized?
 
-Why was monetization reduced?
+My content was restricted
 
-Content monetization appeal
+Appeal a monetization decision
 
 What is unoriginal content?
 
