@@ -365,6 +365,16 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
+My account was disabled
+
+What is repeat infringer policy?
+
+My content was restored
+
+How to avoid copyright infringement?
+
+I have a different question
+
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Repeat Infringer Policy
@@ -405,11 +415,13 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-Report copyright for someone else
+Report copyright on Threads
+
+Report someone else's copyright
 
 What is Brand Rights Protection?
 
-What is a DMCA agent?
+How long does reporting take?
 
 I have a different question
 
@@ -430,14 +442,6 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
-
-Report copyright infringement
-
-Report trademark infringement
-
-Legal consequences of reporting
-
-I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -472,14 +476,6 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 ==============================================================================================
 
 Copy link
-
-How to file DMCA report
-
-DMCA report online form
-
-DMCA agent contact info
-
-I have a different question
 
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to fill out our [online form](https://help.instagram.com/contact/372592039493026).
 
@@ -745,6 +741,16 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
+My account was disabled
+
+What is repeat infringer policy?
+
+My content was restored
+
+How to avoid copyright infringement?
+
+I have a different question
+
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Repeat Infringer Policy
@@ -793,16 +799,6 @@ How to report a username on Instagram or Threads for infringing my trademark
 
 Copy link
 
-Report trademark infringement
-
-My trademark is used
-
-Contact account owner
-
-What is trademark infringement?
-
-I have a different question
-
 [Usernames are](https://help.instagram.com/182492381886913/?helpref=faq_content) generally claimed on a first-come, first-served basis. This means that you may see an Instagram or Threads account that includes your trademark in its username. While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. The same word used in a different context may not violate your trademark. See [“What is trademark infringement?”](https://help.instagram.com/1904208239817294?helpref=faq_content) to learn more.
 
 If you believe that a username infringes your trademark rights, you may want to contact the responsible person and try to resolve your issue with them directly. If you’re sure you want to report a username on Instagram or Threads that you believe infringes your trademark, you can do so by [reporting it](https://help.instagram.com/1921828231475726?helpref=faq_content).
@@ -838,14 +834,6 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
-
-Report copyright infringement
-
-Report trademark infringement
-
-Legal consequences of reporting
-
-I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -1017,16 +1005,6 @@ For any content that was removed based on U.S. trademark rights, we will include
 
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
-
-Appeal copyright removal
-
-DMCA counter-notification
-
-My appeal was rejected
-
-Italian user appeal process
-
-I have a different question
 
 If your content was removed because of a copyright report, you can submit an appeal or a DMCA counter-notification. You received instructions in the message we sent you.
 
