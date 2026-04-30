@@ -232,14 +232,6 @@ How long does copyright protection last?
 
 Copy link
 
-When does copyright expire?
-
-What is public domain?
-
-How long is copyright protection?
-
-I have a different question
-
 Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it’s freely available for anyone to use.
 
 A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
@@ -324,6 +316,14 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
+What is fair use?
+
+What are copyright exceptions?
+
+Factors of fair use
+
+I have a different question
+
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
@@ -366,6 +366,16 @@ Can I still violate another person's copyright on Instagram or Threads if I didn
 ======================================================================================================
 
 Copy link
+
+What is copyright infringement?
+
+What is fair use?
+
+How to get permission?
+
+My content was infringed
+
+I have a different question
 
 It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn’t use someone else’s copyrighted work if you don’t have permission.
 
@@ -411,6 +421,16 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
+My account was disabled
+
+Why was my account disabled?
+
+My content was restored
+
+How to avoid copyright infringement?
+
+I have a different question
+
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Repeat Infringer Policy
@@ -433,6 +453,16 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 
 Copy link
 
+My content was removed
+
+File a counter-notification
+
+Restore my content
+
+How long does it take?
+
+I have a different question
+
 Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
 If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the messages we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
@@ -451,16 +481,6 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-My copyright was infringed
-
-Report copyright for someone
-
-What is Brand Rights Protection?
-
-What is a DMCA agent?
-
-I have a different question
-
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
 *   You can report copyright infringement by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
@@ -478,6 +498,16 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
+
+Report copyright infringement
+
+Report trademark infringement
+
+Legal consequences of reporting
+
+What is fair use?
+
+I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -503,6 +533,14 @@ Can I report an infringement of someone else’s intellectual property on Instag
 =============================================================================================
 
 Copy link
+
+Report someone else's IP
+
+Report copyright infringement
+
+Report trademark infringement
+
+I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
@@ -660,6 +698,16 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
+What are common law rights?
+
+Register a trademark outside US
+
+Registering a company vs trademark
+
+How long does registration take?
+
+I have a different question
+
 It depends. In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Outside the U.S., many other countries have adopted similar systems, including the ability for trademark owners to register their trademarks. Both in the U.S. and in other countries, depending on the relevant laws, a trademark owner may still have certain rights without a registration. Typically, a trademark owner’s rights without a registration (often known as common law rights) may be weaker than rights that are subject to a registration. Also, it’s important to keep in mind that registering a company with a government office or getting a permit to do business in a specific country or state (for example, a business registration) usually doesn’t itself create a trademark right.
@@ -692,14 +740,6 @@ How long does trademark protection last?
 ========================================
 
 Copy link
-
-My trademark rights expired
-
-Renew my trademark
-
-What if I stop using it?
-
-I have a different question
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
 
@@ -793,6 +833,16 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
+My account was disabled
+
+Why was my account disabled?
+
+My content was restored
+
+How to avoid copyright infringement?
+
+I have a different question
+
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Repeat Infringer Policy
@@ -842,6 +892,14 @@ Can I report an infringement of someone else’s intellectual property on Instag
 
 Copy link
 
+Report someone else's IP
+
+Report copyright infringement
+
+Report trademark infringement
+
+I have a different question
+
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
 - - -
@@ -850,6 +908,14 @@ How to report a username on Instagram or Threads for infringing my trademark
 ============================================================================
 
 Copy link
+
+Report a username
+
+My trademark is infringed
+
+What is trademark infringement?
+
+I have a different question
 
 [Usernames are](https://help.instagram.com/182492381886913/?helpref=faq_content) generally claimed on a first-come, first-served basis. This means that you may see an Instagram or Threads account that includes your trademark in its username. While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. The same word used in a different context may not violate your trademark. See [“What is trademark infringement?”](https://help.instagram.com/1904208239817294?helpref=faq_content) to learn more.
 
@@ -886,6 +952,16 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
+
+Report copyright infringement
+
+Report trademark infringement
+
+Legal consequences of reporting
+
+What is fair use?
+
+I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -931,6 +1007,14 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
+What is fair use?
+
+What are copyright exceptions?
+
+Factors of fair use
+
+I have a different question
+
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
@@ -973,16 +1057,6 @@ Information you need to include in a trademark report on Instagram or Threads
 =============================================================================
 
 Copy link
-
-What is a trademark report?
-
-What info do I need?
-
-How to find a URL?
-
-My trademark was infringed
-
-I have a different question
 
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
