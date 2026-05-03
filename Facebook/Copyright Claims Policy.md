@@ -50,13 +50,13 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What do trademarks protect?
-
 Report trademark infringement
 
 Apply for Brand Rights Protection
 
-Trademark laws in other countries
+What is trademark law?
+
+I need legal advice
 
 I have a different question
 
@@ -1683,9 +1683,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1957,11 +1959,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-My content was removed
-
 File a counter-notification
 
-What is DMCA?
+My content was removed
+
+Restore my content
+
+What is repeat infringer policy?
 
 I have a different question
 
