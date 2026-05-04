@@ -193,9 +193,9 @@ My account was demonetized
 
 Why was I demonetized?
 
-Appeal a monetization decision
+Appeal demonetization decision
 
-My content was rejected
+Eligible countries for monetization
 
 I have a different question
 
