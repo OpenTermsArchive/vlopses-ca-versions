@@ -50,16 +50,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-Report trademark infringement
-
-Apply for Brand Rights Protection
-
-What is trademark law?
-
-I need legal advice
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -395,11 +385,9 @@ Copy link
 
 Report counterfeit goods
 
-Counterfeit sales on Facebook
-
 What is trademark infringement?
 
-Is selling counterfeits illegal?
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -606,7 +594,7 @@ Appeal content removal
 
 Appeal trademark report
 
-Appeal intellectual property report
+Contact rights owner
 
 I have a different question
 
@@ -1167,11 +1155,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel copyright report
+Cancel my IP report
 
-Retract my report
+Restore removed content
 
 I have a different question
 
@@ -1762,9 +1750,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
+
+How to get permission?
+
+How to report copyright violation?
 
 I have a different question
 
@@ -2066,9 +2056,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 
