@@ -50,6 +50,16 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+What do trademarks protect?
+
+Report trademark infringement
+
+Apply for Brand Rights Protection
+
+Trademark laws in other countries
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -1555,11 +1565,11 @@ How long does copyright protection last?
 
 Copy link
 
-When does copyright expire?
-
 What is public domain?
 
-Copyright after author's death?
+When does copyright expire?
+
+How long does copyright last?
 
 I have a different question
 
@@ -2056,9 +2066,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Send a DMCA report
 
-Report copyright infringement
+DMCA contact information
 
 DMCA claim requirements
 
@@ -2171,11 +2181,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
+What is a copyright report?
+
+How to appeal a removal?
+
 What info is shared?
-
-Who sees my email?
-
-How to appeal removal?
 
 I have a different question
 
