@@ -50,13 +50,13 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What do trademarks protect?
-
 Report trademark infringement
 
 Apply for Brand Rights Protection
 
-Trademark laws in other countries
+What is trademark law?
+
+I need legal advice
 
 I have a different question
 
@@ -295,13 +295,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Register my business
+Trademark vs business registration
 
-Trademark my business name
+Register a trademark
 
-Difference in other countries
-
-What is USPTO?
+Register a business
 
 I have a different question
 
@@ -1400,13 +1398,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is fair use?
+What is copyright?
 
 Copyright for my content
 
-Copyright for photos/videos
+Copyright for photos
 
-What is intellectual property?
+Copyright for videos
 
 I have a different question
 
@@ -1565,11 +1563,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
-
 When does copyright expire?
 
-How long does copyright last?
+What is public domain?
+
+Copyright after author's death?
 
 I have a different question
 
@@ -2181,11 +2179,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What is a copyright report?
-
-How to appeal a removal?
-
 What info is shared?
+
+Who sees my email?
+
+How to appeal removal?
 
 I have a different question
 
