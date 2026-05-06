@@ -51,9 +51,9 @@ Protect my copyrighted work
 
 Report copyright infringement
 
-Copyright laws vary by country
+My content was removed
 
-What is copyright infringement?
+What is fair use?
 
 I have a different question
 
@@ -113,11 +113,13 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 Trademark
 =========
 
-What do trademarks protect?
-
 Report trademark infringement
 
+What do trademarks protect?
+
 Avoid trademark infringement
+
+What is trademark law?
 
 I have a different question
 
@@ -179,6 +181,16 @@ What is copyright and what does it protect?
 
 Copy link
 
+What does copyright protect?
+
+What is not protected?
+
+Report copyright infringement
+
+My content was copied
+
+I have a different question
+
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -218,6 +230,16 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
+
+My work was copied
+
+Stop someone using my work
+
+What is copyright infringement?
+
+How to grant permission?
+
+I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
@@ -316,14 +338,6 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
-
-Fair use vs copyright exceptions?
-
-Can I use copyrighted work?
-
-I have a different question
-
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
@@ -390,13 +404,13 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
-Appeal content removal
-
 My content was removed
+
+Appeal content removal
 
 Contact rights owner
 
-Copyright appeal process
+My content was removed for copyright
 
 I have a different question
 
@@ -442,6 +456,16 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 =============================================================================================================
 
 Copy link
+
+My content was removed
+
+File a counter-notification
+
+Restore my content
+
+How long does it take?
+
+I have a different question
 
 Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
@@ -513,14 +537,6 @@ Can I report an infringement of someone else’s intellectual property on Instag
 =============================================================================================
 
 Copy link
-
-Report someone else's IP
-
-Report copyright infringement
-
-Report trademark infringement
-
-I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
@@ -635,9 +651,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel a copyright report
+Cancel intellectual property report
 
-Restore removed content
+Retraction form not working
+
+Restore my content
 
 I have a different question
 
@@ -686,6 +704,16 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
+What are common law rights?
+
+Register a trademark outside US
+
+Registering a company vs trademark
+
+How long does registration take?
+
+I have a different question
+
 It depends. In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Outside the U.S., many other countries have adopted similar systems, including the ability for trademark owners to register their trademarks. Both in the U.S. and in other countries, depending on the relevant laws, a trademark owner may still have certain rights without a registration. Typically, a trademark owner’s rights without a registration (often known as common law rights) may be weaker than rights that are subject to a registration. Also, it’s important to keep in mind that registering a company with a government office or getting a permit to do business in a specific country or state (for example, a business registration) usually doesn’t itself create a trademark right.
@@ -728,11 +756,11 @@ What is a counterfeit?
 
 Copy link
 
-Report counterfeit goods
+What is a counterfeit good?
 
-What is trademark infringement?
+Report counterfeit products
 
-Brand Rights Protection tool
+Counterfeit on Threads
 
 I have a different question
 
@@ -779,7 +807,7 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 
 Copy link
 
-My content violates trademark
+My content violates trademark law
 
 How to avoid trademark violation
 
@@ -851,11 +879,13 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-Report copyright infringement
+Report trademark on Threads
 
-Report trademark infringement
+My trademark was infringed
 
-What is Brand Rights Protection?
+Brand Rights Protection tool
+
+What are legal consequences?
 
 I have a different question
 
@@ -875,14 +905,6 @@ Can I report an infringement of someone else’s intellectual property on Instag
 =============================================================================================
 
 Copy link
-
-Report someone else's IP
-
-Report copyright infringement
-
-Report trademark infringement
-
-I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
@@ -981,14 +1003,6 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
-
-Fair use vs copyright exceptions?
-
-Can I use copyrighted work?
-
-I have a different question
-
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
@@ -1085,9 +1099,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel a copyright report
+Cancel intellectual property report
 
-Restore removed content
+Retraction form not working
+
+Restore my content
 
 I have a different question
 
