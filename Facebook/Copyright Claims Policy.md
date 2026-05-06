@@ -50,13 +50,13 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+What do trademarks protect?
+
 Report trademark infringement
 
 Apply for Brand Rights Protection
 
-What is trademark law?
-
-I need legal advice
+Trademark laws in other countries
 
 I have a different question
 
@@ -1320,9 +1320,9 @@ Report copyright infringement
 
 Protect my copyrighted work
 
-Copyright and posting content
+What is copyright?
 
-What is copyright law?
+My content was removed
 
 I have a different question
 
@@ -1459,11 +1459,13 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns my original work?
-
-What is copyright ownership?
+Who owns copyright?
 
 My employer owns my work
+
+I appear in a photo
+
+Contact a copyright attorney
 
 I have a different question
 
@@ -1612,11 +1614,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
+My post was removed
+
 What is fair use?
 
-Get permission to post
-
-Is content public domain?
+Report copyright infringement
 
 I have a different question
 
@@ -1681,9 +1683,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
