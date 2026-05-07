@@ -5,7 +5,7 @@ Copy link
 
 Why was my content demonetized?
 
-My content was wrongly demonetized
+My content was rejected
 
 Appeal a monetization decision
 
@@ -193,9 +193,9 @@ My account was demonetized
 
 Why was I demonetized?
 
-Appeal a monetization decision
+Appeal demonetization decision
 
-My content was rejected
+Eligible countries for monetization
 
 I have a different question
 
