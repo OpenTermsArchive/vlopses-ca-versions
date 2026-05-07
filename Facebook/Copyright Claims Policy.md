@@ -50,13 +50,13 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What do trademarks protect?
+What is a trademark?
 
 Report trademark infringement
 
-Apply for Brand Rights Protection
+What is Brand Rights Protection?
 
-Trademark laws in other countries
+Trademark law in my country
 
 I have a different question
 
@@ -133,7 +133,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
+Report trademark infringement
 
 How do trademarks work?
 
@@ -184,11 +184,11 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
 What is trademark dilution?
 
-What is likelihood of confusion?
-
-What are limits to trademark?
+Limits to trademark rights?
 
 I have a different question
 
@@ -344,13 +344,11 @@ How long does trademark protection last?
 
 Copy link
 
-How to renew trademark?
+How long trademark rights last?
 
-My trademark rights expired
+Renew trademark registration
 
-What if I stop using trademark?
-
-How long does EUIPO registration last?
+Lose my trademark rights
 
 I have a different question
 
@@ -440,9 +438,9 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
+What is trademark infringement?
 
-When is trademark use infringing?
+When can I use a trademark?
 
 Limits to trademark rights?
 
@@ -604,7 +602,7 @@ Appeal content removal
 
 Appeal trademark report
 
-Contact rights owner
+Intellectual property appeal
 
 I have a different question
 
@@ -834,7 +832,7 @@ Copy link
 
 Report trademark infringement
 
-My trademark is used
+Username violates trademark
 
 Contact username owner
 
@@ -932,11 +930,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What is a trademark report?
+How to report trademark?
 
-Where do I submit a report?
+What to include in report?
 
-What if I'm not the owner?
+My trademark was infringed
 
 How to find a URL?
 
@@ -1216,11 +1214,11 @@ Copy link
 
 What info is shared?
 
-My email was shared
+Who sees my email?
 
-Can I appeal a report?
+Can I appeal removed content?
 
-What is a report number?
+My content was removed
 
 I have a different question
 
@@ -1316,13 +1314,13 @@ Related Articles
 Copyright
 =========
 
-Report copyright infringement
-
 Protect my copyrighted work
+
+Report copyright infringement
 
 What is copyright?
 
-My content was removed
+What is Rights Manager?
 
 I have a different question
 
@@ -1459,13 +1457,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns copyright?
+Who owns my original work?
+
+What is copyright ownership?
 
 My employer owns my work
-
-I appear in a photo
-
-Contact a copyright attorney
 
 I have a different question
 
@@ -1565,11 +1561,11 @@ How long does copyright protection last?
 
 Copy link
 
-When does copyright expire?
-
 What is public domain?
 
-Copyright after author's death?
+When does copyright expire?
+
+How long does copyright last?
 
 I have a different question
 
@@ -1616,9 +1612,9 @@ Copy link
 
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Is content public domain?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1897,13 +1893,13 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
-
-My content was removed
+Appeal content removal
 
 Contact rights owner
 
-What is DMCA?
+DMCA counter-notification
+
+My content was removed
 
 I have a different question
 
@@ -2122,11 +2118,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What is copyright infringement?
+What info to include?
 
-How to report copyright?
+Where to report copyright?
 
-What happens after I report?
+My copyright was infringed
 
 I have a different question
 
@@ -2295,11 +2291,11 @@ Copy link
 
 Apply for Rights Manager
 
-Protect my video content
+What is Content Protection?
+
+Monetize my video
 
 Report copyright infringement
-
-What is Content Protection?
 
 I have a different question
 
