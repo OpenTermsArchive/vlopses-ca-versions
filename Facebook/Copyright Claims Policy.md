@@ -1326,7 +1326,7 @@ My content was removed
 
 I have a different question
 
-These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Frequests%2F1523801815366035%2F).
+These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.copyright.gov%2F) or the [World Intellectual Property Organization (WIPO)](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html). Facebook can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
 
@@ -1400,13 +1400,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is fair use?
+What is copyright?
 
 Copyright for my content
 
-Copyright for photos/videos
+Copyright for photos
 
-What is intellectual property?
+Copyright for videos
 
 I have a different question
 
@@ -1614,11 +1614,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-My post was removed
-
 What is fair use?
 
-Report copyright infringement
+Get permission to post
+
+Is content public domain?
 
 I have a different question
 
@@ -1683,11 +1683,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
-
-How to dispute copyright?
 
 I have a different question
 
@@ -2068,9 +2066,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 
@@ -2297,11 +2295,11 @@ Copy link
 
 Apply for Rights Manager
 
-What is Content Protection?
-
-Monetize my video
+Protect my video content
 
 Report copyright infringement
+
+What is Content Protection?
 
 I have a different question
 
