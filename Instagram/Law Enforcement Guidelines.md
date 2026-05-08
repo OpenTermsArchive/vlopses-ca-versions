@@ -7,9 +7,9 @@ Request user information
 
 Emergency data request
 
-International legal requests
+International legal request
 
-Account preservation
+Preserve account records
 
 I have a different question
 
