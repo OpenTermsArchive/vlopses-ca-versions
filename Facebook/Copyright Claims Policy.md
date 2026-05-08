@@ -395,9 +395,11 @@ Copy link
 
 Report counterfeit goods
 
+Counterfeit sales on Facebook
+
 What is trademark infringement?
 
-Counterfeit sales on Facebook
+Is selling counterfeits illegal?
 
 I have a different question
 
@@ -495,13 +497,11 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
-What does copyright protect?
+Copyright vs trademark
 
-What does trademark protect?
+What is copyright?
 
-Report copyright infringement
-
-Report trademark infringement
+What is trademark?
 
 I have a different question
 
@@ -546,13 +546,13 @@ How can I make sure the content I post to Facebook doesn’t violate trademark l
 
 Copy link
 
-What is trademark infringement?
+My content violates trademark law
 
-How to avoid trademark issues?
+How to avoid trademark infringement
 
-Can I use a trademarked word?
+What is intellectual property?
 
-I need legal advice
+How to use trademarks legally?
 
 I have a different question
 
@@ -602,11 +602,9 @@ Copy link
 
 Appeal content removal
 
-My content was removed
-
-Contact rights owner
-
 Appeal trademark report
+
+Intellectual property appeal
 
 I have a different question
 
@@ -661,6 +659,8 @@ My account was disabled
 My Page was removed
 
 My Group was removed
+
+What is intellectual property?
 
 I have a different question
 
@@ -885,11 +885,13 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-What is trademark?
+What is trademark infringement?
 
 What is fair use?
+
+What are legal consequences?
 
 I have a different question
 
@@ -934,11 +936,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What is a trademark report?
+How to report trademark?
 
-Where do I submit a report?
+What to include in report?
 
-What if I'm not the owner?
+My trademark was infringed
 
 How to find a URL?
 
@@ -1063,7 +1065,9 @@ Report ad copyright
 
 Report ad trademark
 
-Report counterfeit ad
+Report ad counterfeit
+
+How to use Brand Rights Protection
 
 I have a different question
 
@@ -1275,11 +1279,11 @@ Copy link
 
 Report intellectual property infringement
 
-Brand Rights Protection application
+My intellectual property was infringed
 
-Trademark violations
+Brand Rights Protection eligibility
 
-Copyright infringement
+How to apply for BRP
 
 I have a different question
 
@@ -1323,6 +1327,8 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
+
+How to use Rights Manager?
 
 I have a different question
 
@@ -1514,13 +1520,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
+My copyright was infringed
+
 What is copyright infringement?
 
-Can I use copyrighted work?
+My content was copied
 
-My work was copied
-
-How do I protect my work?
+What are my rights?
 
 I have a different question
 
@@ -1565,11 +1571,11 @@ How long does copyright protection last?
 
 Copy link
 
-When does copyright expire?
-
 What is public domain?
 
-Copyright after author's death?
+When does copyright expire?
+
+How long does copyright last?
 
 I have a different question
 
@@ -1616,9 +1622,9 @@ Copy link
 
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Is content public domain?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1762,11 +1768,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
-
-How to get permission?
-
-How to report copyright violation?
 
 I have a different question
 
@@ -1899,13 +1903,13 @@ Facebook Lite App Help
 
 More
 
-My content was removed
+Appeal content removal
 
-Appeal removed content
+Contact rights owner
 
 DMCA counter-notification
 
-My Page content removed
+My content was removed
 
 I have a different question
 
@@ -2183,11 +2187,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
+What is a copyright report?
+
+How to appeal a removal?
+
 What info is shared?
-
-Who sees my email?
-
-How to appeal removal?
 
 I have a different question
 
@@ -2297,11 +2301,11 @@ Copy link
 
 Apply for Rights Manager
 
-What is Content Protection?
+Content protection for creators
 
 Report copyright infringement
 
-How to monetize my videos?
+What are my enforcement options?
 
 I have a different question
 
