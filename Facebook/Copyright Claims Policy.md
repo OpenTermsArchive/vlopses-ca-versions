@@ -184,11 +184,11 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
 What is trademark dilution?
 
-Is my trademark protected?
-
-What if I used it first?
+Limits to trademark rights?
 
 I have a different question
 
@@ -295,13 +295,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Register my business
+Trademark vs business registration
 
-Trademark my business name
+Register a trademark
 
-Difference in other countries
-
-What is USPTO?
+Register a business
 
 I have a different question
 
@@ -395,11 +393,9 @@ Copy link
 
 Report counterfeit goods
 
-Counterfeit sales on Facebook
-
 What is trademark infringement?
 
-Is selling counterfeits illegal?
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -604,9 +600,11 @@ Copy link
 
 Appeal content removal
 
-Appeal trademark report
+My content was removed
 
-Intellectual property appeal
+Contact rights owner
+
+Appeal trademark report
 
 I have a different question
 
@@ -660,7 +658,9 @@ My account was disabled
 
 My Page was removed
 
-My Group was removed
+What is intellectual property?
+
+My post was restored
 
 I have a different question
 
@@ -734,13 +734,11 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-Report trademark infringement form
+Report trademark infringement
 
-Trademark infringement policy
+Fill out trademark form
 
-What happens after I report?
-
-My trademark was infringed
+What is trademark infringement?
 
 I have a different question
 
@@ -836,7 +834,7 @@ Copy link
 
 Report trademark infringement
 
-My trademark is used
+Username violates trademark
 
 Contact username owner
 
@@ -885,11 +883,13 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-What is trademark?
+What is trademark infringement?
 
 What is fair use?
+
+What are legal consequences?
 
 I have a different question
 
@@ -934,11 +934,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-How to report trademark?
+What is a trademark report?
 
-What to include in report?
+Where do I submit a report?
 
-My trademark was infringed
+What if I'm not the owner?
 
 How to find a URL?
 
@@ -1400,13 +1400,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is fair use?
+What is copyright?
 
 Copyright for my content
 
-Copyright for photos/videos
+Copyright for photos
 
-What is intellectual property?
+Copyright for videos
 
 I have a different question
 
@@ -1959,13 +1959,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a counter-notification
-
 My content was removed
 
-Restore my content
+File a counter-notification
 
-What is repeat infringer policy?
+What is DMCA?
 
 I have a different question
 
@@ -2068,9 +2066,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 
@@ -2297,11 +2295,11 @@ Copy link
 
 Apply for Rights Manager
 
-Content protection for creators
+What is Content Protection?
 
 Report copyright infringement
 
-What are my enforcement options?
+How to monetize my videos?
 
 I have a different question
 
