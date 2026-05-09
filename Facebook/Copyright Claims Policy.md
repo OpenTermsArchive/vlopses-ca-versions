@@ -50,13 +50,13 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+What is a trademark?
+
 Report trademark infringement
 
-Apply for Brand Rights Protection
+What is Brand Rights Protection?
 
-What is trademark law?
-
-I need legal advice
+Trademark law in my country
 
 I have a different question
 
@@ -133,7 +133,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report trademark infringement
+Report a trademark infringement
 
 How do trademarks work?
 
@@ -497,11 +497,13 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
-Copyright vs trademark
+What does copyright protect?
 
-What is copyright?
+What does trademark protect?
 
-What is trademark?
+Report copyright infringement
+
+Report trademark infringement
 
 I have a different question
 
@@ -546,13 +548,13 @@ How can I make sure the content I post to Facebook doesn’t violate trademark l
 
 Copy link
 
-My content violates trademark law
+What is trademark infringement?
 
-How to avoid trademark infringement
+How to avoid trademark issues?
 
-What is intellectual property?
+Can I use a trademarked word?
 
-How to use trademarks legally?
+I need legal advice
 
 I have a different question
 
@@ -659,8 +661,6 @@ My account was disabled
 My Page was removed
 
 My Group was removed
-
-What is intellectual property?
 
 I have a different question
 
@@ -885,13 +885,11 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-What is trademark infringement?
+What is trademark?
 
 What is fair use?
-
-What are legal consequences?
 
 I have a different question
 
@@ -1065,9 +1063,7 @@ Report ad copyright
 
 Report ad trademark
 
-Report ad counterfeit
-
-How to use Brand Rights Protection
+Report counterfeit ad
 
 I have a different question
 
@@ -1279,11 +1275,11 @@ Copy link
 
 Report intellectual property infringement
 
-My intellectual property was infringed
+Brand Rights Protection application
 
-Brand Rights Protection eligibility
+Trademark violations
 
-How to apply for BRP
+Copyright infringement
 
 I have a different question
 
@@ -1327,8 +1323,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-How to use Rights Manager?
 
 I have a different question
 
@@ -1520,13 +1514,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-My copyright was infringed
-
 What is copyright infringement?
 
-My content was copied
+Can I use copyrighted work?
 
-What are my rights?
+My work was copied
+
+How do I protect my work?
 
 I have a different question
 
@@ -1571,11 +1565,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
-
 When does copyright expire?
 
-How long does copyright last?
+What is public domain?
+
+Copyright after author's death?
 
 I have a different question
 
@@ -1622,9 +1616,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-Is my content copyrighted?
+Is content public domain?
 
 I have a different question
 
@@ -1768,9 +1762,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
+
+How to get permission?
+
+How to report copyright violation?
 
 I have a different question
 
@@ -2187,11 +2183,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What is a copyright report?
-
-How to appeal a removal?
-
 What info is shared?
+
+Who sees my email?
+
+How to appeal removal?
 
 I have a different question
 
