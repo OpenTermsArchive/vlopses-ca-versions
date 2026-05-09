@@ -5,7 +5,7 @@ Copy link
 
 Why was my content demonetized?
 
-My content was wrongly demonetized
+My content was rejected
 
 Appeal a monetization decision
 
