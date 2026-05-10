@@ -5,11 +5,11 @@ Copy link
 
 Why was my content demonetized?
 
-My content was rejected
+My content was restricted
 
 Appeal a monetization decision
 
-What content is restricted?
+What content is unoriginal?
 
 I have a different question
 
@@ -189,13 +189,13 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-My account was demonetized
+Monetization eligibility requirements
 
-Why was I demonetized?
+Why was I ineligible?
 
-Appeal a monetization decision
+My monetization was removed
 
-My content was rejected
+Content monetization policies
 
 I have a different question
 
