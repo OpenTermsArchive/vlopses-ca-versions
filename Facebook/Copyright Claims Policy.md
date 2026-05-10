@@ -50,16 +50,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What is a trademark?
-
-Report trademark infringement
-
-What is Brand Rights Protection?
-
-Trademark law in my country
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -133,7 +123,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
+Report trademark infringement
 
 How do trademarks work?
 
@@ -184,11 +174,11 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
 What is trademark dilution?
 
-Is my trademark protected?
-
-What if I used it first?
+Limits to trademark rights?
 
 I have a different question
 
@@ -662,7 +652,9 @@ My account was disabled
 
 My Page was removed
 
-My Group was removed
+What is intellectual property?
+
+My post was restored
 
 I have a different question
 
@@ -838,7 +830,7 @@ Copy link
 
 Report trademark infringement
 
-My trademark is used
+Username violates trademark
 
 Contact username owner
 
@@ -936,11 +928,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What is a trademark report?
+How to report trademark?
 
-Where do I submit a report?
+What to include in report?
 
-What if I'm not the owner?
+My trademark was infringed
 
 How to find a URL?
 
@@ -1004,11 +996,11 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What is my report number?
+What happens after I report?
 
-How to respond to Meta?
+Check my report status
 
-Who sees my report details?
+Respond to a report message
 
 I have a different question
 
@@ -1065,7 +1057,9 @@ Report ad copyright
 
 Report ad trademark
 
-Report counterfeit ad
+Report ad counterfeit
+
+How to use Brand Rights Protection
 
 I have a different question
 
@@ -1169,11 +1163,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
-Restore removed content
+Retract my report
 
 I have a different question
 
@@ -1320,13 +1314,11 @@ Related Articles
 Copyright
 =========
 
-Protect my copyrighted work
-
 Report copyright infringement
 
-What is copyright?
+Protect my copyrighted work
 
-What is Rights Manager?
+What is copyright?
 
 I have a different question
 
@@ -1518,13 +1510,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
+My copyright was infringed
+
 What is copyright infringement?
 
-Can I use copyrighted work?
+My content was copied
 
-My work was copied
-
-How do I protect my work?
+What are my rights?
 
 I have a different question
 
@@ -1620,9 +1612,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+What is public domain?
 
-Is my content copyrighted?
+What is intellectual property?
 
 I have a different question
 
@@ -1822,9 +1814,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-Why was my video removed?
-
 My video was removed
+
+Why was my video removed?
 
 Video removed for copyright
 
@@ -1959,13 +1951,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a counter-notification
-
 My content was removed
 
-Restore my content
+File a counter-notification
 
-What is repeat infringer policy?
+What is DMCA?
 
 I have a different question
 
@@ -2068,9 +2058,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 
@@ -2124,11 +2114,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What is copyright infringement?
+What info to include?
 
-How to report copyright?
+Where to report copyright?
 
-What happens after I report?
+My copyright was infringed
 
 I have a different question
 
