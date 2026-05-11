@@ -50,13 +50,13 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+What is a trademark?
+
 Report trademark infringement
 
-Apply for Brand Rights Protection
+What is Brand Rights Protection?
 
-What is trademark law?
-
-What does trademark protect?
+Trademark law in my country
 
 I have a different question
 
@@ -248,9 +248,9 @@ Register my trademark
 
 Trademark rights without registration
 
-EUIPO trademark registration
+USPTO registration benefits
 
-What are common law rights?
+Register trademark outside US
 
 I have a different question
 
@@ -344,13 +344,11 @@ How long does trademark protection last?
 
 Copy link
 
-How to renew trademark?
+How long trademark rights last?
 
-My trademark rights expired
+Renew trademark registration
 
-What if I stop using trademark?
-
-How long does EUIPO registration last?
+Lose my trademark rights
 
 I have a different question
 
@@ -442,9 +440,9 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
+What is trademark infringement?
 
-When is trademark use infringing?
+When can I use a trademark?
 
 Limits to trademark rights?
 
@@ -838,7 +836,7 @@ Copy link
 
 Report trademark infringement
 
-My trademark is used
+Username violates trademark
 
 Contact username owner
 
@@ -1220,11 +1218,11 @@ Copy link
 
 What info is shared?
 
-My email was shared
+Who sees my email?
 
-Can I appeal a report?
+Can I appeal removed content?
 
-What is a report number?
+My content was removed
 
 I have a different question
 
@@ -1461,13 +1459,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns copyright?
+Who owns my original work?
+
+What is copyright ownership?
 
 My employer owns my work
-
-I appear in a photo
-
-Contact a copyright attorney
 
 I have a different question
 
@@ -1567,11 +1563,11 @@ How long does copyright protection last?
 
 Copy link
 
-When does copyright expire?
-
 What is public domain?
 
-Copyright after author's death?
+When does copyright expire?
+
+How long does copyright last?
 
 I have a different question
 
@@ -1616,11 +1612,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
+My post was removed
+
 What is fair use?
 
-How to get permission?
-
-Is my content copyrighted?
+Report copyright infringement
 
 I have a different question
 
@@ -1685,9 +1681,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1822,9 +1820,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-My video was removed
-
 Why was my video removed?
+
+My video was removed
 
 Video removed for copyright
 
@@ -1899,13 +1897,13 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
+My content was removed
 
-Contact rights owner
+Appeal removed content
 
 DMCA counter-notification
 
-My content was removed
+My Page content removed
 
 I have a different question
 
@@ -1959,13 +1957,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a counter-notification
-
 My content was removed
 
-Restore my content
+File a counter-notification
 
-What is repeat infringer policy?
+What is DMCA?
 
 I have a different question
 
@@ -2297,11 +2293,11 @@ Copy link
 
 Apply for Rights Manager
 
-Content protection for creators
+What is Content Protection?
 
 Report copyright infringement
 
-What are my enforcement options?
+How to monetize my videos?
 
 I have a different question
 
