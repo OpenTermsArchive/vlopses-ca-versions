@@ -5,11 +5,11 @@ Copy link
 
 Why was my content demonetized?
 
-My content was rejected
+My content was restricted
 
-Appeal a monetization decision
+What are prohibited formats?
 
-What content is restricted?
+What is unoriginal content?
 
 I have a different question
 
