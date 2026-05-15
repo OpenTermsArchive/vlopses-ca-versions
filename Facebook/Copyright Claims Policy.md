@@ -50,13 +50,13 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What is a trademark?
-
 Report trademark infringement
 
-What is Brand Rights Protection?
+Apply for Brand Rights Protection
 
-Trademark law in my country
+What is trademark law?
+
+What does trademark protect?
 
 I have a different question
 
@@ -133,7 +133,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
+Report trademark infringement
 
 How do trademarks work?
 
@@ -440,9 +440,9 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
+What is trademark infringement?
 
-When is trademark use infringing?
+When can I use a trademark?
 
 Limits to trademark rights?
 
@@ -469,9 +469,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Related Articles
 
@@ -481,9 +481,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 - - -
 
@@ -495,13 +495,11 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
-What does copyright protect?
+Copyright vs trademark
 
-What does trademark protect?
+What is copyright?
 
-Report copyright infringement
-
-Report trademark infringement
+What is trademark?
 
 I have a different question
 
@@ -602,11 +600,9 @@ Copy link
 
 Appeal content removal
 
-My content was removed
-
-Contact rights owner
-
 Appeal trademark report
+
+Intellectual property appeal
 
 I have a different question
 
@@ -885,11 +881,13 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-What is trademark?
+What is trademark infringement?
 
 What is fair use?
+
+What are legal consequences?
 
 I have a different question
 
@@ -1002,11 +1000,11 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What is my report number?
+What happens after I report?
 
-How to respond to Meta?
+Check my report status
 
-Who sees my report details?
+Respond to a report message
 
 I have a different question
 
@@ -1277,11 +1275,11 @@ Copy link
 
 Report intellectual property infringement
 
-Brand Rights Protection application
+My intellectual property was infringed
 
-Trademark violations
+Brand Rights Protection eligibility
 
-Copyright infringement
+How to apply for BRP
 
 I have a different question
 
@@ -1461,13 +1459,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns copyright?
+Who owns my original work?
+
+What is copyright ownership?
 
 My employer owns my work
-
-I appear in a photo
-
-Contact a copyright attorney
 
 I have a different question
 
@@ -1618,9 +1614,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1685,9 +1681,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1820,9 +1818,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-My video was removed
-
 Why was my video removed?
+
+My video was removed
 
 Video removed for copyright
 
@@ -2120,11 +2118,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What is copyright infringement?
+What info to include?
 
-How to report copyright?
+Where to report copyright?
 
-What happens after I report?
+My copyright was infringed
 
 I have a different question
 
@@ -2234,11 +2232,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-My copyright report number
+My report number
 
-What happens after I report?
+Respond to a report
 
-Why was my report rejected?
+What info is shared?
 
 I have a different question
 
