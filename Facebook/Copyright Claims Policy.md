@@ -50,13 +50,13 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What is a trademark?
-
 Report trademark infringement
 
-What is Brand Rights Protection?
+Apply for Brand Rights Protection
 
-Trademark law in my country
+What is trademark law?
+
+What does trademark protect?
 
 I have a different question
 
@@ -159,11 +159,11 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
 What is trademark dilution?
 
-Is my trademark protected?
-
-What if I used it first?
+Limits to trademark rights?
 
 I have a different question
 
@@ -270,9 +270,11 @@ Copy link
 
 Report counterfeit goods
 
+Counterfeit sales on Facebook
+
 What is trademark infringement?
 
-Counterfeit sales on Facebook
+Is selling counterfeits illegal?
 
 I have a different question
 
@@ -290,9 +292,9 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
+What is trademark infringement?
 
-When is trademark use infringing?
+When can I use a trademark?
 
 Limits to trademark rights?
 
@@ -346,13 +348,13 @@ How can I make sure the content I post to Facebook doesn’t violate trademark l
 
 Copy link
 
-What is trademark infringement?
+My content violates trademark law
 
-How to avoid trademark issues?
+How to avoid trademark infringement
 
-Can I use a trademarked word?
+What is intellectual property?
 
-I need legal advice
+How to use trademarks legally?
 
 I have a different question
 
@@ -377,11 +379,9 @@ Copy link
 
 Appeal content removal
 
-My content was removed
-
-Contact rights owner
-
 Appeal trademark report
+
+Intellectual property appeal
 
 I have a different question
 
@@ -692,11 +692,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
-Restore removed content
+Retract my report
 
 I have a different question
 
@@ -850,13 +850,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is fair use?
 
 Copyright for my content
 
-Copyright for photos
+Copyright for photos/videos
 
-Copyright for videos
+What is intellectual property?
 
 I have a different question
 
@@ -940,11 +940,11 @@ How long does copyright protection last?
 
 Copy link
 
-When does copyright expire?
-
 What is public domain?
 
-Copyright after author's death?
+When does copyright expire?
+
+How long does copyright last?
 
 I have a different question
 
@@ -1008,9 +1008,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1147,13 +1149,13 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
+My content was removed
 
-Contact rights owner
+Appeal removed content
 
 DMCA counter-notification
 
-My content was removed
+My Page content removed
 
 I have a different question
 
@@ -1182,13 +1184,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a counter-notification
-
 My content was removed
 
-Restore my content
+File a counter-notification
 
-What is repeat infringer policy?
+What is DMCA?
 
 I have a different question
 
@@ -1241,9 +1241,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 
@@ -1272,11 +1272,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
+What is copyright infringement?
 
-Where to report copyright?
+How to report copyright?
 
-My copyright was infringed
+What happens after I report?
 
 I have a different question
 
@@ -1336,11 +1336,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-My copyright report number
+My report number
 
-What happens after I report?
+Respond to a report
 
-Why was my report rejected?
+What info is shared?
 
 I have a different question
 
@@ -1370,11 +1370,11 @@ Copy link
 
 Apply for Rights Manager
 
-Content protection for creators
+What is Content Protection?
 
 Report copyright infringement
 
-What are my enforcement options?
+How to monetize my videos?
 
 I have a different question
 
