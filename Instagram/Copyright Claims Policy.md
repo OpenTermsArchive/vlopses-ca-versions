@@ -9,7 +9,7 @@ Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -115,9 +115,11 @@ Trademark
 
 Report trademark infringement
 
-What do trademarks protect?
+What does trademark protect?
 
 Avoid trademark infringement
+
+My trademark was infringed
 
 I have a different question
 
@@ -214,11 +216,9 @@ Copy link
 
 Who owns copyright?
 
-My work is copyrighted?
+What is an original work?
 
-Copyright for my photo?
-
-Employer owns my copyright?
+Employer owns my work?
 
 I have a different question
 
@@ -296,13 +296,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What does copyright protect?
 
-What is trademark?
-
-Copyright vs trademark
+What does trademark protect?
 
 Report copyright infringement
+
+Report trademark infringement
 
 I have a different question
 
@@ -471,9 +471,9 @@ Copy link
 
 My account was disabled
 
-Appeal account disablement
+Why was my account disabled?
 
-Avoid copyright infringement
+My Page was removed
 
 What is repeat infringer policy?
 
@@ -588,11 +588,11 @@ Can I report an infringement of someone else’s intellectual property on Instag
 
 Copy link
 
+Report someone else's IP
+
 Report copyright infringement
 
 Report trademark infringement
-
-Who can report infringement?
 
 I have a different question
 
@@ -783,11 +783,11 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark infringement?
+What are limits to trademark rights?
 
-When does infringement occur?
+When does trademark infringement occur?
 
-Limits to trademark rights
+What is likelihood of confusion?
 
 I have a different question
 
@@ -924,13 +924,13 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
+What does copyright protect?
 
-What is trademark?
-
-Copyright vs trademark
+What does trademark protect?
 
 Report copyright infringement
+
+Report trademark infringement
 
 I have a different question
 
@@ -947,7 +947,7 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 
 Copy link
 
-My content violates trademark law
+My content violates trademark
 
 How to avoid trademark violation
 
@@ -997,9 +997,9 @@ Copy link
 
 My account was disabled
 
-Appeal account disablement
+Why was my account disabled?
 
-Avoid copyright infringement
+My Page was removed
 
 What is repeat infringer policy?
 
@@ -1054,11 +1054,11 @@ Can I report an infringement of someone else’s intellectual property on Instag
 
 Copy link
 
+Report someone else's IP
+
 Report copyright infringement
 
 Report trademark infringement
-
-Who can report infringement?
 
 I have a different question
 
