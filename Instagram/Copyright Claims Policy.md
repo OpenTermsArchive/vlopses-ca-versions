@@ -9,7 +9,7 @@ Report trademark violation
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -52,8 +52,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-My content was removed
 
 I have a different question
 
@@ -448,13 +446,13 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
-Appeal content removal
-
 My content was removed
+
+Appeal content removal
 
 Contact rights owner
 
-Copyright appeal process
+My content was removed for copyright
 
 I have a different question
 
@@ -471,9 +469,9 @@ Copy link
 
 My account was disabled
 
-Why was my account disabled?
+Appeal account disablement
 
-My Page was removed
+Avoid copyright infringement
 
 What is repeat infringer policy?
 
@@ -529,11 +527,13 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-Report copyright infringement
+My copyright was infringed
 
-Fill out copyright form
+Report copyright for someone
 
-Brand Rights Protection
+What is Brand Rights Protection?
+
+What is a DMCA agent?
 
 I have a different question
 
@@ -605,11 +605,11 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 
 Copy link
 
-Where is the online form?
+Report copyright infringement
 
-What is a complete copyright claim?
+DMCA designated agent
 
-How to contact by mail?
+Contact Instagram's DMCA agent
 
 I have a different question
 
@@ -997,9 +997,9 @@ Copy link
 
 My account was disabled
 
-Why was my account disabled?
+Appeal account disablement
 
-My Page was removed
+Avoid copyright infringement
 
 What is repeat infringer policy?
 
