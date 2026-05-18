@@ -133,7 +133,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
+Report trademark infringement
 
 How do trademarks work?
 
@@ -198,9 +198,9 @@ Register my trademark
 
 Trademark rights without registration
 
-EUIPO trademark registration
+USPTO registration benefits
 
-What are common law rights?
+Register trademark outside US
 
 I have a different question
 
@@ -270,11 +270,9 @@ Copy link
 
 Report counterfeit goods
 
-Counterfeit sales on Facebook
-
 What is trademark infringement?
 
-Is selling counterfeits illegal?
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -322,13 +320,11 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
-What does copyright protect?
+Copyright vs trademark
 
-What does trademark protect?
+What is copyright?
 
-Report copyright infringement
-
-Report trademark infringement
+What is trademark?
 
 I have a different question
 
@@ -379,11 +375,9 @@ Copy link
 
 Appeal content removal
 
-My content was removed
-
-Contact rights owner
-
 Appeal trademark report
+
+Intellectual property appeal
 
 I have a different question
 
@@ -412,7 +406,9 @@ My account was disabled
 
 My Page was removed
 
-My Group was removed
+What is intellectual property?
+
+My post was restored
 
 I have a different question
 
@@ -561,11 +557,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What is a trademark report?
+How to report trademark?
 
-Where do I submit a report?
+What to include in report?
 
-What if I'm not the owner?
+My trademark was infringed
 
 How to find a URL?
 
@@ -694,11 +690,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel copyright report
+Cancel my IP report
 
-Retract my report
+Restore removed content
 
 I have a different question
 
@@ -752,11 +748,11 @@ Copy link
 
 Report intellectual property infringement
 
-Brand Rights Protection application
+My intellectual property was infringed
 
-Trademark violations
+Brand Rights Protection eligibility
 
-Copyright infringement
+How to apply for BRP
 
 I have a different question
 
@@ -886,13 +882,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns copyright?
+Who owns my original work?
+
+What is copyright ownership?
 
 My employer owns my work
-
-I appear in a photo
-
-Contact a copyright attorney
 
 I have a different question
 
@@ -968,9 +962,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1010,9 +1004,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1062,9 +1058,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
+
+How to get permission?
+
+How to report copyright violation?
 
 I have a different question
 
@@ -1241,9 +1239,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 
@@ -1272,11 +1270,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
+What is copyright infringement?
 
-Where to report copyright?
+How to report copyright?
 
-My copyright was infringed
+What happens after I report?
 
 I have a different question
 
@@ -1370,11 +1368,11 @@ Copy link
 
 Apply for Rights Manager
 
-Content protection for creators
+What is Content Protection?
 
 Report copyright infringement
 
-What are my enforcement options?
+How to monetize my videos?
 
 I have a different question
 
