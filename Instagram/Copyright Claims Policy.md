@@ -47,6 +47,16 @@ If your issue isn't related to Intellectual Property, please see one of the rela
 Copyright
 =========
 
+Report copyright infringement
+
+Protect my copyrighted work
+
+What is copyright?
+
+My content was removed
+
+I have a different question
+
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://www.copyright.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram and Threads can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
@@ -105,9 +115,11 @@ Trademark
 
 Report trademark infringement
 
-What do trademarks protect?
+What does trademark protect?
 
 Avoid trademark infringement
+
+My trademark was infringed
 
 I have a different question
 
@@ -307,9 +319,9 @@ How to make sure content you post to Instagram or Threads doesn't violate copyri
 
 Copy link
 
-My content was removed
+Avoid copyright infringement
 
-My content was copyrighted
+Post my own content
 
 What is fair use?
 
@@ -436,13 +448,13 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
-My content was removed
-
 Appeal content removal
+
+My content was removed
 
 Contact rights owner
 
-My content was removed for copyright
+Copyright appeal process
 
 I have a different question
 
@@ -489,11 +501,13 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 
 Copy link
 
-File a counter-notification
-
 My content was removed
 
+File a counter-notification
+
 Restore my content
+
+How long does it take?
 
 I have a different question
 
@@ -515,11 +529,13 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-Report copyright infringement
+My copyright was infringed
 
-Fill out copyright form
+Report copyright for someone
 
-Brand Rights Protection
+What is Brand Rights Protection?
+
+What is a DMCA agent?
 
 I have a different question
 
@@ -727,9 +743,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel a copyright report
+Cancel intellectual property report
 
-Restore removed content
+Retraction form not working
+
+Restore my content
 
 I have a different question
 
@@ -1293,9 +1311,11 @@ Copy link
 
 Withdraw my IP report
 
-Cancel a copyright report
+Cancel intellectual property report
 
-Restore removed content
+Retraction form not working
+
+Restore my content
 
 I have a different question
 
@@ -1342,11 +1362,11 @@ For any content that was removed based on U.S. trademark rights, we will include
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
-Appeal content removal
+Appeal a copyright removal
 
-DMCA counter-notification
+File a DMCA counter-notification
 
-My appeal was rejected
+My account was disabled
 
 I have a different question
 
