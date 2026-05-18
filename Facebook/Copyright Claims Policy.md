@@ -50,13 +50,13 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+What is a trademark?
+
 Report trademark infringement
 
-Apply for Brand Rights Protection
+What is Brand Rights Protection?
 
-What is trademark law?
-
-What does trademark protect?
+Trademark law in my country
 
 I have a different question
 
@@ -159,11 +159,11 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark infringement?
-
 What is trademark dilution?
 
-Limits to trademark rights?
+Is my trademark protected?
+
+What if I used it first?
 
 I have a different question
 
@@ -292,9 +292,9 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What is nominative fair use?
 
-When can I use a trademark?
+When is trademark use infringing?
 
 Limits to trademark rights?
 
@@ -348,13 +348,13 @@ How can I make sure the content I post to Facebook doesn’t violate trademark l
 
 Copy link
 
-My content violates trademark law
+What is trademark infringement?
 
-How to avoid trademark infringement
+How to avoid trademark issues?
 
-What is intellectual property?
+Can I use a trademarked word?
 
-How to use trademarks legally?
+I need legal advice
 
 I have a different question
 
@@ -379,9 +379,11 @@ Copy link
 
 Appeal content removal
 
-Appeal trademark report
+My content was removed
 
-Intellectual property appeal
+Contact rights owner
+
+Appeal trademark report
 
 I have a different question
 
@@ -940,11 +942,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
-
 When does copyright expire?
 
-How long does copyright last?
+What is public domain?
+
+Copyright after author's death?
 
 I have a different question
 
@@ -966,9 +968,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+What is public domain?
 
-Is my content copyrighted?
+What is intellectual property?
 
 I have a different question
 
@@ -1008,11 +1010,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
-
-How to dispute copyright?
 
 I have a different question
 
@@ -1062,11 +1062,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
-
-How to get permission?
-
-How to report copyright violation?
 
 I have a different question
 
@@ -1097,9 +1095,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-Why was my video removed?
-
 My video was removed
+
+Why was my video removed?
 
 Video removed for copyright
 
@@ -1149,13 +1147,13 @@ Facebook Lite App Help
 
 More
 
-My content was removed
+Appeal content removal
 
-Appeal removed content
+Contact rights owner
 
 DMCA counter-notification
 
-My Page content removed
+My content was removed
 
 I have a different question
 
@@ -1184,11 +1182,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-My content was removed
-
 File a counter-notification
 
-What is DMCA?
+My content was removed
+
+Restore my content
+
+What is repeat infringer policy?
 
 I have a different question
 
@@ -1241,9 +1241,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Send a DMCA report
 
-Report copyright infringement
+DMCA contact information
 
 DMCA claim requirements
 
@@ -1272,11 +1272,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What is copyright infringement?
+What info to include?
 
-How to report copyright?
+Where to report copyright?
 
-What happens after I report?
+My copyright was infringed
 
 I have a different question
 
@@ -1336,11 +1336,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-My report number
+My copyright report number
 
-Respond to a report
+What happens after I report?
 
-What info is shared?
+Why was my report rejected?
 
 I have a different question
 
@@ -1370,11 +1370,11 @@ Copy link
 
 Apply for Rights Manager
 
-What is Content Protection?
+Content protection for creators
 
 Report copyright infringement
 
-How to monetize my videos?
+What are my enforcement options?
 
 I have a different question
 
