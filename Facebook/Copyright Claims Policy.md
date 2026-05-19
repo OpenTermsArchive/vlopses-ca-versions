@@ -184,11 +184,11 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
 What is trademark dilution?
 
-Is my trademark protected?
-
-What if I used it first?
+Limits to trademark rights?
 
 I have a different question
 
@@ -248,9 +248,9 @@ Register my trademark
 
 Trademark rights without registration
 
-EUIPO trademark registration
+USPTO registration benefits
 
-What are common law rights?
+Register trademark outside US
 
 I have a different question
 
@@ -295,13 +295,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Register my business
+Trademark vs business registration
 
-Trademark my business name
+Register a trademark
 
-Difference in other countries
-
-What is USPTO?
+Register a business
 
 I have a different question
 
@@ -395,11 +393,9 @@ Copy link
 
 Report counterfeit goods
 
-Counterfeit sales on Facebook
-
 What is trademark infringement?
 
-Is selling counterfeits illegal?
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -442,9 +438,9 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is nominative fair use?
+What is trademark infringement?
 
-When is trademark use infringing?
+When can I use a trademark?
 
 Limits to trademark rights?
 
@@ -604,11 +600,9 @@ Copy link
 
 Appeal content removal
 
-My content was removed
-
-Contact rights owner
-
 Appeal trademark report
+
+Intellectual property appeal
 
 I have a different question
 
@@ -662,7 +656,9 @@ My account was disabled
 
 My Page was removed
 
-My Group was removed
+What is intellectual property?
+
+My post was restored
 
 I have a different question
 
@@ -838,7 +834,7 @@ Copy link
 
 Report trademark infringement
 
-My trademark is used
+Username violates trademark
 
 Contact username owner
 
@@ -887,11 +883,13 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-What is trademark?
+What is trademark infringement?
 
 What is fair use?
+
+What are legal consequences?
 
 I have a different question
 
@@ -1220,11 +1218,11 @@ Copy link
 
 What info is shared?
 
-My email was shared
+Who sees my email?
 
-Can I appeal a report?
+Can I appeal removed content?
 
-What is a report number?
+My content was removed
 
 I have a different question
 
@@ -1402,13 +1400,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is fair use?
 
 Copyright for my content
 
-Copyright for photos
+Copyright for photos/videos
 
-Copyright for videos
+What is intellectual property?
 
 I have a different question
 
@@ -1516,13 +1514,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
+My copyright was infringed
+
 What is copyright infringement?
 
-Can I use copyrighted work?
+My content was copied
 
-My work was copied
-
-How do I protect my work?
+What are my rights?
 
 I have a different question
 
@@ -1567,11 +1565,11 @@ How long does copyright protection last?
 
 Copy link
 
-When does copyright expire?
-
 What is public domain?
 
-Copyright after author's death?
+When does copyright expire?
+
+How long does copyright last?
 
 I have a different question
 
@@ -1618,9 +1616,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1899,13 +1897,13 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
+My content was removed
 
-Contact rights owner
+Appeal removed content
 
 DMCA counter-notification
 
-My content was removed
+My Page content removed
 
 I have a different question
 
@@ -1959,13 +1957,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a counter-notification
-
 My content was removed
 
-Restore my content
+File a counter-notification
 
-What is repeat infringer policy?
+What is DMCA?
 
 I have a different question
 
@@ -2068,9 +2064,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Send a DMCA report
 
-Report copyright infringement
+DMCA contact information
 
 DMCA claim requirements
 
@@ -2124,11 +2120,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What is copyright infringement?
+What info to include?
 
-How to report copyright?
+Where to report copyright?
 
-What happens after I report?
+My copyright was infringed
 
 I have a different question
 
