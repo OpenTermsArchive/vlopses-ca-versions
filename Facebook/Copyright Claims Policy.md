@@ -487,13 +487,11 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
-What does copyright protect?
+Copyright vs trademark
 
-What does trademark protect?
+What is copyright?
 
-Report copyright infringement
-
-Report trademark infringement
+What is trademark?
 
 I have a different question
 
@@ -1608,9 +1606,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1675,9 +1673,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -2056,9 +2056,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 
