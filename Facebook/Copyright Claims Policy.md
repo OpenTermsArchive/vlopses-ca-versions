@@ -1675,11 +1675,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
-
-How to dispute copyright?
 
 I have a different question
 
@@ -2058,9 +2056,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Send a DMCA report
 
-Report copyright infringement
+DMCA contact information
 
 DMCA claim requirements
 
