@@ -385,9 +385,11 @@ Copy link
 
 Report counterfeit goods
 
+Counterfeit sales on Facebook
+
 What is trademark infringement?
 
-Counterfeit sales on Facebook
+Is selling counterfeits illegal?
 
 I have a different question
 
@@ -1390,13 +1392,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is fair use?
 
 Copyright for my content
 
-Copyright for photos
+Copyright for photos/videos
 
-Copyright for videos
+What is intellectual property?
 
 I have a different question
 
@@ -1673,9 +1675,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -2054,9 +2058,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 
