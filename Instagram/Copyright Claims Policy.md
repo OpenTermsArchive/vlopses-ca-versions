@@ -103,6 +103,16 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 Trademark
 =========
 
+Report trademark infringement
+
+What does trademark protect?
+
+Avoid trademark infringement
+
+My trademark was infringed
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
 Please note that laws in different countries may vary. For more information on trademark law, you can visit the website of the [United States Patent and Trademark Office](http://www.uspto.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram or Threads can't provide you with legal advice, so you may want to speak with an attorney if you have more questions about trademarks.
@@ -200,6 +210,16 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
+
+My work was copied
+
+Stop someone using my work
+
+What is copyright infringement?
+
+How to grant permission?
+
+I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
@@ -423,16 +443,6 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-My copyright was infringed
-
-Report copyright for someone
-
-What is Brand Rights Protection?
-
-What is a DMCA agent?
-
-I have a different question
-
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
 *   You can report copyright infringement by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
@@ -484,14 +494,6 @@ How to contact Threads or Instagram's Digital Millennium Copyright Act (DMCA) de
 ==============================================================================================
 
 Copy link
-
-Where is the online form?
-
-What is a complete copyright claim?
-
-How to contact by mail?
-
-I have a different question
 
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to fill out our [online form](https://help.instagram.com/contact/372592039493026).
 
@@ -779,16 +781,6 @@ How to report trademark infringement on Instagram or Threads
 
 Copy link
 
-Report trademark on Threads
-
-My trademark was infringed
-
-Brand Rights Protection tool
-
-What are legal consequences?
-
-I have a different question
-
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
 You can report copyright infringement [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -946,16 +938,6 @@ Information you need to include in a trademark report on Instagram or Threads
 
 Copy link
 
-What is a trademark report?
-
-What info do I need?
-
-How to find a URL?
-
-My trademark was infringed
-
-I have a different question
-
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address, and phone number)\*.
@@ -1040,11 +1022,11 @@ For any content that was removed based on U.S. trademark rights, we will include
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
-Appeal content removal
+Appeal a copyright removal
 
-DMCA counter-notification
+File a DMCA counter-notification
 
-My appeal was rejected
+My account was disabled
 
 I have a different question
 
