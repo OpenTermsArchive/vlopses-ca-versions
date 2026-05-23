@@ -1159,11 +1159,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
-Restore removed content
+Retract my report
 
 I have a different question
 
@@ -1608,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1754,9 +1754,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
+
+How to get permission?
+
+How to report copyright violation?
 
 I have a different question
 
@@ -1812,9 +1814,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-My video was removed
-
 Why was my video removed?
+
+My video was removed
 
 Video removed for copyright
 
