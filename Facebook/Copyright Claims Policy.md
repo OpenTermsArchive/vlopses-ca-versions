@@ -174,11 +174,11 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
 What is trademark dilution?
 
-Is my trademark protected?
-
-What if I used it first?
+Limits to trademark rights?
 
 I have a different question
 
@@ -1608,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+What is public domain?
 
-Is my content copyrighted?
+What is intellectual property?
 
 I have a different question
 
@@ -1754,11 +1754,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
-
-How to get permission?
-
-How to report copyright violation?
 
 I have a different question
 
@@ -1814,9 +1812,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-Why was my video removed?
-
 My video was removed
+
+Why was my video removed?
 
 Video removed for copyright
 
@@ -1891,13 +1889,13 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
+My content was removed
 
-Contact rights owner
+Appeal removed content
 
 DMCA counter-notification
 
-My content was removed
+My Page content removed
 
 I have a different question
 
@@ -2116,11 +2114,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What is copyright infringement?
+What info to include?
 
-How to report copyright?
+Where to report copyright?
 
-What happens after I report?
+My copyright was infringed
 
 I have a different question
 
@@ -2230,11 +2228,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-My copyright report number
+My report number
 
-What happens after I report?
+Respond to a report
 
-Why was my report rejected?
+What info is shared?
 
 I have a different question
 
