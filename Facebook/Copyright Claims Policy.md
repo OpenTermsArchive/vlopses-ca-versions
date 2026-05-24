@@ -385,9 +385,11 @@ Copy link
 
 Report counterfeit goods
 
+Counterfeit sales on Facebook
+
 What is trademark infringement?
 
-Counterfeit sales on Facebook
+Is selling counterfeits illegal?
 
 I have a different question
 
@@ -592,11 +594,9 @@ Copy link
 
 Appeal content removal
 
-My content was removed
-
-Contact rights owner
-
 Appeal trademark report
+
+Intellectual property appeal
 
 I have a different question
 
@@ -1390,13 +1390,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is fair use?
+What is copyright?
 
 Copyright for my content
 
-Copyright for photos/videos
+Copyright for photos
 
-What is intellectual property?
+Copyright for videos
 
 I have a different question
 
@@ -1673,9 +1673,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1750,11 +1752,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
-
-How to get permission?
-
-How to report copyright violation?
 
 I have a different question
 
@@ -2285,11 +2285,11 @@ Copy link
 
 Apply for Rights Manager
 
-What is Content Protection?
+Content protection for creators
 
 Report copyright infringement
 
-How to monetize my videos?
+What are my enforcement options?
 
 I have a different question
 
