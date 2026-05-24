@@ -174,11 +174,11 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark infringement?
-
 What is trademark dilution?
 
-Limits to trademark rights?
+Is my trademark protected?
+
+What if I used it first?
 
 I have a different question
 
@@ -385,11 +385,9 @@ Copy link
 
 Report counterfeit goods
 
-Counterfeit sales on Facebook
-
 What is trademark infringement?
 
-Is selling counterfeits illegal?
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -1159,11 +1157,11 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel copyright report
+Cancel my IP report
 
-Retract my report
+Restore removed content
 
 I have a different question
 
@@ -1675,11 +1673,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
-
-How to dispute copyright?
 
 I have a different question
 
@@ -1754,9 +1750,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
+
+How to get permission?
+
+How to report copyright violation?
 
 I have a different question
 
@@ -1889,13 +1887,13 @@ Facebook Lite App Help
 
 More
 
-My content was removed
+Appeal content removal
 
-Appeal removed content
+Contact rights owner
 
 DMCA counter-notification
 
-My Page content removed
+My content was removed
 
 I have a different question
 
@@ -2058,9 +2056,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Send a DMCA report
 
-Report copyright infringement
+DMCA contact information
 
 DMCA claim requirements
 
@@ -2114,11 +2112,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
+What is copyright infringement?
 
-Where to report copyright?
+How to report copyright?
 
-My copyright was infringed
+What happens after I report?
 
 I have a different question
 
@@ -2228,11 +2226,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-My report number
+My copyright report number
 
-Respond to a report
+What happens after I report?
 
-What info is shared?
+Why was my report rejected?
 
 I have a different question
 
@@ -2287,11 +2285,11 @@ Copy link
 
 Apply for Rights Manager
 
-Content protection for creators
+What is Content Protection?
 
 Report copyright infringement
 
-What are my enforcement options?
+How to monetize my videos?
 
 I have a different question
 
