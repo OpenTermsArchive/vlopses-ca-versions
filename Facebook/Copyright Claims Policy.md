@@ -50,6 +50,16 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+Report trademark infringement
+
+Apply for Brand Rights Protection
+
+What is trademark law?
+
+What does trademark protect?
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -430,9 +440,9 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What is nominative fair use?
 
-When can I use a trademark?
+When is trademark use infringing?
 
 Limits to trademark rights?
 
@@ -826,7 +836,7 @@ Copy link
 
 Report trademark infringement
 
-Username violates trademark
+My trademark is used
 
 Contact username owner
 
@@ -924,11 +934,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-How to report trademark?
+What is a trademark report?
 
-What to include in report?
+Where do I submit a report?
 
-My trademark was infringed
+What if I'm not the owner?
 
 How to find a URL?
 
@@ -1449,13 +1459,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns copyright?
+Who owns my original work?
+
+What is copyright ownership?
 
 My employer owns my work
-
-I appear in a photo
-
-Contact a copyright attorney
 
 I have a different question
 
@@ -1606,9 +1614,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
