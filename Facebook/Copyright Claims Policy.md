@@ -1390,13 +1390,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is fair use?
+What is copyright?
 
 Copyright for my content
 
-Copyright for photos/videos
+Copyright for photos
 
-What is intellectual property?
+Copyright for videos
 
 I have a different question
 
