@@ -387,14 +387,6 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 
 Copy link
 
-File a counter-notification
-
-My content was removed
-
-Restore my content
-
-I have a different question
-
 Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
 If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the messages we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
@@ -975,16 +967,6 @@ Instagram or Threads removed content as a result of your trademark report. What 
 
 Copy link
 
-What information is shared?
-
-Who sees my information?
-
-Appeal content removal
-
-What is a trademark report?
-
-I have a different question
-
 When we receive [trademark infringement reports](https://help.instagram.com/1921828231475726?helpref=faq_content) and remove the reported content, we provide the reported user with the following information:
 
 *   Report number
@@ -1002,11 +984,11 @@ For any content that was removed based on U.S. trademark rights, we will include
 How to appeal the removal of content on Instagram or Threads for copyright reasons
 ==================================================================================
 
-Appeal a copyright removal
+Appeal content removal
 
-File a DMCA counter-notification
+DMCA counter-notification
 
-My account was disabled
+My appeal was rejected
 
 I have a different question
 
