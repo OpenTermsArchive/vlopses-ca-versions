@@ -385,9 +385,11 @@ Copy link
 
 Report counterfeit goods
 
+Counterfeit sales on Facebook
+
 What is trademark infringement?
 
-Counterfeit sales on Facebook
+Is selling counterfeits illegal?
 
 I have a different question
 
@@ -1390,13 +1392,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is fair use?
 
 Copyright for my content
 
-Copyright for photos
+Copyright for photos/videos
 
-Copyright for videos
+What is intellectual property?
 
 I have a different question
 
@@ -1606,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1750,11 +1752,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
-
-How to get permission?
-
-How to report copyright violation?
 
 I have a different question
 
