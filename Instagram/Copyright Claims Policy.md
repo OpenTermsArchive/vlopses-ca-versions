@@ -3,6 +3,16 @@ Intellectual Property
 
 Copy link
 
+Report copyright violation
+
+Report trademark violation
+
+What is copyright?
+
+What is a trademark?
+
+I have a different question
+
 About Intellectual Property
 ---------------------------
 
@@ -93,6 +103,16 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 Trademark
 =========
 
+Report trademark infringement
+
+What does trademark protect?
+
+Avoid trademark infringement
+
+My trademark was infringed
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
 Please note that laws in different countries may vary. For more information on trademark law, you can visit the website of the [United States Patent and Trademark Office](http://www.uspto.gov/) or the [World Intellectual Property Organization (WIPO)](http://www.wipo.int/portal/en/index.html). Instagram or Threads can't provide you with legal advice, so you may want to speak with an attorney if you have more questions about trademarks.
@@ -151,6 +171,16 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright infringement?
+
+How do I report infringement?
+
+Can I use copyrighted content?
+
+What is fair use?
+
+I have a different question
+
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -166,6 +196,13 @@ Generally, names, titles, slogans or short phrases aren't considered to be origi
 Copyright generally doesn’t protect facts or ideas, but it may protect the original words or images that express a fact or idea. This means that you may be able to express the same idea or fact as another author, as long as you don’t copy that author’s way of expressing that idea or fact. For example, a playwright may not be able to copyright the idea of a man waking up to repeat the same day over and over again, but the script for a play or movie expressing that idea could be subject to copyright.
 
 Learn more about our intellectual property rights in the [Transparency Center](https://transparency.meta.com/policies/community-standards/intellectual-property/).
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -278,6 +315,14 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
+What is fair use?
+
+What are copyright exceptions?
+
+How do I use copyrighted work?
+
+I have a different question
+
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
@@ -313,6 +358,13 @@ Exceptions to Copyright
 The application of exceptions and limitations to copyright may vary from country to country. As a general matter, in countries that rely on exceptions and limitations, the use of copyrighted works should not unreasonably harm a rights holder’s interests.
 
 In the EU, each Member State must ensure that users are able to rely on the following exceptions when making content available: quotation, criticism, review, caricature, parody or pastiche. To learn more about copyright law in the EU, you can visit the [EUIPO website.](https://euipo.europa.eu/ohimportal/en/web/observatory/faqs-on-copyright-sk)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -355,16 +407,6 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-My account was disabled
-
-Appeal account disablement
-
-Avoid copyright infringement
-
-What is repeat infringer policy?
-
-I have a different question
-
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Repeat Infringer Policy
@@ -404,6 +446,14 @@ Report copyright infringement on Instagram or Threads
 =====================================================
 
 Copy link
+
+Report copyright infringement
+
+Fill out copyright form
+
+Brand Rights Protection
+
+I have a different question
 
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
@@ -538,6 +588,14 @@ What happens when you submit a copyright report to Instagram or Threads
 
 Copy link
 
+What happens to my report?
+
+Why was my report rejected?
+
+How to appeal a decision?
+
+I have a different question
+
 If you submitted a copyright report to us through our [online form](https://help.instagram.com/contact/372592039493026) or via email, you'll receive an automated email that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team asking for more information about your report, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -650,6 +708,13 @@ A counterfeit good is a knockoff or replica version of another company’s produ
 
 If you believe content on Instagram or Threads is selling or promoting counterfeit goods, you can report it to us [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Are there any limits to trademark rights?
@@ -720,16 +785,6 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 =============================================================================================================================
 
 Copy link
-
-My account was disabled
-
-Appeal account disablement
-
-Avoid copyright infringement
-
-What is repeat infringer policy?
-
-I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -869,6 +924,14 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
+What is fair use?
+
+What are copyright exceptions?
+
+How do I use copyrighted work?
+
+I have a different question
+
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
@@ -905,22 +968,19 @@ The application of exceptions and limitations to copyright may vary from country
 
 In the EU, each Member State must ensure that users are able to rely on the following exceptions when making content available: quotation, criticism, review, caricature, parody or pastiche. To learn more about copyright law in the EU, you can visit the [EUIPO website.](https://euipo.europa.eu/ohimportal/en/web/observatory/faqs-on-copyright-sk)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Information you need to include in a trademark report on Instagram or Threads
 =============================================================================
 
 Copy link
-
-What is a trademark report?
-
-What info do I need?
-
-How to find a URL?
-
-My trademark was infringed
-
-I have a different question
 
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
