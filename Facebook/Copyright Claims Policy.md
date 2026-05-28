@@ -385,11 +385,9 @@ Copy link
 
 Report counterfeit goods
 
-Counterfeit sales on Facebook
-
 What is trademark infringement?
 
-Is selling counterfeits illegal?
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -2060,9 +2058,9 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
+Contact DMCA agent
 
-DMCA contact information
+Report copyright infringement
 
 DMCA claim requirements
 
