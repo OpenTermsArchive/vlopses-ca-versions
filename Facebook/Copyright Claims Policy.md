@@ -123,7 +123,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
+Report trademark infringement
 
 How do trademarks work?
 
@@ -536,13 +536,13 @@ How can I make sure the content I post to Facebook doesn’t violate trademark l
 
 Copy link
 
-What is trademark infringement?
+My content violates trademark law
 
-How to avoid trademark issues?
+How to avoid trademark infringement
 
-Can I use a trademarked word?
+What is intellectual property?
 
-I need legal advice
+How to use trademarks legally?
 
 I have a different question
 
@@ -1265,11 +1265,11 @@ Copy link
 
 Report intellectual property infringement
 
-Brand Rights Protection application
+My intellectual property was infringed
 
-Trademark violations
+Brand Rights Protection eligibility
 
-Copyright infringement
+How to apply for BRP
 
 I have a different question
 
@@ -1752,11 +1752,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
-
-How to get permission?
-
-How to report copyright violation?
 
 I have a different question
 
