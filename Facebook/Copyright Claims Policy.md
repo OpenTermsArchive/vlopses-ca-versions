@@ -594,8 +594,6 @@ Appeal content removal
 
 My content was removed
 
-Contact rights owner
-
 Appeal trademark report
 
 I have a different question
@@ -1394,13 +1392,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
-
-Can I use copyrighted content?
-
 What is fair use?
 
-My content was copied
+Copyright for my content
+
+Copyright for photos/videos
+
+What is intellectual property?
 
 I have a different question
 
@@ -1508,11 +1506,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted work?
-
 My work was copied
 
-How do I protect my work?
+Stop others using my work
+
+Grant permission to use
 
 I have a different question
 
@@ -1610,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+What is public domain?
 
-Is my content copyrighted?
+What is intellectual property?
 
 I have a different question
 
@@ -1677,9 +1675,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1754,11 +1754,9 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content with credit?
+Can I use copyrighted content?
 
 What is fair use?
-
-What if I modified content?
 
 I have a different question
 
@@ -1814,9 +1812,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-Why was my video removed?
-
 My video was removed
+
+Why was my video removed?
 
 Video removed for copyright
 
@@ -2008,9 +2006,9 @@ Copy link
 
 Report copyright infringement
 
-Contact designated agent
+My copyright was infringed
 
-My content was reported
+Contact designated agent
 
 I have a different question
 
