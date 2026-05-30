@@ -3,16 +3,6 @@ Intellectual Property
 
 Copy link
 
-Report copyright violation
-
-Report trademark violation
-
-What is copyright?
-
-What is a trademark?
-
-I have a different question
-
 About Intellectual Property
 ---------------------------
 
@@ -46,6 +36,14 @@ If your issue isn't related to Intellectual Property, please see one of the rela
 
 Copyright
 =========
+
+Report copyright infringement
+
+Protect my copyrighted work
+
+What is copyright?
+
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
@@ -102,16 +100,6 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Trademark
 =========
-
-Report trademark infringement
-
-What do trademarks protect?
-
-Avoid trademark infringement
-
-What is trademark law?
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -298,6 +286,14 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
+What is fair use?
+
+What are copyright exceptions?
+
+My content was removed
+
+I have a different question
+
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
@@ -368,13 +364,6 @@ If we remove content you posted because of an intellectual property report submi
 
 If your content was removed because of a copyright report, you can submit an appeal. Learn more about [our appeals process](https://www.facebook.com/help/instagram/1417735471763678?locale=en_US&helpref=faq_content) or [how to use music in your videos on Instagram or Threads.](https://www.facebook.com/help/instagram/629037417957828?helpref=faq_content)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 What happens if you repeatedly post content on Instagram or Threads that violates someone else’s intellectual property rights
@@ -396,13 +385,6 @@ If something you posted is restored due to an appeal or because a rights owner w
 Learn more about [what you can do if you believe your account was disabled by mistake](https://help.instagram.com/366993040048856?helpref=faq_content).
 
 Get more information on how to avoid copyright infringement when posting to Instagram or Threads in the [frequently asked questions article.](https://help.instagram.com/126382350847838?helpref=faq_content)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -440,6 +422,13 @@ If you believe content on Instagram or Threads is infringing your copyright, you
 *   Only the copyright owner or their authorized representative may file a report of copyright infringement. If you believe something on Instagram or Threads infringes someone else’s copyright, you may want to let the rights owner know.
 *   We regularly provide the rights owner’s name, your email and the details of your report to the person who posted the content you are reporting. In the case that you are an authorized representative submitting a report, we provide the name of the organization or client that owns the right in question. For this reason, you may wish to provide a valid generic business or professional email.
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 What to consider before submitting an intellectual property infringement report to Instagram or Threads
@@ -465,6 +454,13 @@ For copyright, it’s important to note that intentionally submitting a misleadi
 
 Learn how to [submit a copyright or infringement report](https://help.instagram.com/277982542336146?helpref=faq_content).
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Can I report an infringement of someone else’s intellectual property on Instagram or Threads?
@@ -473,6 +469,13 @@ Can I report an infringement of someone else’s intellectual property on Instag
 Copy link
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -596,6 +599,13 @@ The best way to do that is to complete the Retraction Form provided to you in th
 
 Once we receive notice that you’d like to withdraw your report, we’ll restore the content if it has already been removed and send you an email confirmation. Please note, we may be unable to restore the content in certain instances, including technical limitations or if the content was removed for other reasons unrelated to your intellectual property report.
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 More about trademarks and what they protect
@@ -617,6 +627,14 @@ What is trademark infringement?
 ===============================
 
 Copy link
+
+What is likelihood of confusion?
+
+Limits to trademark rights
+
+When does infringement occur?
+
+I have a different question
 
 Generally, trademark infringement occurs when:
 
@@ -670,13 +688,6 @@ Copy link
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights. Please also note that for trademarks that are registered with the United States Patent and Trademark Office (USPTO), issued registrations must be renewed periodically. The laws in other jurisdictions may vary.
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 What is a counterfeit?
@@ -694,6 +705,16 @@ Are there any limits to trademark rights?
 =========================================
 
 Copy link
+
+What is nominative fair use?
+
+Resale of legitimate goods
+
+Trademark geographic limits
+
+Trademark infringement examples
+
+I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
@@ -736,22 +757,19 @@ Before you post content, you might want to ask:
 
 If you have questions about trademark law or whether your content infringes another party’s trademark rights, you may want to contact an attorney.
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Content I posted on Instagram or Threads was removed because it was reported for intellectual property infringement. What are my next steps?
 ============================================================================================================================================
 
 Copy link
-
-My content was removed
-
-Appeal a trademark removal
-
-Contact the rights owner
-
-What is the appeals process?
-
-I have a different question
 
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
@@ -784,13 +802,6 @@ Learn more about [what you can do if you believe your account was disabled by mi
 
 Get more information on how to avoid copyright infringement when posting to Instagram or Threads in the [frequently asked questions article.](https://help.instagram.com/126382350847838?helpref=faq_content)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 How to report trademark infringement on Instagram or Threads
@@ -816,6 +827,13 @@ Can I report an infringement of someone else’s intellectual property on Instag
 Copy link
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -885,12 +903,29 @@ For copyright, it’s important to note that intentionally submitting a misleadi
 
 Learn how to [submit a copyright or infringement report](https://help.instagram.com/277982542336146?helpref=faq_content).
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Are there any limits to trademark rights?
 =========================================
 
 Copy link
+
+What is nominative fair use?
+
+Resale of legitimate goods
+
+Trademark geographic limits
+
+Trademark infringement examples
+
+I have a different question
 
 Not all uses of a trademark without permission of the trademark owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, it’s generally not considered infringing.
 
@@ -910,6 +945,14 @@ What are fair use and other exceptions to copyright?
 ====================================================
 
 Copy link
+
+What is fair use?
+
+What are copyright exceptions?
+
+My content was removed
+
+I have a different question
 
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
@@ -1010,6 +1053,13 @@ If you submitted an intellectual property report, but then reached an agreement 
 The best way to do that is to complete the Retraction Form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
 
 Once we receive notice that you’d like to withdraw your report, we’ll restore the content if it has already been removed and send you an email confirmation. Please note, we may be unable to restore the content in certain instances, including technical limitations or if the content was removed for other reasons unrelated to your intellectual property report.
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
