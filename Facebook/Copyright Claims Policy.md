@@ -14,13 +14,13 @@ Intellectual Property
 
 Copy link
 
-My content was removed
-
 Report copyright violation
 
 Report trademark violation
 
-What is intellectual property?
+What is copyright?
+
+What is trademark?
 
 I have a different question
 
@@ -49,6 +49,16 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 
 Trademark
 =========
+
+Report trademark infringement
+
+Apply for Brand Rights Protection
+
+What is trademark law?
+
+What does trademark protect?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
@@ -176,9 +186,9 @@ Copy link
 
 What is trademark dilution?
 
-What is likelihood of confusion?
+My trademark was infringed
 
-Limits to trademark rights?
+Report trademark infringement
 
 I have a different question
 
@@ -234,13 +244,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register a trademark
+Register my trademark
 
 Trademark rights without registration
 
-Register trademark outside US
+Trademark protection outside US
 
-What is common law rights?
+What is common law right?
 
 I have a different question
 
@@ -332,13 +342,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long trademark rights last?
+Renew trademark registration
 
-Renew my trademark
+Lose trademark rights
 
-Lose my trademark rights
-
-My trademark is not registered
+Trademark rights in EUIPO
 
 I have a different question
 
@@ -594,9 +602,9 @@ Copy link
 
 Appeal content removal
 
-Appeal trademark report
+My content was removed
 
-Intellectual property appeal
+Appeal trademark report
 
 I have a different question
 
@@ -1116,11 +1124,9 @@ Copy link
 
 Report a third-party app
 
-App infringes my IP
+My intellectual property infringed
 
 Contact app developer
-
-My idea was stolen
 
 I have a different question
 
@@ -1320,6 +1326,8 @@ Protect my copyrighted work
 
 What is copyright?
 
+Rights Manager tool
+
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Frequests%2F1523801815366035%2F).
@@ -1396,13 +1404,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-Can I use copyrighted content?
+Copyright for my photos?
 
-What is fair use?
-
-My content was copied
+Copyright for my videos?
 
 I have a different question
 
@@ -1612,9 +1618,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+Do I need permission?
 
-Is my content copyrighted?
+What is public domain?
 
 I have a different question
 
@@ -1679,9 +1685,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1756,11 +1764,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content with credit?
-
 What is fair use?
 
-What if I modified content?
+How to get permission?
+
+How to report copyright violation?
 
 I have a different question
 
@@ -1816,11 +1824,13 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-Why was my video removed?
-
 My video was removed
 
+Why was my video removed?
+
 Video removed for copyright
+
+My video was taken down
 
 I have a different question
 
@@ -1895,11 +1905,9 @@ More
 
 Appeal content removal
 
-Contact rights owner
+My content was removed
 
 DMCA counter-notification
-
-My content was removed
 
 I have a different question
 
@@ -2010,9 +2018,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
+My content was stolen
 
-Contact designated agent
+Someone used my photo
 
 I have a different question
 
