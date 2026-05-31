@@ -14,13 +14,13 @@ Intellectual Property
 
 Copy link
 
+My content was removed
+
 Report copyright violation
 
 Report trademark violation
 
-What is copyright?
-
-What is trademark?
+What is intellectual property?
 
 I have a different question
 
@@ -176,9 +176,9 @@ Copy link
 
 What is trademark dilution?
 
-My trademark was infringed
+What is likelihood of confusion?
 
-Report trademark infringement
+Limits to trademark rights?
 
 I have a different question
 
@@ -234,13 +234,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Register a trademark
 
 Trademark rights without registration
 
-Trademark protection outside US
+Register trademark outside US
 
-What is common law right?
+What is common law rights?
 
 I have a different question
 
@@ -332,11 +332,13 @@ How long does trademark protection last?
 
 Copy link
 
-Renew trademark registration
+How long trademark rights last?
 
-Lose trademark rights
+Renew my trademark
 
-Trademark rights in EUIPO
+Lose my trademark rights
+
+My trademark is not registered
 
 I have a different question
 
@@ -592,9 +594,9 @@ Copy link
 
 Appeal content removal
 
-My content was removed
-
 Appeal trademark report
+
+Intellectual property appeal
 
 I have a different question
 
@@ -1114,9 +1116,11 @@ Copy link
 
 Report a third-party app
 
-My intellectual property infringed
+App infringes my IP
 
 Contact app developer
+
+My idea was stolen
 
 I have a different question
 
@@ -1392,13 +1396,13 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright infringement?
+
+Can I use copyrighted content?
+
 What is fair use?
 
-Copyright for my content
-
-Copyright for photos/videos
-
-What is intellectual property?
+My content was copied
 
 I have a different question
 
@@ -1608,9 +1612,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1675,11 +1679,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
-
-How to dispute copyright?
 
 I have a different question
 
@@ -1754,9 +1756,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
+Can I use content with credit?
 
 What is fair use?
+
+What if I modified content?
 
 I have a different question
 
@@ -1812,9 +1816,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-My video was removed
-
 Why was my video removed?
+
+My video was removed
 
 Video removed for copyright
 
