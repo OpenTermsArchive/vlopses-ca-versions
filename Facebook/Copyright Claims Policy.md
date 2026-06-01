@@ -50,16 +50,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-Report trademark infringement
-
-Apply for Brand Rights Protection
-
-What is trademark law?
-
-What does trademark protect?
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -391,11 +381,9 @@ Copy link
 
 Report counterfeit goods
 
-Counterfeit sales on Facebook
-
 What is trademark infringement?
 
-How to report counterfeits?
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -1124,9 +1112,11 @@ Copy link
 
 Report a third-party app
 
-My intellectual property infringed
+App infringes my IP
 
 Contact app developer
+
+My idea was stolen
 
 I have a different question
 
@@ -1404,11 +1394,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is fair use?
 
-Copyright for my photos?
+Copyright for my content
 
-Copyright for my videos?
+Copyright for photos/videos
+
+What is intellectual property?
 
 I have a different question
 
@@ -1618,9 +1610,9 @@ Copy link
 
 What is fair use?
 
-Do I need permission?
+How to get permission?
 
-What is public domain?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1685,11 +1677,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
-
-How to dispute copyright?
 
 I have a different question
 
@@ -1766,9 +1756,9 @@ What is copyright infringement?
 
 What is fair use?
 
-How to get permission?
+Can I use copyrighted content?
 
-How to report copyright violation?
+What if I give credit?
 
 I have a different question
 
@@ -1824,13 +1814,11 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-My video was removed
-
 Why was my video removed?
 
-Video removed for copyright
+My video was removed
 
-My video was taken down
+Video removed for copyright
 
 I have a different question
 
@@ -1903,11 +1891,13 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
-
 My content was removed
 
+Appeal removed content
+
 DMCA counter-notification
+
+My Page content removed
 
 I have a different question
 
@@ -2070,13 +2060,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Send a DMCA report
+
 Contact DMCA agent
 
-DMCA online form
+My copyright was infringed
 
-DMCA contact information
-
-Complete copyright claim
+How to contact Meta DMCA
 
 I have a different question
 
