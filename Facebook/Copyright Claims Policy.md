@@ -542,7 +542,7 @@ What is trademark infringement?
 
 How to avoid trademark issues?
 
-What is intellectual property?
+Seek legal advice
 
 I have a different question
 
@@ -726,9 +726,9 @@ Copy link
 
 Report trademark infringement
 
-My trademark was infringed
+Fill out trademark form
 
-What is trademark infringement?
+Trademark dispute resolution
 
 I have a different question
 
@@ -776,14 +776,6 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 =================================================================================
 
 Copy link
-
-Report copyright infringement
-
-Report trademark infringement
-
-Report intellectual property
-
-I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Facebook infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
@@ -1159,9 +1151,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
 Restore removed content
 
@@ -1316,6 +1308,8 @@ Protect my copyrighted work
 
 What is copyright?
 
+Rights Manager tool
+
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Frequests%2F1523801815366035%2F).
@@ -1392,13 +1386,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-Copyright for my content
+Can I use copyrighted content?
 
-Copyright for photos
+What is fair use?
 
-Copyright for videos
+My content was copied
 
 I have a different question
 
@@ -1456,8 +1450,6 @@ Who owns my original work?
 What is copyright ownership?
 
 My employer owns my work?
-
-Contact a copyright attorney
 
 I have a different question
 
@@ -1610,9 +1602,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+How to get permission?
 
-What is intellectual property?
+Is my content copyrighted?
 
 I have a different question
 
@@ -1677,7 +1669,7 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
 
@@ -1756,9 +1748,9 @@ What is copyright infringement?
 
 What is fair use?
 
-Can I use copyrighted content?
+How to get permission?
 
-What if I give credit?
+How to report copyright violation?
 
 I have a different question
 
@@ -1819,8 +1811,6 @@ My video was removed
 Why was my video removed?
 
 Video removed for copyright
-
-My video was taken down
 
 I have a different question
 
@@ -2010,9 +2000,9 @@ Copy link
 
 Report copyright infringement
 
-Contact designated agent
+My content was stolen
 
-My content was reported
+Someone used my photo
 
 I have a different question
 
@@ -2062,13 +2052,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
-
 Contact DMCA agent
 
-My copyright was infringed
+DMCA online form
 
-How to contact Meta DMCA
+DMCA contact information
+
+Complete copyright claim
 
 I have a different question
 
@@ -2120,11 +2110,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
+What is a copyright report?
 
-Where to find URLs?
+What info do I need?
 
-My copyright was infringed
+Where do I report copyright?
+
+My report was rejected
 
 I have a different question
 
@@ -2234,13 +2226,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after I report?
+What is a report number?
 
-I need to update my report
+What info is shared?
 
-I received a message
-
-What information is shared?
+How to appeal a decision?
 
 I have a different question
 
