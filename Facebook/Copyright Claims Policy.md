@@ -18,9 +18,9 @@ Report copyright violation
 
 Report trademark violation
 
-My content was removed
+What is copyright?
 
-What is intellectual property?
+What is trademark?
 
 I have a different question
 
@@ -428,11 +428,13 @@ Are there any limits to trademark rights?
 
 Copy link
 
-What is trademark infringement?
+What is nominative fair use?
 
 Limits to trademark rights?
 
-Use trademark without permission?
+Trademark use without permission?
+
+Geographic limits on trademarks?
 
 I have a different question
 
@@ -540,7 +542,7 @@ What is trademark infringement?
 
 How to avoid trademark issues?
 
-Seek legal advice
+What is intellectual property?
 
 I have a different question
 
@@ -1392,9 +1394,11 @@ Copy link
 
 What is copyright?
 
-Copyright for my photos?
+Copyright for my content
 
-Copyright for my videos?
+Copyright for photos
+
+Copyright for videos
 
 I have a different question
 
@@ -1606,9 +1610,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+What is public domain?
 
-Is my content copyrighted?
+What is intellectual property?
 
 I have a different question
 
@@ -1673,7 +1677,7 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
 
@@ -1750,11 +1754,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content with credit?
-
 What is fair use?
 
-What if I modified content?
+Can I use copyrighted content?
+
+What if I give credit?
 
 I have a different question
 
@@ -1815,6 +1819,8 @@ My video was removed
 Why was my video removed?
 
 Video removed for copyright
+
+My video was taken down
 
 I have a different question
 
@@ -2004,9 +2010,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+Contact designated agent
 
-Someone used my photo
+My content was reported
 
 I have a different question
 
@@ -2056,13 +2062,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Send a DMCA report
+
 Contact DMCA agent
 
-DMCA online form
+My copyright was infringed
 
-DMCA contact information
-
-Complete copyright claim
+How to contact Meta DMCA
 
 I have a different question
 
@@ -2114,13 +2120,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What is a copyright report?
+What info to include?
 
-What info do I need?
+Where to find URLs?
 
-Where do I report copyright?
-
-My report was rejected
+My copyright was infringed
 
 I have a different question
 
@@ -2230,11 +2234,13 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What is a report number?
+What happens after I report?
 
-What info is shared?
+I need to update my report
 
-How to appeal a decision?
+I received a message
+
+What information is shared?
 
 I have a different question
 
