@@ -161,6 +161,16 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
+What does copyright protect?
+
+Copyright for my content
+
+What is fair use?
+
+I have a different question
+
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -201,16 +211,6 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-My work was copied
-
-Stop copyright infringement
-
-Grant permission to use my work
-
-What is fair use?
-
-I have a different question
-
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -223,6 +223,14 @@ How long does copyright protection last?
 ========================================
 
 Copy link
+
+When does copyright expire?
+
+What is public domain?
+
+How long is copyright valid?
+
+I have a different question
 
 Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it’s freely available for anyone to use.
 
@@ -249,16 +257,6 @@ The difference between copyright and trademark
 ==============================================
 
 Copy link
-
-What is copyright?
-
-What is trademark?
-
-Copyright vs trademark
-
-Report copyright infringement
-
-I have a different question
 
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -386,9 +384,11 @@ Copy link
 
 Appeal content removal
 
+My content was removed
+
 Contact rights owner
 
-My content was removed
+Copyright appeal process
 
 I have a different question
 
@@ -436,9 +436,9 @@ File a counter-notification
 
 My content was removed
 
-Restore my content
+DMCA counter-notification process
 
-What is a repeat infringer?
+Restore my content
 
 I have a different question
 
@@ -560,6 +560,14 @@ Instagram or Threads removed content as a result of your copyright report. What 
 
 Copy link
 
+My content was removed
+
+Appeal a copyright claim
+
+Contact the rights owner
+
+I have a different question
+
 When we receive copyright claims through our online form and remove the reported content, we typically provide the reported user with the following information:
 
 *   Report number
@@ -607,6 +615,13 @@ Please note that we regularly provide the person who posted the content with the
 
 The person whose content was removed may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address.
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Retract an intellectual property report that you've submitted to Instagram or Threads
@@ -652,12 +667,27 @@ The touchstone of trademark infringement is often “likelihood of confusion,”
 
 Please note that the law in different countries relating to trademark rights and trademark infringement can vary. If you’re not sure if a particular use of a trademark would be considered infringement, you may want to consult with an attorney.
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Does a trademark need to be registered to be protected?
 =======================================================
 
 Copy link
+
+What are common law rights?
+
+Register a business name
+
+What is a USPTO registration?
+
+I have a different question
 
 It depends. In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
@@ -701,6 +731,16 @@ What is a counterfeit?
 
 Copy link
 
+Report counterfeit goods
+
+What is trademark infringement?
+
+Brand Rights Protection tool
+
+What is a knockoff?
+
+I have a different question
+
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe content on Instagram or Threads is selling or promoting counterfeit goods, you can report it to us [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -741,16 +781,6 @@ The difference between copyright and trademark
 
 Copy link
 
-What is copyright?
-
-What is trademark?
-
-Copyright vs trademark
-
-Report copyright infringement
-
-I have a different question
-
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
@@ -782,11 +812,11 @@ Copy link
 
 My content was removed
 
-Appeal content removal
+Appeal a trademark removal
 
-Contact rights owner
+Contact the rights owner
 
-What is copyright infringement?
+What is the appeals process?
 
 I have a different question
 
@@ -798,6 +828,13 @@ Appealing the removal of content
 If your content was removed because of a trademark report, you can submit an appeal. Instructions will be available for you in the notification you receive from us in your Facebook account.
 
 Learn more about [our appeals process](https://www.facebook.com/help/instagram/693680257839261?helpref=faq_content).
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -834,6 +871,14 @@ How to report trademark infringement on Instagram or Threads
 ============================================================
 
 Copy link
+
+Report trademark infringement
+
+My trademark was infringed
+
+What is Brand Rights Protection?
+
+I have a different question
 
 Instagram and Threads can’t adjudicate disputes between third parties, and so we wouldn’t be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside of Instagram or Threads. In these situations, rather than contacting Instagram or Threads, you may want to reach out directly to the party that you believe is infringing your rights, or seek any resolution in court or by other judicial means.
 
