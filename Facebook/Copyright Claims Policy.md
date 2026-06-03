@@ -234,13 +234,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Register a trademark
 
 Trademark rights without registration
 
-Trademark protection outside US
+Register trademark outside US
 
-What is common law right?
+What is common law rights?
 
 I have a different question
 
@@ -726,9 +726,9 @@ Copy link
 
 Report trademark infringement
 
-Fill out trademark form
+My trademark was infringed
 
-Trademark dispute resolution
+What is trademark infringement?
 
 I have a different question
 
@@ -776,6 +776,14 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 =================================================================================
 
 Copy link
+
+Report copyright infringement
+
+Report trademark infringement
+
+Report intellectual property
+
+I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Facebook infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
@@ -1151,9 +1159,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel copyright report
+Cancel my IP report
 
 Restore removed content
 
@@ -1602,9 +1610,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+What is public domain?
 
-Is my content copyrighted?
+What is intellectual property?
 
 I have a different question
 
@@ -1746,11 +1754,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use content with credit?
+
 What is fair use?
 
-How to get permission?
-
-How to report copyright violation?
+What if I modified content?
 
 I have a different question
 
@@ -1806,9 +1814,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-My video was removed
-
 Why was my video removed?
+
+My video was removed
 
 Video removed for copyright
 
@@ -2000,9 +2008,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+Contact designated agent
 
-Someone used my photo
+My content was reported
 
 I have a different question
 
