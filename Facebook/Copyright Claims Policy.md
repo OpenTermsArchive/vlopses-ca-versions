@@ -234,13 +234,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register a trademark
+Register my trademark
 
 Trademark rights without registration
 
-Register trademark outside US
+Trademark protection outside US
 
-What is common law rights?
+What is common law right?
 
 I have a different question
 
@@ -1316,8 +1316,6 @@ Protect my copyrighted work
 
 What is copyright?
 
-Rights Manager tool
-
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Frequests%2F1523801815366035%2F).
@@ -1610,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-What is public domain?
+Do I need permission?
 
-What is intellectual property?
+What is public domain?
 
 I have a different question
 
@@ -1677,7 +1675,7 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
 
@@ -1814,9 +1812,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-Why was my video removed?
-
 My video was removed
+
+Why was my video removed?
 
 Video removed for copyright
 
@@ -2008,9 +2006,9 @@ Copy link
 
 Report copyright infringement
 
-Contact designated agent
+My content was stolen
 
-My content was reported
+Someone used my photo
 
 I have a different question
 
