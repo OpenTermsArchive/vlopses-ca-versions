@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
-My content was removed
-
 Report copyright violation
 
 Report trademark violation
+
+My content was removed
 
 What is intellectual property?
 
@@ -1392,13 +1392,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-Can I use copyrighted content?
+Copyright for my content
 
-What is fair use?
+Copyright for photos
 
-My content was copied
+Copyright for videos
 
 I have a different question
 
@@ -1504,13 +1504,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What is copyright infringement?
+What are my copyright rights?
 
-My work was copied
+My content was copied
 
-Stop others using my work
+Report copyright infringement
 
-Grant permission to use
+What is fair use?
 
 I have a different question
 
@@ -1608,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+Do I need permission?
 
-Is my content copyrighted?
+What is public domain?
 
 I have a different question
 
