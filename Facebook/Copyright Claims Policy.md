@@ -1392,13 +1392,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-Copyright for my content
+Can I use copyrighted content?
 
-Copyright for photos
+What is fair use?
 
-Copyright for videos
+My content was copied
 
 I have a different question
 
@@ -1504,13 +1504,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What are my copyright rights?
+What is copyright infringement?
 
-My content was copied
+My work was copied
 
-Report copyright infringement
+Stop others using my work
 
-What is fair use?
+Grant permission to use
 
 I have a different question
 
@@ -1608,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-Do I need permission?
+Get permission to post
 
-What is public domain?
+My content was removed
 
 I have a different question
 
@@ -1675,7 +1675,7 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
 
@@ -2006,9 +2006,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+My copyright was infringed
 
-Someone used my photo
+Contact designated agent
 
 I have a different question
 
