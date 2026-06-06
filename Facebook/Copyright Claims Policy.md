@@ -992,6 +992,16 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
+What is my report number?
+
+Why was my report rejected?
+
+How do I respond to Meta?
+
+What information is shared?
+
+I have a different question
+
 If you submitted a [trademark report](https://www.facebook.com/help/191999230901156?helpref=faq_content) to us through our online form or via email, you’ll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -1384,11 +1394,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-Copyright for my photos?
+Can I use copyrighted content?
 
-Copyright for my videos?
+What is fair use?
+
+My content was copied
 
 I have a different question
 
