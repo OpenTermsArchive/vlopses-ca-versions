@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
-My content was removed
-
 Report copyright violation
 
 Report trademark violation
+
+My content was removed
 
 What is intellectual property?
 
@@ -2060,13 +2060,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Send a DMCA report
+
 Contact DMCA agent
 
-DMCA online form
+My copyright was infringed
 
-DMCA contact information
-
-Complete copyright claim
+How to contact Meta DMCA
 
 I have a different question
 
