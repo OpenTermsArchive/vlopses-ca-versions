@@ -2123,53 +2123,53 @@ CHANGE LOG
 
 Today
 
-Jan 23, 2025
+Jan 22, 2025
 
-Jul 3, 2024
+Jul 2, 2024
 
-Dec 14, 2023
+Dec 13, 2023
 
-Sep 29, 2023
+Sep 28, 2023
 
-Jun 30, 2023
+Jun 29, 2023
 
-Mar 31, 2023
+Mar 30, 2023
 
-Jan 27, 2023
+Jan 26, 2023
 
-Sep 30, 2022
+Sep 29, 2022
 
-Dec 24, 2021
+Dec 23, 2021
 
-Oct 14, 2021
+Oct 13, 2021
 
-Aug 27, 2021
+Aug 26, 2021
 
-May 5, 2021
+May 4, 2021
 
-Apr 3, 2021
+Apr 2, 2021
 
-Jan 29, 2021
+Jan 28, 2021
 
-Nov 19, 2020
+Nov 18, 2020
 
-Jul 31, 2020
+Jul 30, 2020
 
-May 29, 2020
+May 28, 2020
 
-Feb 28, 2020
+Feb 27, 2020
 
-Jan 31, 2020
+Jan 30, 2020
 
-Dec 17, 2019
+Dec 16, 2019
 
-Sep 30, 2019
+Sep 29, 2019
 
-Jul 31, 2019
+Jul 30, 2019
 
-Jul 2, 2019
+Jul 1, 2019
 
-Apr 27, 2019
+Apr 26, 2019
 
 Policy Rationale
 
@@ -2392,25 +2392,25 @@ CHANGE LOG
 
 Today
 
-Sep 20, 2025
+Sep 19, 2025
 
-Aug 29, 2025
+Aug 28, 2025
 
-Aug 1, 2025
+Jul 31, 2025
 
-Dec 27, 2024
+Dec 26, 2024
 
-Sep 28, 2024
+Sep 27, 2024
 
-Jan 13, 2024
+Jan 12, 2024
 
-Sep 1, 2023
+Aug 31, 2023
 
-Dec 8, 2022
+Dec 7, 2022
 
-Nov 25, 2021
+Nov 24, 2021
 
-Sep 4, 2019
+Sep 3, 2019
 
 Policy Rationale
 
@@ -2476,29 +2476,29 @@ CHANGE LOG
 
 Today
 
-May 1, 2026
+Apr 30, 2026
 
-Oct 3, 2024
+Oct 2, 2024
 
-Jun 27, 2024
+Jun 26, 2024
 
-Jun 30, 2023
+Jun 29, 2023
 
-Feb 24, 2023
+Feb 23, 2023
 
-Sep 30, 2022
+Sep 29, 2022
 
-Feb 25, 2022
+Feb 24, 2022
 
-Nov 25, 2021
+Nov 24, 2021
 
-Oct 1, 2021
+Sep 30, 2021
 
-Nov 19, 2020
+Nov 18, 2020
 
-Dec 1, 2018
+Nov 30, 2018
 
-Jun 30, 2018
+Jun 29, 2018
 
 Policy Rationale
 
@@ -3950,21 +3950,21 @@ CHANGE LOG
 
 Today
 
-Oct 10, 2024
+Oct 9, 2024
 
-Aug 1, 2024
+Jul 31, 2024
 
-Nov 24, 2022
+Nov 23, 2022
 
-Nov 19, 2020
+Nov 18, 2020
 
-Jan 31, 2020
+Jan 30, 2020
 
-Dec 17, 2019
+Dec 16, 2019
 
-Dec 1, 2019
+Nov 30, 2019
 
-Apr 27, 2019
+Apr 26, 2019
 
 Policy Rationale
 
@@ -4146,7 +4146,7 @@ CHANGE LOG
 
 Today
 
-Jun 27, 2024
+Jun 26, 2024
 
 Policy Rationale
 
@@ -4173,9 +4173,9 @@ CHANGE LOG
 
 Today
 
-Mar 1, 2024
+Feb 29, 2024
 
-Nov 20, 2020
+Nov 19, 2020
 
 We comply with:
 
