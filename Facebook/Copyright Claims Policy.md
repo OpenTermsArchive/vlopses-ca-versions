@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
-My content was removed
-
 Report copyright violation
 
 Report trademark violation
+
+My content was removed
 
 What is intellectual property?
 
@@ -49,16 +49,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 
 Trademark
 =========
-
-Report trademark infringement
-
-Apply for Brand Rights Protection
-
-What is trademark law?
-
-My trademark was infringed
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
@@ -791,9 +781,7 @@ Report copyright infringement
 
 Report trademark infringement
 
-Report someone else's IP
-
-How to report infringement
+Report intellectual property
 
 I have a different question
 
@@ -1328,6 +1316,8 @@ Protect my copyrighted work
 
 What is copyright?
 
+Rights Manager tool
+
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Frequests%2F1523801815366035%2F).
@@ -1404,13 +1394,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-Can I use copyrighted content?
+Copyright for my photos?
 
-What is fair use?
-
-My content was copied
+Copyright for my videos?
 
 I have a different question
 
@@ -1569,11 +1557,11 @@ Copy link
 
 What is public domain?
 
-When does copyright expire?
+Copyright for my photo?
 
-Can I use public domain content?
+Copyright for my video?
 
-How long does copyright last?
+How long is copyright?
 
 I have a different question
 
@@ -1620,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-Do I need permission?
+Get permission to post
 
-What is public domain?
+My content was removed
 
 I have a different question
 
@@ -1687,7 +1675,7 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
 
@@ -2018,9 +2006,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
+My content was stolen
 
-Contact designated agent
+Someone used my photo
 
 I have a different question
 
