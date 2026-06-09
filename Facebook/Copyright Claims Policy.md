@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
+My content was removed
+
 Report copyright violation
 
 Report trademark violation
-
-My content was removed
 
 What is intellectual property?
 
@@ -726,9 +726,9 @@ Copy link
 
 Report trademark infringement
 
-My trademark was infringed
+Fill out trademark form
 
-What is trademark infringement?
+Trademark dispute resolution
 
 I have a different question
 
@@ -992,13 +992,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What is my report number?
+My trademark report number
 
-Why was my report rejected?
+Respond to a report
 
-How do I respond to Meta?
+Information shared in report
 
-What information is shared?
+What happens after I report?
 
 I have a different question
 
@@ -1315,8 +1315,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-Rights Manager tool
 
 I have a different question
 
@@ -1752,11 +1750,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content with credit?
-
 What is fair use?
 
-What if I modified content?
+Can I use copyrighted content?
+
+What if I give credit?
 
 I have a different question
 
@@ -2006,9 +2004,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+My copyright was infringed
 
-Someone used my photo
+Contact designated agent
 
 I have a different question
 
