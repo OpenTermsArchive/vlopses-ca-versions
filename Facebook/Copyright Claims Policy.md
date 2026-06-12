@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
-My content was removed
-
 Report copyright violation
 
 Report trademark violation
+
+My content was removed
 
 What is intellectual property?
 
@@ -648,9 +648,9 @@ My account was disabled
 
 My Page was removed
 
-What is intellectual property?
+Why was my account disabled?
 
-My account disabled by mistake
+What is repeat infringer policy?
 
 I have a different question
 
@@ -924,13 +924,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-My trademark was infringed
+Submit a trademark claim
 
-Report trademark infringement
+What to include in report
 
-What is a trademark?
-
-How to find a URL?
+Find infringing content URL
 
 I have a different question
 
@@ -1159,9 +1157,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
 Restore removed content
 
@@ -1267,11 +1265,11 @@ Copy link
 
 Report intellectual property infringement
 
-My intellectual property was infringed
+Brand Rights Protection eligibility
 
-Brand Rights Protection tool
+Apply for Brand Rights Protection
 
-What is Brand Rights Protection?
+Trademark violation on Facebook
 
 I have a different question
 
@@ -1608,9 +1606,9 @@ Copy link
 
 What is fair use?
 
-Get permission to post
+Do I need permission?
 
-My content was removed
+What is public domain?
 
 I have a different question
 
@@ -2058,13 +2056,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
-
 Contact DMCA agent
 
-My copyright was infringed
+DMCA online form
 
-How to contact Meta DMCA
+DMCA contact information
+
+Complete copyright claim
 
 I have a different question
 
