@@ -50,16 +50,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What is a trademark?
-
-Report trademark infringement
-
-Brand Rights Protection
-
-Trademark law differences
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -1002,13 +992,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What is my report number?
+My trademark report number
 
-Why was my report rejected?
+Respond to a report
 
-How do I respond to Meta?
+Information shared in report
 
-What information is shared?
+What happens after I report?
 
 I have a different question
 
@@ -1065,7 +1055,9 @@ Report ad copyright
 
 Report ad trademark
 
-Report counterfeit ad
+Report ad counterfeit
+
+How to use Brand Rights Protection
 
 I have a different question
 
@@ -1169,9 +1161,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel copyright report
+Cancel my IP report
 
 Restore removed content
 
@@ -1325,8 +1317,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-Rights Manager tool
 
 I have a different question
 
@@ -1687,7 +1677,7 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
 
@@ -1824,11 +1814,13 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-Why was my video removed?
-
 My video was removed
 
+Why was my video removed?
+
 Video removed for copyright
+
+My video was taken down
 
 I have a different question
 
@@ -1965,9 +1957,9 @@ My content was removed
 
 File a counter-notification
 
-My content was restored
+Content restored after DMCA
 
-What is repeat infringer policy?
+What is DMCA?
 
 I have a different question
 
@@ -2070,13 +2062,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Send a DMCA report
+
 Contact DMCA agent
 
-DMCA online form
+My copyright was infringed
 
-DMCA contact information
-
-Complete copyright claim
+How to contact Meta DMCA
 
 I have a different question
 
@@ -2303,11 +2295,11 @@ Copy link
 
 Apply for Rights Manager
 
-Content protection for creators
+Protect my video content
 
-Actions for detected content
+Report copyrighted content
 
-Report copyright infringement
+What is Content Protection?
 
 I have a different question
 
