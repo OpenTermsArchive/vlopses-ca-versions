@@ -1159,9 +1159,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
 Restore removed content
 
@@ -1315,6 +1315,8 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
+
+Rights Manager tool
 
 I have a different question
 
@@ -1608,9 +1610,9 @@ Copy link
 
 What is fair use?
 
-Get permission to post
+Do I need permission?
 
-My content was removed
+What is public domain?
 
 I have a different question
 
@@ -1675,7 +1677,7 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
 
