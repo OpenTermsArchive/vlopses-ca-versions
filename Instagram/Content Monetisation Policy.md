@@ -3,16 +3,6 @@ Instagram Content Monetization Policies
 
 Copy link
 
-My content was not monetized
-
-Why was my content rejected?
-
-What are prohibited formats?
-
-What are restricted categories?
-
-I have a different question
-
 We offer features and products that help creators and publishers earn money from their content. This content has to follow certain rules.
 
 All content on Instagram must comply with our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content) and [Community Standards](https://transparency.meta.com/policies/community-standards/). These are our high-level rules against sexual, violent, profane or hateful content. However, content appropriate for Instagram in general is not necessarily appropriate for monetization.
@@ -189,16 +179,6 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-Check my eligibility
-
-Why was I ineligible?
-
-My monetization was removed
-
-What are content policies?
-
-I have a different question
-
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetization Policies. This is still the best place to learn about the rules for using Instagram's monetization tools.
 
 In order for creators and publishers to use Monetization or Promotional tools on Instagram from Meta (including Shopping from Creators), they must comply with a set of rules called Instagram Partner Monetization Policies. These rules apply to accounts, behaviors and payments. There is a separate set of policies, called [Instagram Content Monetization Policies](https://help.instagram.com/2635536099905516?helpref=faq_content), that apply specifically to monetized content.
@@ -255,10 +235,3 @@ Communications that are regulated as political advertising under applicable law 
 Monetized creators and publishers, and those that have not been onboarded to a monetization product, may lose the ability to monetize if an entity connected to it has repeatedly violated these policies.
 
 **Instagram from Meta reserves the right to modify, suspend or terminate access to, or discontinue the availability of, its content monetization features at any time.**
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
