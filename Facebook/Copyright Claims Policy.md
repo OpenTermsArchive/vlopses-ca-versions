@@ -14,13 +14,13 @@ Intellectual Property
 
 Copy link
 
-Report copyright violation
-
-Report trademark violation
-
 What is copyright?
 
 What is a trademark?
+
+Report copyright violation
+
+Report trademark violation
 
 I have a different question
 
@@ -192,7 +192,7 @@ What is trademark infringement?
 
 What is trademark dilution?
 
-My trademark was infringed
+What is likelihood of confusion?
 
 I have a different question
 
@@ -1293,9 +1293,7 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-Reported content by mistake
-
-I didn't get a confirmation
+I can't withdraw my report
 
 I have a different question
 
@@ -1786,11 +1784,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-Avoid copyright violations
+What is copyright infringement?
 
 What is fair use?
 
-Get permission to post
+How do I get permission?
+
+What is public domain content?
 
 I have a different question
 
@@ -1946,11 +1946,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+What is copyright infringement?
+
+Can I use copyrighted content?
 
 What is fair use?
-
-What is copyright infringement?
 
 I have a different question
 
@@ -2097,11 +2097,11 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
+Appeal content removal
 
-My content was removed
+Contact rights owner
 
-What is DMCA?
+DMCA counter-notification
 
 I have a different question
 
@@ -2228,7 +2228,7 @@ Report copyright infringement
 
 Contact designated agent
 
-Who can report copyright?
+Message content poster
 
 I have a different question
 
