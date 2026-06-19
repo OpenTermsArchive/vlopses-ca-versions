@@ -130,7 +130,9 @@ What is a trademark?
 
 What do trademarks protect?
 
-How do trademarks work?
+Report a trademark infringement
+
+What is trademark confusion?
 
 I have a different question
 
@@ -862,11 +864,9 @@ Copy link
 
 Report an infringement
 
-Report copyright infringement
+Report someone else's copyright
 
-Report trademark infringement
-
-Report someone else's IP
+Report someone else's trademark
 
 I have a different question
 
@@ -1417,6 +1417,8 @@ What is Brand Rights Protection?
 
 Apply for Brand Rights Protection
 
+My intellectual property was infringed
+
 I have a different question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across many of our platforms. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
@@ -1466,8 +1468,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-What is Rights Manager?
 
 I have a different question
 
@@ -1552,11 +1552,13 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
 
-My content was copied
+What is fair use?
 
 I have a different question
 
@@ -1866,7 +1868,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
+Can I use copyrighted material?
 
 I have a different question
 
@@ -2230,9 +2232,11 @@ Copy link
 
 Report copyright infringement
 
+What is copyright infringement?
+
 Contact designated agent
 
-Who can report copyright?
+I can't report copyright
 
 I have a different question
 
@@ -2419,14 +2423,6 @@ Facebook removed content as a result of my copyright report. What information is
 ============================================================================================================================
 
 Copy link
-
-What information is shared?
-
-Who receives my information?
-
-Can I change my email?
-
-I have a different question
 
 When we receive a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) through our online form and remove the reported content, we regularly provide the person who posted the content with the following information:
 
