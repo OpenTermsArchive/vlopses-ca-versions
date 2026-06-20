@@ -1030,11 +1030,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What to include in a report?
+Submit a trademark report
 
-Where do I submit a report?
+What to include in report
 
-What is a trademark?
+How to find a URL
 
 I have a different question
 
@@ -1105,9 +1105,9 @@ Copy link
 
 What happens after I report?
 
-Why was my report rejected?
+Respond to a report message
 
-Can I appeal a decision?
+What info is shared?
 
 I have a different question
 
@@ -1167,11 +1167,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad for infringement
+Report an ad
 
 Report ad copyright
 
-Report ad trademark
+Report intellectual property
 
 I have a different question
 
@@ -1295,9 +1295,9 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-I reported content by mistake
+Restore removed content
 
-How to use the Retraction Form
+I reported content by mistake
 
 I have a different question
 
@@ -1868,7 +1868,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
+Can I use copyrighted material?
 
 I have a different question
 
@@ -2101,9 +2101,7 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
-
-Contact rights owner
+Appeal removed content
 
 My content was removed
 
@@ -2556,7 +2554,7 @@ What is Rights Manager?
 
 What is content protection?
 
-What actions can I take?
+Report copyright infringement
 
 I have a different question
 
