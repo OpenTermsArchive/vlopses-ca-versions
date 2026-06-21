@@ -130,9 +130,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
-
-What is trademark confusion?
+How do trademarks work?
 
 I have a different question
 
@@ -1030,11 +1028,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-Submit a trademark report
+What to include in a report?
 
-What to include in report
+Where do I submit a report?
 
-How to find a URL
+What is a trademark?
 
 I have a different question
 
@@ -1105,9 +1103,9 @@ Copy link
 
 What happens after I report?
 
-Respond to a report message
+Why was my report rejected?
 
-What info is shared?
+Can I appeal a decision?
 
 I have a different question
 
@@ -1167,11 +1165,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad
+Report an ad for infringement
 
 Report ad copyright
 
-Report intellectual property
+Report ad trademark
 
 I have a different question
 
@@ -1295,9 +1293,9 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-Restore removed content
-
 I reported content by mistake
+
+How to use the Retraction Form
 
 I have a different question
 
@@ -1868,7 +1866,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
+How is fair use determined?
 
 I have a different question
 
@@ -1948,11 +1946,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is copyright infringement?
-
-Can I use copyrighted content?
+Can I violate copyright unintentionally?
 
 What is fair use?
+
+What if I gave credit?
 
 I have a different question
 
@@ -2101,7 +2099,9 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
+Appeal content removal
+
+Contact rights owner
 
 My content was removed
 
@@ -2230,11 +2230,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
-
 Contact designated agent
 
-I can't report copyright
+Who can report copyright?
 
 I have a different question
 
@@ -2554,7 +2552,7 @@ What is Rights Manager?
 
 What is content protection?
 
-Report copyright infringement
+What actions can I take?
 
 I have a different question
 
