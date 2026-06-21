@@ -130,7 +130,9 @@ What is a trademark?
 
 What do trademarks protect?
 
-How do trademarks work?
+Report a trademark infringement
+
+What is trademark confusion?
 
 I have a different question
 
@@ -423,9 +425,9 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What is a counterfeit good?
 
-Is selling counterfeits illegal?
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -1293,9 +1295,9 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-I reported content by mistake
+Restore removed content
 
-How to use the Retraction Form
+I reported content by mistake
 
 I have a different question
 
@@ -1552,11 +1554,13 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
 
-My content was copied
+What is fair use?
 
 I have a different question
 
@@ -1676,11 +1680,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-My copyright was infringed
+What are my copyright rights?
+
+My content was copied
+
+Stop others from copying
 
 What is copyright infringement?
-
-What is fair use?
 
 I have a different question
 
@@ -2230,9 +2236,11 @@ Copy link
 
 Report copyright infringement
 
+What is copyright infringement?
+
 Contact designated agent
 
-Who can report copyright?
+I can't report copyright
 
 I have a different question
 
