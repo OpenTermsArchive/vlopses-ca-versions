@@ -1554,11 +1554,13 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
 
-My content was copied
+What is fair use?
 
 I have a different question
 
@@ -2101,9 +2103,7 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
-
-Contact rights owner
+Appeal removed content
 
 My content was removed
 
@@ -2293,7 +2293,7 @@ Copy link
 
 Contact DMCA agent
 
-Report copyright infringement
+Send a copyright claim
 
 DMCA contact information
 
@@ -2548,13 +2548,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+Protect my video content
 
 What is Rights Manager?
 
 What is content protection?
 
-What actions can I take?
+I can't apply for tools
 
 I have a different question
 
