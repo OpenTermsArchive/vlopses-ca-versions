@@ -3,14 +3,6 @@ Intellectual Property
 
 Copy link
 
-Report a copyright violation
-
-Report a trademark violation
-
-What is intellectual property?
-
-I have a different question
-
 About Intellectual Property
 ---------------------------
 
@@ -56,7 +48,7 @@ Report copyright infringement
 
 Protect my copyrighted work
 
-What is copyright?
+What is copyright infringement?
 
 I have a different question
 
@@ -122,6 +114,16 @@ Resolve issues, make changes and get support in real time
 
 Trademark
 =========
+
+Report trademark infringement
+
+What do trademarks protect?
+
+Avoid trademark infringement
+
+What is trademark law?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -484,6 +486,16 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 
 Copy link
 
+How do I file a counter-notification?
+
+What happens after I file?
+
+How long does the process take?
+
+My content wasn't restored
+
+I have a different question
+
 Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
 If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the messages we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
@@ -509,16 +521,6 @@ Report copyright infringement on Instagram or Threads
 
 Copy link
 
-Report copyright infringement
-
-How to report copyright
-
-What is Brand Rights Protection?
-
-What is DMCA?
-
-I have a different question
-
 If you believe content on Instagram or Threads is infringing your copyright, you can take one or more of the following actions:
 
 *   You can report copyright infringement by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
@@ -543,16 +545,6 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
-
-Consider before submitting report
-
-What is permissible use?
-
-Legal consequences of false report
-
-What is copyright infringement?
-
-I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -861,6 +853,16 @@ What is a counterfeit?
 
 Copy link
 
+Report counterfeit goods
+
+What is a counterfeit good?
+
+How to identify counterfeit?
+
+What is trademark infringement?
+
+I have a different question
+
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit good is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe content on Instagram or Threads is selling or promoting counterfeit goods, you can report it to us [by filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/) or by using the [Brand Rights Protection tool](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), which enables a rights holder to identify and report violating content for trademark, copyright, and counterfeit.
@@ -1090,16 +1092,6 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-Consider before submitting report
-
-What is permissible use?
-
-Legal consequences of false report
-
-What is copyright infringement?
-
-I have a different question
-
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
 
@@ -1207,14 +1199,6 @@ Information you need to include in a trademark report on Instagram or Threads
 =============================================================================
 
 Copy link
-
-What info do I need?
-
-Where do I submit a report?
-
-What is a trademark?
-
-I have a different question
 
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
@@ -1330,9 +1314,11 @@ How to appeal the removal of content on Instagram or Threads for copyright reaso
 
 Appeal content removal
 
-DMCA counter-notification
+Submit DMCA counter-notification
 
 My appeal was rejected
+
+What is AGCOM?
 
 I have a different question
 
