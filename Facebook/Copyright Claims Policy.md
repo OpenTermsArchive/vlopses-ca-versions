@@ -916,11 +916,11 @@ Copy link
 
 Report a username
 
+My trademark is infringed
+
 What is trademark infringement?
 
 Contact username owner
-
-Can I report a Page?
 
 I have a different question
 
@@ -1554,11 +1554,13 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
 
-My content was copied
+What is fair use?
 
 I have a different question
 
@@ -1868,7 +1870,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
+Can I use copyrighted material?
 
 I have a different question
 
@@ -1948,11 +1950,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is copyright infringement?
-
-Can I use copyrighted content?
+Can I violate copyright unintentionally?
 
 What is fair use?
+
+What if I gave credit?
 
 I have a different question
 
