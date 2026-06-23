@@ -299,14 +299,6 @@ How to make sure content you post to Instagram or Threads doesn't violate copyri
 
 Copy link
 
-How to avoid copyright violation?
-
-What is copyright infringement?
-
-Can I use content I bought?
-
-I have a different question
-
 Under Instagram’s [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads that doesn’t violate someone else's intellectual property rights. The best way to help make sure that what you post to Instagram or Threads doesn’t violate copyright law is to only post content that you’ve created yourself.
 
 Posting content that facilitates copyright infringement through unauthorized devices or services is also not allowed on Instagram or Threads.
@@ -526,14 +518,6 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is permissible use?
-
-What are legal consequences?
-
-Report copyright infringement
-
-I have a different question
-
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
 
@@ -739,14 +723,6 @@ More about trademarks and what they protect
 ===========================================
 
 Copy link
-
-What is a trademark?
-
-What do trademarks protect?
-
-Can I use a trademark?
-
-I have a different question
 
 A trademark is a word, slogan, symbol or design (for example, a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether in stores shopping, watching commercials on TV and so on.
 
@@ -1086,14 +1062,6 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
-What is permissible use?
-
-What are legal consequences?
-
-Report copyright infringement
-
-I have a different question
-
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
 
@@ -1201,6 +1169,14 @@ Information you need to include in a trademark report on Instagram or Threads
 =============================================================================
 
 Copy link
+
+What info do I need?
+
+Where do I submit a report?
+
+What is a trademark?
+
+I have a different question
 
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
