@@ -3,6 +3,14 @@ Intellectual Property
 
 Copy link
 
+Report a copyright violation
+
+Report a trademark violation
+
+What is intellectual property?
+
+I have a different question
+
 About Intellectual Property
 ---------------------------
 
@@ -1170,14 +1178,6 @@ Information you need to include in a trademark report on Instagram or Threads
 
 Copy link
 
-What info do I need?
-
-Where do I submit a report?
-
-What is a trademark?
-
-I have a different question
-
 The fastest and easiest way to submit a [report of trademark infringement](https://help.instagram.com/1921828231475726?helpref=faq_content) to us is to use our online form. Whether you submit your report through our online form or another method, Instagram and Threads needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address, and phone number)\*.
@@ -1265,6 +1265,14 @@ Instagram or Threads removed content as a result of your trademark report. What 
 =========================================================================================================================================
 
 Copy link
+
+What information is sent?
+
+What is a report number?
+
+What is a rights owner?
+
+I have a different question
 
 When we receive [trademark infringement reports](https://help.instagram.com/1921828231475726?helpref=faq_content) and remove the reported content, we provide the reported user with the following information:
 
