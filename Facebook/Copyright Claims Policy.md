@@ -804,9 +804,9 @@ Copy link
 
 Report trademark infringement
 
-Fill out trademark form
-
 What is trademark infringement?
+
+How to report trademark?
 
 I have a different question
 
@@ -1554,13 +1554,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
 What is not protected?
 
-What is fair use?
+My content was copied
 
 I have a different question
 
@@ -1950,11 +1948,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+What is copyright infringement?
+
+Can I use copyrighted content?
 
 What is fair use?
-
-What if I gave credit?
 
 I have a different question
 
@@ -2103,7 +2101,9 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
+Appeal content removal
+
+Contact rights owner
 
 My content was removed
 
@@ -2293,7 +2293,7 @@ Copy link
 
 Contact DMCA agent
 
-Send a copyright claim
+Report copyright infringement
 
 DMCA contact information
 
@@ -2548,13 +2548,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Protect my video content
+Apply for Rights Manager
 
 What is Rights Manager?
 
 What is content protection?
 
-I can't apply for tools
+What actions can I take?
 
 I have a different question
 
