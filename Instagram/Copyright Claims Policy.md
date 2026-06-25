@@ -3,6 +3,16 @@ Intellectual Property
 
 Copy link
 
+Report copyright violation
+
+Report trademark violation
+
+What is copyright?
+
+What is a trademark?
+
+I have a different question
+
 About Intellectual Property
 ---------------------------
 
@@ -43,6 +53,14 @@ Resolve issues, make changes and get support in real time
 
 Copyright
 =========
+
+Report copyright infringement
+
+Protect my copyrighted work
+
+What is copyright?
+
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
@@ -226,7 +244,7 @@ I created a work
 
 Employer owns my work
 
-Contact an attorney
+Contact a lawyer
 
 I have a different question
 
@@ -259,6 +277,8 @@ What are my copyright rights?
 Stop others from copying
 
 What is copyright infringement?
+
+Grant permission to use
 
 I have a different question
 
@@ -607,9 +627,11 @@ Copy link
 
 Report copyright infringement
 
-Fill out copyright form
+How to report copyright
 
-Use Brand Rights Protection
+What is Brand Rights Protection?
+
+What is DMCA?
 
 I have a different question
 
@@ -872,9 +894,9 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-Withdraw a trademark report
+Withdraw my trademark report
 
-I can't withdraw my report
+I reported content by mistake
 
 I have a different question
 
@@ -1589,9 +1611,9 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-Withdraw a trademark report
+Withdraw my trademark report
 
-I can't withdraw my report
+I reported content by mistake
 
 I have a different question
 
