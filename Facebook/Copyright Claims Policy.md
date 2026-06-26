@@ -425,9 +425,9 @@ Copy link
 
 Report counterfeit goods
 
-What is a counterfeit good?
+What is trademark infringement?
 
-Counterfeit sales on Facebook
+Is selling counterfeits illegal?
 
 I have a different question
 
@@ -864,9 +864,11 @@ Copy link
 
 Report an infringement
 
-Report someone else's copyright
+Report copyright infringement
 
-Report someone else's trademark
+Report trademark infringement
+
+Report someone else's IP
 
 I have a different question
 
@@ -1469,8 +1471,6 @@ Protect my copyrighted work
 
 What is copyright?
 
-What is Rights Manager?
-
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -1554,13 +1554,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
 What is not protected?
 
-What is fair use?
+My content was copied
 
 I have a different question
 
@@ -2234,9 +2232,11 @@ Copy link
 
 Report copyright infringement
 
+What is copyright infringement?
+
 Contact designated agent
 
-Who can report copyright?
+I can't report copyright
 
 I have a different question
 
@@ -2486,14 +2486,6 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What is a report number?
-
-What happens to my report?
-
-Why do you share my info?
-
-I have a different question
-
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -2550,13 +2542,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+Protect my video content
 
 What is Rights Manager?
 
 What is content protection?
 
-What actions can I take?
+I can't apply for tools
 
 I have a different question
 
