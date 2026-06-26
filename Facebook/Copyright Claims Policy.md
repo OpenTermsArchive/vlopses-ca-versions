@@ -425,9 +425,9 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What is a counterfeit good?
 
-Is selling counterfeits illegal?
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -804,9 +804,9 @@ Copy link
 
 Report trademark infringement
 
-What is trademark infringement?
+Fill out trademark form
 
-How to report trademark?
+What is trademark infringement?
 
 I have a different question
 
@@ -862,15 +862,13 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-Signaler une violation de droit d'auteur
+Report an infringement
 
-Signaler une violation de marque
+Report someone else's copyright
 
-Signaler une photo ou vidéo
+Report someone else's trademark
 
-Je ne peux pas signaler
-
-J'ai une autre question
+I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Facebook infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
@@ -1952,11 +1950,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+What is copyright infringement?
+
+Can I use copyrighted content?
 
 What is fair use?
-
-What if I gave credit?
 
 I have a different question
 
@@ -2236,11 +2234,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
-
 Contact designated agent
 
-I can't report copyright
+Who can report copyright?
 
 I have a different question
 
