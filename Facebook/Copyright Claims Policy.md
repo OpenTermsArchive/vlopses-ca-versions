@@ -311,11 +311,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark vs business registration
+What is a trademark registration?
 
-What is a trademark?
+What is a business registration?
 
-Register a trademark in the US
+Do I need both registrations?
+
+Where do I register a trademark?
 
 I have a different question
 
@@ -1353,9 +1355,9 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What info is sent?
+What information is shared?
 
-Who receives my info?
+Who sees my information?
 
 Can I appeal removed content?
 
@@ -1651,7 +1653,7 @@ Related Articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Related Articles
 
@@ -1663,7 +1665,7 @@ Related Articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1796,13 +1798,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-Avoid copyright violations
+What is copyright infringement?
+
+Can I use content with permission?
 
 What is fair use?
 
-Do I need permission?
-
-What is public domain?
+What is public domain content?
 
 I have a different question
 
@@ -1876,7 +1878,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
+Is my use fair use?
 
 I have a different question
 
@@ -2174,13 +2176,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a counter-notification
+File a DMCA counter-notification
 
 My content was removed
 
-What is DMCA?
+What is a counter-notification?
 
-How long does restoration take?
+How long does this take?
 
 I have a different question
 
