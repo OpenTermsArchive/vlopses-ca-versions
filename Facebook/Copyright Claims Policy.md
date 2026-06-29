@@ -311,11 +311,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark vs business registration
+What is a trademark registration?
 
-What is a trademark?
+What is a business registration?
 
-Register a trademark in the US
+Do I need both registrations?
+
+Where do I register a trademark?
 
 I have a different question
 
@@ -506,9 +508,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Related Articles
 
@@ -518,9 +520,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -864,7 +866,7 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-Report an infringement
+Report an intellectual property infringement
 
 Report someone else's copyright
 
@@ -2027,9 +2029,7 @@ My video was removed
 
 Why was my video removed?
 
-I didn't get an email
-
-What is copyrighted content?
+I have rights to content
 
 I have a different question
 
