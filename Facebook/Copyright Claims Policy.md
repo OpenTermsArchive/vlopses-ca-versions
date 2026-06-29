@@ -425,9 +425,9 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What are counterfeit goods?
 
-Is selling counterfeits illegal?
+Selling counterfeit goods
 
 I have a different question
 
@@ -808,7 +808,7 @@ Copy link
 
 Report trademark infringement
 
-Fill out trademark form
+How to report infringement?
 
 What is trademark infringement?
 
@@ -1624,11 +1624,9 @@ Copy link
 
 Who owns my original work?
 
-What is an original work?
+What is copyright?
 
-I created a work for my job
-
-What if I'm in a photo?
+Can I copyright a photo?
 
 I have a different question
 
@@ -2029,7 +2027,9 @@ My video was removed
 
 Why was my video removed?
 
-I have rights to content
+I didn't get an email
+
+What is copyrighted content?
 
 I have a different question
 
@@ -2301,7 +2301,7 @@ Contact DMCA agent
 
 Report copyright infringement
 
-What is a DMCA claim?
+What is a complete claim?
 
 I have a different question
 
