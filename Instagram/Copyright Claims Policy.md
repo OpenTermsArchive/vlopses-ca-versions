@@ -44,15 +44,13 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-Signaler une violation de droits d'auteur
+Report copyright infringement
 
-Protéger mes œuvres
+Protect my copyrighted work
 
-Qu'est-ce qu'un droit d'auteur ?
+What is copyright?
 
-Mon contenu a été supprimé
-
-J'ai une autre question
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Instagram and Threads address reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/copyright/).
 
@@ -116,14 +114,6 @@ Resolve issues, make changes and get support in real time
 
 Trademark
 =========
-
-Report trademark infringement
-
-What do trademarks protect?
-
-Avoid trademark infringement
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks protect, how to avoid infringing the trademarks of others when posting to Instagram or Threads, and how Instagram or Threads address reported trademark infringement. If you believe someone is infringing on your trademark, you can report it to us by [filling out this form](https://www.instagram.com/help/ipreporting/report/trademark/).
 
@@ -297,6 +287,14 @@ The difference between copyright and trademark
 
 Copy link
 
+What is copyright?
+
+What is trademark?
+
+Copyright vs trademark infringement
+
+I have a different question
+
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
@@ -316,14 +314,6 @@ How to make sure content you post to Instagram or Threads doesn't violate copyri
 =======================================================================================
 
 Copy link
-
-How to avoid copyright violation?
-
-Can I use content I bought?
-
-What is fair use?
-
-I have a different question
 
 Under Instagram’s [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads that doesn’t violate someone else's intellectual property rights. The best way to help make sure that what you post to Instagram or Threads doesn’t violate copyright law is to only post content that you’ve created yourself.
 
@@ -465,14 +455,6 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 
 Copy link
 
-My account was disabled
-
-What is repeat infringer policy?
-
-My content was restored
-
-I have a different question
-
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
 Repeat Infringer Policy
@@ -501,16 +483,6 @@ How Instagram and Threads process United States Digital Millennium Copyright Act
 =============================================================================================================
 
 Copy link
-
-File a counter-notification
-
-What is a counter-notification?
-
-My content was removed
-
-How long does this take?
-
-I have a different question
 
 Instagram and Threads comply with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
@@ -913,6 +885,14 @@ The difference between copyright and trademark
 
 Copy link
 
+What is copyright?
+
+What is trademark?
+
+Copyright vs trademark infringement
+
+I have a different question
+
 The law in most countries recognizes copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright is](https://help.instagram.com/745146219025379?helpref=faq_content) meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works like photos, videos, movies and music. It’s also important to note that, in the U.S., the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn’t apply to trademarks.
@@ -978,14 +958,6 @@ What happens if you repeatedly post content on Instagram or Threads that violate
 =============================================================================================================================
 
 Copy link
-
-My account was disabled
-
-What is repeat infringer policy?
-
-My content was restored
-
-I have a different question
 
 By using Instagram or Threads, you have agreed to our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content), which prohibit people from taking any action on Instagram or Threads that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -1055,14 +1027,6 @@ How to report a username on Instagram or Threads for infringing my trademark
 ============================================================================
 
 Copy link
-
-Report a username
-
-What is trademark infringement?
-
-Contact username owner
-
-I have a different question
 
 [Usernames are](https://help.instagram.com/182492381886913/?helpref=faq_content) generally claimed on a first-come, first-served basis. This means that you may see an Instagram or Threads account that includes your trademark in its username. While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. The same word used in a different context may not violate your trademark. See [“What is trademark infringement?”](https://help.instagram.com/1904208239817294?helpref=faq_content) to learn more.
 
@@ -1309,6 +1273,14 @@ Instagram or Threads removed content as a result of your trademark report. What 
 =========================================================================================================================================
 
 Copy link
+
+What information is sent?
+
+What is a report number?
+
+What is a rights owner?
+
+I have a different question
 
 When we receive [trademark infringement reports](https://help.instagram.com/1921828231475726?helpref=faq_content) and remove the reported content, we provide the reported user with the following information:
 
