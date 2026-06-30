@@ -665,7 +665,7 @@ What is trademark infringement?
 
 How to avoid trademark issues?
 
-What content violates trademark law?
+What content violates trademark?
 
 I have a different question
 
@@ -2006,13 +2006,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-Avoid copyright violations
+What is copyright infringement?
+
+Can I use content with permission?
 
 What is fair use?
 
-Do I need permission?
-
-What is public domain?
+What is public domain content?
 
 I have a different question
 
@@ -2094,7 +2094,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
+Is my use fair use?
 
 I have a different question
 
@@ -2261,7 +2261,9 @@ My video was removed
 
 Why was my video removed?
 
-I have rights to content
+I didn't get an email
+
+What is copyrighted content?
 
 I have a different question
 
@@ -2349,11 +2351,11 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
+Appeal content removal
 
 My content was removed
 
-What is DMCA?
+What is intellectual property?
 
 I have a different question
 
