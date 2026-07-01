@@ -665,7 +665,7 @@ What is trademark infringement?
 
 How to avoid trademark issues?
 
-What content violates trademark?
+What content violates trademark law?
 
 I have a different question
 
@@ -896,7 +896,7 @@ Copy link
 
 Report trademark infringement
 
-How to report infringement?
+Fill out trademark form
 
 What is trademark infringement?
 
@@ -1237,7 +1237,9 @@ Copy link
 
 What happens after I report?
 
-How do I respond to a report?
+Why was my report rejected?
+
+Can I appeal a decision?
 
 What info is shared?
 
@@ -2259,9 +2261,7 @@ My video was removed
 
 Why was my video removed?
 
-I didn't get an email
-
-What is copyrighted content?
+I have rights to content
 
 I have a different question
 
