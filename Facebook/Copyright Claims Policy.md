@@ -896,7 +896,7 @@ Copy link
 
 Report trademark infringement
 
-Fill out trademark form
+How to report infringement?
 
 What is trademark infringement?
 
@@ -1237,9 +1237,7 @@ Copy link
 
 What happens after I report?
 
-Why was my report rejected?
-
-Can I appeal a decision?
+How do I respond to a report?
 
 What info is shared?
 
@@ -2006,13 +2004,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is copyright infringement?
-
-Can I use content with permission?
+Avoid copyright violations
 
 What is fair use?
 
-What is public domain content?
+Do I need permission?
+
+What is public domain?
 
 I have a different question
 
