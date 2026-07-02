@@ -465,9 +465,9 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What are counterfeit goods?
 
-Is selling counterfeits illegal?
+Selling counterfeit goods
 
 I have a different question
 
@@ -665,7 +665,7 @@ What is trademark infringement?
 
 How to avoid trademark issues?
 
-What content violates trademark law?
+What content violates trademark?
 
 I have a different question
 
@@ -1453,9 +1453,7 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-I reported content by mistake
-
-I didn't get a retraction form
+How to use Retraction Form?
 
 I have a different question
 
@@ -1587,11 +1585,9 @@ Copy link
 
 Report intellectual property infringement
 
-Brand Rights Protection eligibility
+What is Brand Rights Protection?
 
 Apply for Brand Rights Protection
-
-What is Brand Rights Protection?
 
 I have a different question
 
@@ -2094,7 +2090,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Is my use fair use?
+Can I use copyrighted material?
 
 I have a different question
 
