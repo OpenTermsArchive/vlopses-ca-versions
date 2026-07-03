@@ -267,7 +267,7 @@ Express Shipping
 
 CA$26.00
 
-4 - 10 days
+4 - 9 days
 
 Shipping options
 ----------------
