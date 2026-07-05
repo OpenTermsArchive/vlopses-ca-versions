@@ -196,11 +196,13 @@ What is trademark infringement?
 
 Copy link
 
+What is trademark infringement?
+
 What is trademark dilution?
 
-What is likelihood of confusion?
+My trademark was infringed
 
-What are limits to trademark rights?
+What are trademark limits?
 
 I have a different question
 
@@ -896,7 +898,7 @@ Report trademark infringement
 
 What is trademark infringement?
 
-How to fill out form?
+I can't report infringement
 
 I have a different question
 
@@ -2006,9 +2008,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content I bought?
-
 What is fair use?
+
+How do I get permission?
+
+What is public domain content?
 
 I have a different question
 
@@ -2496,9 +2500,9 @@ Copy link
 
 Report copyright infringement
 
-Contact designated agent
+What is copyright infringement?
 
-Who can report copyright?
+Contact designated agent
 
 I have a different question
 
