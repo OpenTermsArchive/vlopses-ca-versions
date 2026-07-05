@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -801,9 +801,9 @@ My account was disabled
 
 My Page was removed
 
-What is intellectual property?
+What is repeat infringer policy?
 
-What are feature limits?
+My post was restored
 
 I have a different question
 
@@ -896,7 +896,7 @@ Report trademark infringement
 
 What is trademark infringement?
 
-I can't report infringement
+How to fill out form?
 
 I have a different question
 
@@ -2006,11 +2006,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use content I bought?
+
 What is fair use?
-
-How do I get permission?
-
-What is public domain content?
 
 I have a different question
 
@@ -2182,9 +2180,11 @@ Copy link
 
 Can I violate copyright unintentionally?
 
-What is copyright infringement?
-
 What is fair use?
+
+Can I use downloaded content?
+
+What if I give credit?
 
 I have a different question
 
