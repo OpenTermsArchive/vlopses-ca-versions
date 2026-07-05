@@ -265,7 +265,9 @@ FREE on almost all orders
 
 Express Shipping
 
-CA$26.00
+CA$26.00 - orders < CA$129.00
+
+Free - orders ≥ CA$129.00
 
 4 - 9 days
 
