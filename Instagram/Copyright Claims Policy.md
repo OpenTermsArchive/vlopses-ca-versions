@@ -274,6 +274,16 @@ How long does copyright protection last?
 
 Copy link
 
+What is public domain?
+
+When does copyright expire?
+
+How long does copyright last?
+
+What is the Berne Convention?
+
+I have a different question
+
 Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it’s freely available for anyone to use.
 
 A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
@@ -459,16 +469,6 @@ What to do if content you posted on Instagram or Threads gets removed because it
 
 Copy link
 
-My content was removed
-
-Appeal a copyright removal
-
-Contact rights owner
-
-What is intellectual property?
-
-I have a different question
-
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
 If your content was removed because of a copyright report, you can submit an appeal. Learn more about [our appeals process](https://www.facebook.com/help/instagram/1417735471763678?locale=en_US&helpref=faq_content) or [how to use music in your videos on Instagram or Threads.](https://www.facebook.com/help/instagram/629037417957828?helpref=faq_content)
@@ -576,6 +576,14 @@ What to consider before submitting an intellectual property infringement report 
 
 Copy link
 
+Submit copyright report
+
+Submit trademark report
+
+Legal consequences of reporting
+
+I have a different question
+
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
 
@@ -607,6 +615,16 @@ Can I report an infringement of someone else’s intellectual property on Instag
 =============================================================================================
 
 Copy link
+
+Report intellectual property infringement
+
+Report someone else's IP
+
+I can't report for others
+
+What is intellectual property?
+
+I have a different question
 
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
@@ -754,16 +772,6 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 
 Copy link
 
-Withdraw my IP report
-
-Cancel my copyright report
-
-Withdraw my trademark report
-
-I can't withdraw my report
-
-I have a different question
-
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the Retraction Form provided to you in the email with reference to your report. Alternatively, you can submit [this form](https://help.instagram.com/contact/3373960976225657).
@@ -783,14 +791,6 @@ More about trademarks and what they protect
 ===========================================
 
 Copy link
-
-What is a trademark?
-
-What do trademarks protect?
-
-Can I use a trademark?
-
-I have a different question
 
 A trademark is a word, slogan, symbol or design (for example, a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether in stores shopping, watching commercials on TV and so on.
 
@@ -855,14 +855,6 @@ What is the difference between a trademark registration and a business registrat
 ====================================================================================
 
 Copy link
-
-What is a trademark registration?
-
-What is a business registration?
-
-What is the USPTO?
-
-I have a different question
 
 In some countries or states in the U.S., a business might be able to register with a government office, or obtain a permit or license to do business in that country or state. These registrations, such as ones issued by a state’s Secretary of State, generally aren’t the same as a trademark registration, and may not themselves create trademark rights for the business. In the U.S., the registration that’s frequently used to establish trademark ownership is one that is issued by the United States Patent and Trademark Office (USPTO).
 
@@ -973,6 +965,16 @@ How to make sure the content you post to Instagram or Threads don't violate trad
 
 Copy link
 
+My content violates trademark
+
+What is trademark infringement?
+
+How to avoid trademark issues?
+
+Can I use a trademarked word?
+
+I have a different question
+
 Under Instagram's [Terms of Use](https://help.instagram.com/478745558852511) and Meta's [Community Standards](https://transparency.meta.com/policies/community-standards) you can only post content to Instagram or Threads if it doesn't violate the intellectual property rights of another party, including trademarks. Please note that as an Instagram or Threads user, you are responsible for the content you post. If your content violates Threads or Instagram's policies or is reported to Instagram or Threads as infringing the intellectual property rights of another party, Instagram or Threads may remove that content.
 
 Before you post content, you might want to ask:
@@ -995,16 +997,6 @@ Content I posted on Instagram or Threads was removed because it was reported for
 ============================================================================================================================================
 
 Copy link
-
-My content was removed
-
-Appeal content removal
-
-My content was copyright removed
-
-My content was trademark removed
-
-I have a different question
 
 If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
@@ -1082,6 +1074,16 @@ Can I report an infringement of someone else’s intellectual property on Instag
 
 Copy link
 
+Report intellectual property infringement
+
+Report someone else's IP
+
+I can't report for others
+
+What is intellectual property?
+
+I have a different question
+
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Instagram or Threads infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
 Other ways to get help
@@ -1147,6 +1149,14 @@ What to consider before submitting an intellectual property infringement report 
 =======================================================================================================
 
 Copy link
+
+Submit copyright report
+
+Submit trademark report
+
+Legal consequences of reporting
+
+I have a different question
 
 **Consider your copyright and trademark permissions**
 -----------------------------------------------------
@@ -1330,16 +1340,6 @@ Retract an intellectual property report that you've submitted to Instagram or Th
 =====================================================================================
 
 Copy link
-
-Withdraw my IP report
-
-Cancel my copyright report
-
-Withdraw my trademark report
-
-I can't withdraw my report
-
-I have a different question
 
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
