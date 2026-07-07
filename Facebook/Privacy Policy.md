@@ -1246,7 +1246,7 @@ To exercise your rights, visit our Help Centers, your settings for Facebook and 
 
 [](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-64)[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-12%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-65)
 
-You can learn more about how privacy works on [Facebook](https://www.facebook.com/privacy/center/) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage), and in the [Facebook Help Center](https://www.facebook.com/help/?entry_point=POLICY_SECTION%3A6-HowCanYouManage). If you have questions about this policy, you can [contact us](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy%3Fentry_point%3DPOLICY_SECTION%253A6-HowCanYouManage) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
+You can learn more about how privacy works on [Facebook](https://www.facebook.com/privacy/center/) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage), and in the [Facebook Help Center](https://www.facebook.com/help/?entry_point=POLICY_SECTION%3A6-HowCanYouManage). If you have questions about this policy, you can [contact us](https://help.meta.com/support/privacy?entry_point=POLICY_SECTION%3A6-HowCanYouManage) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
 
 63
 
@@ -1540,7 +1540,7 @@ How to contact Meta with questions
 
 You can learn more about how privacy works on [Facebook](https://www.facebook.com/help/238318146535333?entry_point=POLICY_SECTION%3A13-HowToContactMeta) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp%26entry_point%3DPOLICY_SECTION%253A13-HowToContactMeta) and in the [Facebook Help Center](https://www.facebook.com/help/?entry_point=POLICY_SECTION%3A13-HowToContactMeta). If you have questions about this Policy or have questions, complaints or requests regarding your information, you can contact us as described below.
 
-You can contact us [online](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy%3Fentry_point%3DPOLICY_SECTION%253A13-HowToContactMeta) or by mail at:
+You can contact us [online](https://help.meta.com/support/privacy?entry_point=POLICY_SECTION%3A13-HowToContactMeta) or by mail at:
 
 Meta Platforms, Inc.
 
