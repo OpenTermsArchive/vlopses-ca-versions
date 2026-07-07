@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -196,13 +196,11 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark infringement?
-
 What is trademark dilution?
 
-My trademark was infringed
+What is likelihood of confusion?
 
-What are trademark limits?
+What are limits to trademark rights?
 
 I have a different question
 
@@ -401,11 +399,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long do my rights last?
+How long do trademark rights last?
 
 How do I renew my trademark?
 
-What if I stop using it?
+Can I lose my trademark rights?
 
 I have a different question
 
@@ -898,7 +896,7 @@ Report trademark infringement
 
 What is trademark infringement?
 
-I can't report infringement
+How to fill out form?
 
 I have a different question
 
@@ -963,8 +961,6 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 Copy link
 
 Report an infringement
-
-My intellectual property infringed
 
 Report someone else's copyright
 
@@ -2008,9 +2004,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content I bought?
-
 What is fair use?
+
+How do I get permission?
+
+What is public domain content?
 
 I have a different question
 
@@ -2092,7 +2090,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
+How is fair use determined?
 
 I have a different question
 
@@ -2498,9 +2496,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
-
 Contact designated agent
+
+Who can report copyright?
 
 I have a different question
 
@@ -2779,16 +2777,6 @@ What happens when you submit a copyright report to Meta
 =======================================================
 
 Copy link
-
-What is my report number?
-
-Ask for more information
-
-What information is shared?
-
-Can I appeal a decision?
-
-I have a different question
 
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
