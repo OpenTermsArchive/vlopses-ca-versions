@@ -399,11 +399,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
+How long do my rights last?
 
 How do I renew my trademark?
 
-Can I lose my trademark rights?
+What if I stop using it?
 
 I have a different question
 
@@ -896,7 +896,7 @@ Report trademark infringement
 
 What is trademark infringement?
 
-How to fill out form?
+I can't report infringement
 
 I have a different question
 
@@ -961,6 +961,8 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 Copy link
 
 Report an infringement
+
+My intellectual property infringed
 
 Report someone else's copyright
 
@@ -1447,9 +1449,7 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-Reported content by mistake
-
-I can't withdraw my report
+How to use Retraction Form?
 
 I have a different question
 
@@ -2708,11 +2708,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is sent?
+What information is provided?
 
-Who sees my email?
+Who receives my information?
 
-How to appeal a removal?
+Why was my content removed?
 
 I have a different question
 
@@ -2777,6 +2777,16 @@ What happens when you submit a copyright report to Meta
 =======================================================
 
 Copy link
+
+What is my report number?
+
+Ask for more information
+
+What information is shared?
+
+Can I appeal a decision?
+
+I have a different question
 
 If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
