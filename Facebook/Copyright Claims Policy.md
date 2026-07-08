@@ -1449,7 +1449,9 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-How to use Retraction Form?
+Reported content by mistake
+
+I can't withdraw my report
 
 I have a different question
 
@@ -1726,11 +1728,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
-
-My content was copied
 
 What is fair use?
 
@@ -2708,11 +2710,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What information is provided?
+What info is sent?
 
-Who receives my information?
+Who sees my email?
 
-Why was my content removed?
+How to appeal a removal?
 
 I have a different question
 
