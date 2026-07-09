@@ -1237,9 +1237,9 @@ Copy link
 
 What happens after I report?
 
-Respond to a report message
+I need my report number
 
-What info is shared?
+Why was my report rejected?
 
 I have a different question
 
@@ -1643,7 +1643,7 @@ Report copyright infringement
 
 Protect my copyrighted work
 
-What is copyright?
+What is copyright infringement?
 
 I have a different question
 
@@ -2182,11 +2182,9 @@ Copy link
 
 Can I violate copyright unintentionally?
 
+What is copyright infringement?
+
 What is fair use?
-
-Can I use downloaded content?
-
-What if I give credit?
 
 I have a different question
 
@@ -2261,9 +2259,9 @@ My video was removed
 
 Why was my video removed?
 
-I have rights to content
-
 I didn't get an email
+
+My video had no copyright
 
 I have a different question
 
@@ -2498,9 +2496,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
-
 Contact designated agent
+
+Who can report copyright?
 
 I have a different question
 
