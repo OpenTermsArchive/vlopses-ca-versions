@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -463,11 +463,11 @@ Copy link
 
 Report counterfeit goods
 
-What is a counterfeit good?
-
-Report selling counterfeit goods
-
 What is trademark infringement?
+
+Is selling counterfeits illegal?
+
+How to identify a counterfeit?
 
 I have a different question
 
@@ -1237,9 +1237,9 @@ Copy link
 
 What happens after I report?
 
-I need my report number
+Respond to a report message
 
-Why was my report rejected?
+What info is shared?
 
 I have a different question
 
@@ -2261,9 +2261,9 @@ My video was removed
 
 Why was my video removed?
 
-I didn't get an email
+I have rights to content
 
-My video had no copyright
+I didn't get an email
 
 I have a different question
 
@@ -2426,13 +2426,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is DMCA?
+File a DMCA counter-notification
 
-How do I file a counter-notification?
+My content was removed
 
-My content was removed by mistake
+What happens after counter-notification?
 
-How long does DMCA process take?
+How long does restoration take?
 
 I have a different question
 
@@ -2498,9 +2498,9 @@ Copy link
 
 Report copyright infringement
 
-Contact designated agent
+What is copyright infringement?
 
-Who can report copyright?
+Contact designated agent
 
 I have a different question
 
